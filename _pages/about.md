@@ -43,7 +43,7 @@ redirect_from:
 1.  `Yuntao Wang`, Zhou Su, Qichao Xu, Ruidong Li, and Tom H. Luan, "Lifesaving with RescueChain: Energy-Efficient and Partition-Tolerant Blockchain Based Secure Information Sharing for UAV-Aided Disaster Rescue," *Proceedings of IEEE INFOCOM*, 2021: 1-10 网络通信领域顶级会议，入选ESI高被引论文（全球引用率前1%）
 1.  Zhou Su （申请人博士导师）, `Yuntao Wang`, Qichao Xu, and Ning Zhang, "LVBS: Lightweight Vehicular Blockchain for Secure Data Sharing in Disaster Rescue," *IEEE Transactions on Dependable and Secure Computing*, 19(1): 19-32 (2022) 网络与信息安全领域顶级期刊，影响因子7.3，入选ESI热点论文（全球引用率前0.1%），谷歌学术被引100余次）
 2.  `Yuntao Wang`, Zhou Su, Yanghe Pan, Tom H. Luan, Ruidong Li, and Shui Yu, "Social-aware clustered federated learning with customized privacy preservation," *IEEE/ACM Transactions on Networking*, DOI: 10.1109/TNET.2024.3379439 (2024).计算机网络领域顶级期刊，影响因子3.7
-1.  `Y王云涛`Y,苏洲,许其超,刘怡良,彭海霞,栾浩. 基于审计博弈的安全协作频谱感知方案, *通信学报*, accepted. （CCF-A类推荐中文期刊）
+1.  `王云涛`,苏洲,许其超,刘怡良,彭海霞,栾浩. 基于审计博弈的安全协作频谱感知方案, *通信学报*, accepted. （CCF-A类推荐中文期刊）
 
 - Bo Feng, Jianbo Wu, Hongming Tu, `Jian Tang`, Yihua Kang. A Review of Magnetic Flux Leakage Nondestructive Testing. *Materials*. 2022, 15 (20): 7362. (JCR:Q1; IF:3.748)  
 [[网页]](https://dx.doi.org/10.3390/ma15207362) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/FengB-2022-A%20Review%20of%20Magnetic%20Flux%20Leakage%20Nondestructive%20Testing.pdf) [[下载]](/pdf/FengB-2022-A%20Review%20of%20Magnetic%20Flux%20Leakage%20Nondestructive%20Testing.pdf)
