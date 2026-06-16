@@ -19,10 +19,9 @@ redirect_from:
 
 研究领域：聚焦**国家空天地安全战略**，长期从事低空无人机网络安全、智能无人系统安全、多智能体协同与对抗领域研究。
 - 学术贡献：在**网络安全领域顶级会议IEEE S&P、USENIX Security**；**网络安全领域顶级期刊IEEE TIFS、IEEE TDSC **；**计算机网络领域顶级期刊/会议IEEE/ACM ToN、IEEE INFOCOM**；**通信领域顶级期刊IEEE JSAC、IEEE TMC、中国科学：信息科学**发表多篇高水平论文， **11 篇文章入选 ESI 高被引论文 (ESI Highly Cited, 全球引用率前1%)**，**2 篇入选 ESI 热点论文 (ESI Hot, 全球引用率前0.1%)**。
-- 学术引用：**论文总引用次数7900 余次**，**单篇引用次数逾2000次**（谷歌学术截至2026年6月），**16篇论文引用次数过百**，**单篇影响因子达46.7**。
-- 国际获奖：入选2025年度科睿唯安全球高被引学者（Clarivate Highly Cited Researchers）、2023~2025年度全球前2%顶尖科学家、2023年度国家博士后创新人才支持计划（博新计划）、2024年度中国电子学会博士学位论文激励计划（优博）、西安交通大学青年拔尖人才支持计划。研究工作获得 IEEE BigDataSE2019 国际会议年度最佳论文奖（新西兰举办）、IEEE IWCMC2022 国际会议年度最佳论文奖（克罗地亚举办）、IEEE SmartCloud2024 国际会议年度最佳论文奖（美国纽约举办）、IEEE AIoT2024 国际会议年度最佳论文奖（澳大利亚墨尔本举办）、IEEE MetaCom2025 国际会议年度最佳论文奖（韩国首尔举办）等IEEE国际会议最佳论文奖共5项。
+- 学术引用：**论文总引用次数7900 余次**，**单篇引用次数逾2000次**（谷歌学术截至2026年6月） <a href='https://scholar.google.com/citations?user=90fr-8wAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>，**16篇论文引用次数过百**，**单篇影响因子达46.7**。
+- 国际获奖：入选2025年度**科睿唯安全球高被引学者**（Clarivate Highly Cited Researchers）、2023~2025年度**全球前2%顶尖科学家**、2023年度**国家博士后创新人才支持计划（博新计划）**、2024年度**中国电子学会博士学位论文激励计划（优博）**、西安交通大学青年拔尖人才支持计划。研究工作获得**IEEE BigDataSE2019 国际会议年度最佳论文奖**（新西兰举办）、**IEEE IWCMC2022 国际会议年度最佳论文奖**（克罗地亚举办）、**IEEE SmartCloud2024 国际会议年度最佳论文奖**（美国纽约举办）、**IEEE AIoT2024 国际会议年度最佳论文奖**（澳大利亚墨尔本举办）、**IEEE MetaCom2025 国际会议年度最佳论文奖**（韩国首尔举办）等**IEEE国际会议最佳论文奖共5项**。
 - 主持项目：主持**国家自然科学基金青年项目、科技部国家重点研发计划子课题、国家博新计划、博士后面上项目、陕西省博士后项目**等多项国家/省部级项目。
- <a href='https://scholar.google.com/citations?user=90fr-8wAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
 
 
 <span class='anchor' id='-xl'></span>
@@ -34,6 +33,17 @@ redirect_from:
 
 # 📝 论文成果
 
+1.  `Yuntao Wang`, Zhou Su, Ning Zhang, Rui Xing, Dongxiao Liu, Tom H. Luan, and Xuemin Shen, "A Survey on Metaverse: Fundamentals, Security, and Privacy," *IEEE Communications Surveys & Tutorials*, 25(1): 319-352 (2023) 计算机与通信领域影响因子最高期刊，影响因子35.6，入选ESI热点论文（全球引用率前0.1%），谷歌学术被引600余次
+1.  `Yuntao Wang`, Zhou Su, Jianbing Ni, Ning Zhang, and Xuemin Shen, "Blockchain-Empowered Space-Air-Ground Integrated Networks: Opportunities, Challenges, and Solutions," *IEEE Communications Surveys & Tutorials*, 24(1): 160-209 (2022) 计算机与通信领域影响因子最高期刊，影响因子35.6 
+1.  `Yuntao Wang`, Zhou Su, Abderrahim Benslimane, Qichao Xu, Minghui Dai, and Ruidong Li, "Collaborative Honeypot Defense in UAV Networks: A Learning-Based Game Approach," *IEEE Transactions on Information Forensics and Security*, DOI: 10.1109/TIFS.2023.3318942 (2023) 网络与信息安全领域顶级期刊，影响因子6.8
+1.  `Yuntao Wang`, Zhou Su, Tom H. Luan, Jiliang Li, Qichao Xu, and Ruidong Li, "SEAL: A Strategy-Proof and Privacy-Preserving UAV Computation Offloading Framework," *IEEE Transactions on Information Forensics and Security*, 18: 5213-5228 (2023) 网络与信息安全领域顶级期刊，影响因子6.8
+1.  `Yuntao Wang`, Zhou Su, Qichao Xu, Ruidong Li, Tom H. Luan, and Pinghui Wang, "A Secure and Intelligent Data Sharing Scheme for UAV-Assisted Disaster Rescue," *IEEE/ACM Transactions on Networking*, DOI:10.1109/TNET.2022.3226458 (2023) 计算机网络领域顶级期刊，影响因子3.7
+1.  Yuntao Wang, Weiwei Chen, Tom H. Luan, Zhou Su, Qichao Xu, and Ruidong Li, Nan Chen, "Task Offloading for Post-Disaster Rescue in Unmanned Aerial Vehicles Networks," *IEEE/ACM Transactions on Networking*, 30(4): 1525-1539 (2022) 计算机网络领域顶级期刊，影响因子3.7
+1.  `Yuntao Wang`, Haixia Peng, Zhou Su, Tom H. Luan, Abderrahim Benslimane, and Yuan Wu, "A Platform-Free Proof of Federated Learning Consensus Mechanism for Sustainable Blockchains," *IEEE Journal on Selected Areas in Communications*, 40(12): 3305-3324 (2022) 网络通信领域顶级期刊，影响因子16.4
+1.  `Yuntao Wang`, Zhou Su, Qichao Xu, Ruidong Li, and Tom H. Luan, "Lifesaving with RescueChain: Energy-Efficient and Partition-Tolerant Blockchain Based Secure Information Sharing for UAV-Aided Disaster Rescue," *Proceedings of IEEE INFOCOM*, 2021: 1-10 网络通信领域顶级会议，入选ESI高被引论文（全球引用率前1%）
+1.  Zhou Su （申请人博士导师）, `Yuntao Wang`, Qichao Xu, and Ning Zhang, "LVBS: Lightweight Vehicular Blockchain for Secure Data Sharing in Disaster Rescue," *IEEE Transactions on Dependable and Secure Computing*, 19(1): 19-32 (2022) 网络与信息安全领域顶级期刊，影响因子7.3，入选ESI热点论文（全球引用率前0.1%），谷歌学术被引100余次）
+2.  `Yuntao Wang`, Zhou Su, Yanghe Pan, Tom H. Luan, Ruidong Li, and Shui Yu, "Social-aware clustered federated learning with customized privacy preservation," *IEEE/ACM Transactions on Networking*, DOI: 10.1109/TNET.2024.3379439 (2024).计算机网络领域顶级期刊，影响因子3.7
+1.  `Y王云涛`Y,苏洲,许其超,刘怡良,彭海霞,栾浩. 基于审计博弈的安全协作频谱感知方案, *通信学报*, accepted. （CCF-A类推荐中文期刊）
 
 - Bo Feng, Jianbo Wu, Hongming Tu, `Jian Tang`, Yihua Kang. A Review of Magnetic Flux Leakage Nondestructive Testing. *Materials*. 2022, 15 (20): 7362. (JCR:Q1; IF:3.748)  
 [[网页]](https://dx.doi.org/10.3390/ma15207362) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/FengB-2022-A%20Review%20of%20Magnetic%20Flux%20Leakage%20Nondestructive%20Testing.pdf) [[下载]](/pdf/FengB-2022-A%20Review%20of%20Magnetic%20Flux%20Leakage%20Nondestructive%20Testing.pdf)
