@@ -96,14 +96,36 @@ redirect_from:
 
 <span class='anchor' id='-xshy'></span>
 
-# 🏛️ 学术会议
-- *2021.10*, 全国电磁无损检测技术研讨会 暨 中国机械工程学会无损检测分会电磁专业技术大会第十一届第四次全体会议, 陕西西安, 受邀报告
-- *2019.09*, 第十九届国际应用电磁学与力学会议 (ISEM 2019), 江苏南京, 海报
-- *2017.10*, 第六届中国国际管道会议 (CIPC 2017), 河北廊坊
+# 项目
+1.  2024-2026 基于联邦学习的物联网数据安全共享关键技术 (No.62302387)，国家自然科学基金青年科学基金项目，主持，在研
+2.  2023-2026 工业生产控制软件安全分布式众测技术(No.2023YFB3100131)子课题，科技部国家重点研发计划项目，主持，在研
+3.  2022-2025 低空智联网安全管控与服务关键技术(No.2022YFB3104500)子课题，科技部国家重点研发计划项目，主持，在研
+4.  2024-2025 博士后面上资助，主持，在研
 
 <span class='anchor' id='-gzsx'></span>
 
-# 💻 工作实习
-- *2018.05 - 2020.02*, 重庆长江轴承股份有限公司, 重庆
-- *2020.11.25 - 2020.12.02*, 湖北新冶钢有限公司, 湖北黄石
-- *2017.6 - 2021.1*, 制造装备数字化国家工程研究中心, 湖北武汉
+# 🏛️ 学术活动
+1. Reviewer for
+- IEEE Transactions on Dependable and Secure Computing(CCFA，JCR一区，IF：6.791)
+- IEEE Transactions on Information Forensics and Security(CCFA，JCR一区，IF：7.231)
+- IEEE Journal on Selected Areas in Communications (CCF A，JCR 一区，IF：13.081)
+- IEEE Transactions on Mobile Computing (CCF A，JCR 一区，IF：6.075)
+- IEEE Transactions on Smart Grid (JCR 一区，IF：10.275)
+- ACM Computing Surveys (JCR 一区，IF：14.324)
+- IEEE Transactions on Industrial Informatics (JCR 一区，IF：6.239)
+- IEEE Transactions on Vehicular Technology (JCR 一区，IF：11.648)
+- IEEE Transactions on Intelligent Transportation Systems (JCR 一区，IF：9.551)
+- IEEE Transactions on Systems, Man and Cybernetics: Systems (JCR 一区，IF：11.471)
+- IEEE Transactions on Network Science and Engineering (JCR 一区，IF：5.033)
+- IEEE Transactions on Network and Service Management (JCR 一区，IF：4.758)
+- IEEE Transactions on Intelligent Vehicles (JCR 一区，IF：5.009)
+- IEEE Transactions on Sustainable Computing (JCR 一区，IF：4.908)
+- IEEE Transactions on Artificial Intelligence(JCR 一区)
+- IEEE Transactions on Energy Markets, Policy and Regulation(JCR 一区)
+- IEEE Internet of Things Journal (JCR 一区，IF：10.238)
+- IEEE Communications Magazine (JCR 一区，IF：9.03)
+- TPC member of IEEE INFOCOM ICCN 2023, IEEE WCSP'19, IEEE WCSP'23
+- Session Chair of IEEE ICC'23 - CISS Symposium (Rome, Italy)
+1. Reviewer for
+
+<span class='anchor' id='-gzsx'></span>
