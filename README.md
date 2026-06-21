@@ -51,6 +51,7 @@ AcadHomepage
     1. 更多的配置信息在注释中有详细描述。
 1. 将你的主页内容添加到 [_pages/about.md](../_pages/about.md).
 1. 你的主页将会被部署到`https://USERNAME.github.io`.
+
 Note：
 1. _config.yml：修改配置信息
 2. _pages/about.md：展示个人主页
