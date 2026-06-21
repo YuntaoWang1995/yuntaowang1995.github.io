@@ -116,7 +116,7 @@ redirect_from:
 
 35. `Yuntao Wang`, Zhou Su, Kuan Zhang, and Abderrahim Benslimane, "Challenges and Solutions in Autonomous Driving: A Blockchain Approach," **IEEE Network**, 34(4): 218-226 (2020) **网络领域权威期刊**，影响因子8.8 ![JCR Q1](https://img.shields.io/badge/JCR--Q1-9C27B0?style=flat-square) 
 
-38. Yiheng Sun, Linkang Du, Zhou Su, `Yuntao Wang`, and Han Liu, "URLcoat: Exploiting Web Search Capability to Jailbreak Large Language Models," **Proceedings of IEEE Symposium on Security and Privacy (IEEE S&P/Oakland)** (2026) **安全领域四大顶会**
+38. Yiheng Sun, Linkang Du, Zhou Su, `Yuntao Wang`, and Han Liu, "URLcoat: Exploiting Web Search Capability to Jailbreak Large Language Models," **Proceedings of IEEE Symposium on Security and Privacy (IEEE S&P)** (2026) **安全领域四大顶会**
 
 39. Quan Zhao, Linkang Du, `Yuntao Wang`, Zhou Su, Zheng Li, Xiangshan Gao, and Yang Zhang, "Unveiling the Pitfalls of Data-Free Backdoor Detection Against Pre-Trained Models," **Proceedings of USENIX Security Symposium (USENIX Security)** (2026) **安全领域四大顶会**
 
