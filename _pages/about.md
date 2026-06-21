@@ -182,10 +182,11 @@ redirect_from:
 - 入选2026年度**西安交通大学青年拔尖人才支持计划B类**
 - **陕西省自然科学一等奖**（排名第四，项目名称：空天地一体化网络时空动态协同资源优化与安全防护）
 - **IEEE BigDataSE2019（新西兰举办）Best Paper Award**, 2019, IEEE计算机学会颁发
-- **IEEE IWCMC2022（克罗地亚举办）Best Paper Award**, 2022，IEEE通信学会颁发
-- **IEEE SmartCloud2024（美国纽约举办）Best Paper Award**, 2024，IEEE计算机学会颁发
-- **IEEE AIoT2024（澳大利亚墨尔本举办）Best Paper Award**, 2024，IEEE通信学会颁发
-- **IEEE MetaCom2025（韩国首尔举办）Best Paper Award**, 2025，IEEE通信学会颁发
+- **IEEE IWCMC2022（克罗地亚举办）Best Paper Award**, 2022, IEEE通信学会颁发
+- **IEEE SmartCloud2024（美国纽约举办）Best Paper Award**, 2024, IEEE计算机学会颁发
+- **IEEE AIoT2024（澳大利亚墨尔本举办）Best Paper Award**, 2024, IEEE通信学会颁发
+- **IEEE MetaCom2025（韩国首尔举办）Best Paper Award**, 2025, IEEE通信学会颁发
+- IEEE TNSE Feature Article, 2021
 
 <span class='anchor' id='-kyxm'></span>
 
