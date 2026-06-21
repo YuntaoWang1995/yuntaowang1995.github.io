@@ -43,7 +43,7 @@ redirect_from:
 
 # 📝 论文成果Publications
 
-1. `Yuntao Wang`, Zhou Su, Ning Zhang, Rui Xing, Dongxiao Liu, Tom H. Luan, and Xuemin Shen, "A Survey on Metaverse: Fundamentals, Security, and Privacy," **IEEE Communications Surveys & Tutorials (COMST)**, 25(1): 319-352 (2023) 计算机与信息领域影响因子最高期刊，**影响因子50.6**，入选**ESI热点论文（全球引用率前0.1%）**，**谷歌学术被引2000余次** ![影响因子50.6](https://img.shields.io/badge/IF-50.6-red?style=flat-square)
+1. `Yuntao Wang`, Zhou Su, Ning Zhang, Rui Xing, Dongxiao Liu, Tom H. Luan, and Xuemin Shen, "A Survey on Metaverse: Fundamentals, Security, and Privacy," **IEEE Communications Surveys & Tutorials (COMST)**, 25(1): 319-352 (2023) ![IF](https://img.shields.io/badge/IF-50.6-red?style=flat-square) 计算机与信息领域影响因子最高期刊·![ESI Hot](https://img.shields.io/badge/ESI%20Hot%20Paper-🔥-red?style=flat-square) **ESI热点论文（全球引用率前0.1%）**·**谷歌学术被引2000余次** 
 
 2. `Yuntao Wang`, Weiwei Chen, Tom H. Luan, Zhou Su, Qichao Xu, Ruidong Li, and Nan Chen, "Task Offloading for Post-Disaster Rescue in Unmanned Aerial Vehicles Networks," **IEEE/ACM Transactions on Networking (TON)**, 30(4): 1525-1539 (2022) ![CCF-A](https://img.shields.io/badge/CCF--A-red?style=flat-square) 计算机网络领域顶级期刊，影响因子3.7，**谷歌学术被引163次**
 
