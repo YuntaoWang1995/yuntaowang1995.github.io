@@ -128,26 +128,46 @@ redirect_from:
 4. Shaolong Guo, Yuntao Wang, Qinnan Hu, Zhou Su, Tom H. Luan, "Towards scalable metaverse systems with social-aware VR displays," **Proceedings of the International Joint Conference on Artificial Intelligence (IJCAI)**, 1-9 (2026) **人工智能领域顶级会议**，**Core A*类会议**，**当年录取率13.0%**
 
 5. Liang Xie, `Yuntao Wang`, Hengzhi Wang, and Laizhong Cui, "Long-Term Optimal Incentives for Differential-Privacy Federated Learning: A Multi-Stage Game Approach," **IEEE Transactions on Mobile Computing (TMC)**, 25: 1–16 (2026) ![CCF-A](https://img.shields.io/badge/CCF--A-red?style=flat-square) **移动计算领域顶级期刊**，影响因子7.9
-6. Qinnan Hu, `Yuntao Wang`, Zhou Su, Shaolong Guo, Yuan Gao, Nan Liu, and Tom H. Luan, "BlockAthena: A Scalable Approach for Long-Term Blockchain Crimes Analysis," **IEEE Transactions on Information Forensics and Security (TIFS)**, 21: 1–16 (2026) !https://img.shields.io/badge/CCF--A-red?style=flat-square **网络与信息安全领域顶级期刊**，影响因子8.7
-7. Shaolong Guo, `Yuntao Wang`, Zhou Su, Yanghe Pan, Tom H. Luan, and Xizhao Luo, "FLET: Game-Theoretic Free-Riding Mitigation via Test Tasks in Federated Learning," **IEEE/ACM Transactions on Networking (TON)**, 34: 3995–4010 (2026) !https://img.shields.io/badge/CCF--A-red?style=flat-square **计算机网络领域顶级期刊**，影响因子5.3
-8. Qinnan Hu, `Yuntao Wang`, Zhou Su, Tom H. Luan, Ruidong Li, and Zhenyu Jiang, "Rethinking Online Smart Contract Diagnosis in Blockchains: A Diffusion Perspective," **IEEE/ACM Transactions on Networking (TON)**, 34: 230–245 (2026) !https://img.shields.io/badge/CCF--A-red?style=flat-square **计算机网络领域顶级期刊**，影响因子5.3
+
+6. Qinnan Hu, `Yuntao Wang`, Zhou Su, Shaolong Guo, Yuan Gao, Nan Liu, and Tom H. Luan, "BlockAthena: A Scalable Approach for Long-Term Blockchain Crimes Analysis," **IEEE Transactions on Information Forensics and Security (TIFS)**, 21: 1–16 (2026) ![CCF-A](https://img.shields.io/badge/CCF--A-red?style=flat-square) **网络与信息安全领域顶级期刊**，影响因子8.7
+
+7. Shaolong Guo, `Yuntao Wang`, Zhou Su, Yanghe Pan, Tom H. Luan, and Xizhao Luo, "FLET: Game-Theoretic Free-Riding Mitigation via Test Tasks in Federated Learning," **IEEE/ACM Transactions on Networking (TON)**, 34: 3995–4010 (2026) ![CCF-A](https://img.shields.io/badge/CCF--A-red?style=flat-square) **计算机网络领域顶级期刊**，影响因子5.3
+
+8. Qinnan Hu, `Yuntao Wang`, Zhou Su, Tom H. Luan, Ruidong Li, and Zhenyu Jiang, "Rethinking Online Smart Contract Diagnosis in Blockchains: A Diffusion Perspective," **IEEE/ACM Transactions on Networking (TON)**, 34: 230–245 (2026) ![CCF-A](https://img.shields.io/badge/CCF--A-red?style=flat-square) **计算机网络领域顶级期刊**，影响因子5.3
+
 9. Shaolong Guo, `Yuntao Wang`, Ning Zhang, Zhou Su, Tom H. Luan, Zhiyi Tian, and Xuemin Shen, "A Survey on Semantic Communication Networks: Architecture, Security, and Privacy," **IEEE Communications Surveys & Tutorials (COMST)**, 27(5): 2860–2894 (2025) ![IF](https://img.shields.io/badge/IF-50.6-red?style=flat-square) **计算机与信息领域影响因子最高期刊（影响因子50.6）** ![ESI Highly Cited](https://img.shields.io/badge/ESI%20Highly%20Cited-orange?style=flat-square) **ESI高被引论文（Top 1%）** ![Citations](https://img.shields.io/badge/Cited%20by-123-blue?style=flat-square) **谷歌学术被引123次** 🔗 [PDF](https://arxiv.org/abs/2405.01221) 
+
 10. Chao He, `Yuntao Wang`, Juan Hu, Tom H. Luan, Yuanguo Bi, and Zhou Su, "Collaborative Vehicular Threat Sharing: A Long-Term Contract-Based Incentive Mechanism With Privacy Preservation," **IEEE Transactions on Intelligent Transportation Systems (TITS)**, 25(12): 10258–10273 (2024) **智能交通领域顶级期刊**，影响因子9.1
-11. Liang Xie, Zhou Su, `Yuntao Wang`, Nan Chen, Yiliang Liu, Rui Wang, Xin Liu, Donglan Liu, and Hao Zhang, "A Privacy-Preserving Incentive Scheme for UAV-Aided Federated Learning: A Contract Method With Prospect Theory," **IEEE Transactions on Dependable and Secure Computing (TDSC)**, 22(6): 4521–4536 (2025) !https://img.shields.io/badge/CCF--A-red?style=flat-square **网络与信息安全领域顶级期刊**，影响因子6.8
+
+11. Liang Xie, Zhou Su, `Yuntao Wang`, Nan Chen, Yiliang Liu, Rui Wang, Xin Liu, Donglan Liu, and Hao Zhang, "A Privacy-Preserving Incentive Scheme for UAV-Aided Federated Learning: A Contract Method With Prospect Theory," **IEEE Transactions on Dependable and Secure Computing (TDSC)**, 22(6): 4521–4536 (2025) ![CCF-A](https://img.shields.io/badge/CCF--A-red?style=flat-square) **网络与信息安全领域顶级期刊**，影响因子6.8
+
 12. Jinhao Zhou, Zhou Su, `Yuntao Wang`, and Jun Wu, "DM-DPL: Toward Discrete Matrixing Differentially Private Learning," **IEEE Transactions on Information Forensics and Security (TIFS)**, 20: 1432–1447 (2025) !https://img.shields.io/badge/CCF--A-red?style=flat-square **网络与信息安全领域顶级期刊**，影响因子8.7
-13. Nan Liu, Tom H. Luan, `Yuntao Wang`, Yiliang Liu, and Zhou Su, "QoE-Oriented Cooperative VR Rendering and Dynamic Resource Leasing in Metaverse," **IEEE Transactions on Mobile Computing (TMC)**, 24(10): 5128–5143 (2025) **移动计算领域顶级期刊**，影响因子7.9
-14. Yanghe Pan, Zhou Su, `Yuntao Wang`, Han Liu, Ruidong Li, and Abderrahim Benslimane, "Knowledge-Aware Privacy-Preserving Model Customization in Zero-Trust Federated Learning Model Marketplaces," **IEEE Journal on Selected Areas in Communications (JSAC)**, 43(6): 2108–2123 (2025) !https://img.shields.io/badge/CCF--A-red?style=flat-square **网络通信领域顶级期刊**，影响因子16.8
-15. Liang Xie, Zhou Su, `Yuntao Wang`, and Zhendong Li, "A Practical Federated Learning Framework With Truthful Incentive in UAV-Assisted Crowdsensing," **IEEE Transactions on Information Forensics and Security (TIFS)**, 20: 3021–3036 (2025) !https://img.shields.io/badge/CCF--A-red?style=flat-square **网络与信息安全领域顶级期刊**，影响因子8.7
-16. Zixuan Wang, Jiliang Li, `Yuntao Wang`, Zhou Su, Shui Yu, and Weizhi Meng, "Optimal Repair Strategy Against Advanced Persistent Threats Under Time-Varying Networks," **IEEE Transactions on Information Forensics and Security (TIFS)**, 18: 2345–2360 (2023) !https://img.shields.io/badge/CCF--A-red?style=flat-square **网络与信息安全领域顶级期刊**，影响因子8.7
+
+13. Nan Liu, Tom H. Luan, `Yuntao Wang`, Yiliang Liu, and Zhou Su, "QoE-Oriented Cooperative VR Rendering and Dynamic Resource Leasing in Metaverse," **IEEE Transactions on Mobile Computing (TMC)**, 24(10): 5128–5143 (2025) ![CCF-A](https://img.shields.io/badge/CCF--A-red?style=flat-square) **移动计算领域顶级期刊**，影响因子7.9
+
+14. Yanghe Pan, Zhou Su, `Yuntao Wang`, Han Liu, Ruidong Li, and Abderrahim Benslimane, "Knowledge-Aware Privacy-Preserving Model Customization in Zero-Trust Federated Learning Model Marketplaces," **IEEE Journal on Selected Areas in Communications (JSAC)**, 43(6): 2108–2123 (2025) ![CCF-A](https://img.shields.io/badge/CCF--A-red?style=flat-square) **网络通信领域顶级期刊**，影响因子16.8
+
+15. Liang Xie, Zhou Su, `Yuntao Wang`, and Zhendong Li, "A Practical Federated Learning Framework With Truthful Incentive in UAV-Assisted Crowdsensing," **IEEE Transactions on Information Forensics and Security (TIFS)**, 20: 3021–3036 (2025) ![CCF-A](https://img.shields.io/badge/CCF--A-red?style=flat-square) **网络与信息安全领域顶级期刊**，影响因子8.7
+
+16. Zixuan Wang, Jiliang Li, `Yuntao Wang`, Zhou Su, Shui Yu, and Weizhi Meng, "Optimal Repair Strategy Against Advanced Persistent Threats Under Time-Varying Networks," **IEEE Transactions on Information Forensics and Security (TIFS)**, 18: 2345–2360 (2023) ![CCF-A](https://img.shields.io/badge/CCF--A-red?style=flat-square) **网络与信息安全领域顶级期刊**，影响因子8.7
+
 17. Liang Xie, Zhou Su, `Yuntao Wang`, "A Two-Stage Secure Incentive Mechanism in App-and UAV-Assisted Crowdsensing," **IEEE Transactions on Network and Service Management (TNSM)**, 21(5): 5234–5249 (2024) **网络管理领域重要期刊**，影响因子4.7
+
 18. Yanghe Pan, Zhou Su, `Yuntao Wang`, Jinhao Zhou, and Mohamed Mahmoud, "Privacy-Preserving Byzantine-Robust Federated Learning via Deep Reinforcement Learning in Vehicular Networks," **IEEE Transactions on Vehicular Technology (TVT)**, 74(6): 9876–9891 (2025) **车辆网络领域顶级期刊**，影响因子7.5
+
 19. Yanghe Pan, `Yuntao Wang`, Zhou Su, Yuan Gao, Shaolong Guo, Qinnan Hu, Ruidong Li, and WeiWei Li, "The Right to Be Forgotten Versus the Need to Be Remembered: Efficient Personalized Federated Unlearning With Optimal Incentives," **IEEE Transactions on Network Science and Engineering (TNSE)**, 13(2): 1125–1140 (2026) **网络管理领域顶级期刊**，影响因子7.3
-20. Rui Xing, Zhou Su, `Yuntao Wang`, "Collaborative Intrusion Detection Approach Based on Blockchain in Internet of Vehicles," **IEEE Internet of Things Journal (IoT-J)**, 12(9): 11568–11581 (2025) **物联网领域旗舰期刊**，影响因子8.7
-21. Yanghe Pan, Zhou Su, `Yuntao Wang`, Ruidong Li, and Yuan Wu, "Privacy-Enhanced and Efficient Federated Knowledge Transfer Framework in IoT," **IEEE Internet of Things Journal (IoT-J)**, 11(23): 38452–38465 (2024) **物联网领域旗舰期刊**，影响因子8.7
-22. Yiliang Liu, Zhou Su, `Yuntao Wang`, "Energy-Efficient and Physical-Layer Secure Computation Offloading in Blockchain-Empowered Internet of Things," **IEEE Internet of Things Journal (IoT-J)**, 10(8): 7123–7136 (2023) **物联网领域旗舰期刊**，影响因子8.7
-23. Shaolong Guo, `Yuntao Wang`, Zhou Su, Yanghe Pan, Qinnan Hu, and Tom H. Luan, "Agent Discovery in Internet of Agents: Challenges and Solutions," **IEEE Network**, (2026) Early Access **网络领域权威期刊**，影响因子8.8 !https://img.shields.io/badge/JCR--Q1-9C27B0?style=flat-square
-24. Yanghe Pan, `Yuntao Wang`, Shaolong Guo, Chengyu Yin, Ruidong Li, Zhou Su, and Yuan Wu, "Trustworthy Semantic Communication for Vehicular Networks: Challenges and Solutions," **IEEE Vehicular Technology Magazine**, (2025) Early Access **车辆技术领域权威期刊**，影响因子8.4 !https://img.shields.io/badge/JCR--Q1-9C27B0?style=flat-square
-25. Yanghe Pan, Zhou Su, `Yuntao Wang`, Shaolong Guo, Han Liu, Ruidong Li, and Yuan Wu, "Cloud-Edge Collaborative Large Model Services: Challenges and Solutions," **IEEE Network**, 39(4): 56–63 (2025) **网络领域权威期刊**，影响因子8.8 !https://img.shields.io/badge/JCR--Q1-9C27B0?style=flat-square
+
+20. Rui Xing, Zhou Su, `Yuntao Wang`, "Collaborative Intrusion Detection Approach Based on Blockchain in Internet of Vehicles," **IEEE Internet of Things Journal (IoT-J)**, 12(9): 11568–11581 (2025) **物联网领域旗舰期刊**，影响因子8.7 ![JCR Q1](https://img.shields.io/badge/JCR--Q1-9C27B0?style=flat-square) 
+
+21. Yanghe Pan, Zhou Su, `Yuntao Wang`, Ruidong Li, and Yuan Wu, "Privacy-Enhanced and Efficient Federated Knowledge Transfer Framework in IoT," **IEEE Internet of Things Journal (IoT-J)**, 11(23): 38452–38465 (2024) **物联网领域旗舰期刊**，影响因子8.7 ![JCR Q1](https://img.shields.io/badge/JCR--Q1-9C27B0?style=flat-square) 
+
+22. Yiliang Liu, Zhou Su, `Yuntao Wang`, "Energy-Efficient and Physical-Layer Secure Computation Offloading in Blockchain-Empowered Internet of Things," **IEEE Internet of Things Journal (IoT-J)**, 10(8): 7123–7136 (2023) **物联网领域旗舰期刊**，影响因子8.7 ![JCR Q1](https://img.shields.io/badge/JCR--Q1-9C27B0?style=flat-square) 
+
+23. Shaolong Guo, `Yuntao Wang`, Zhou Su, Yanghe Pan, Qinnan Hu, and Tom H. Luan, "Agent Discovery in Internet of Agents: Challenges and Solutions," **IEEE Network**, (2026) Early Access **网络领域权威期刊**，影响因子8.8 ![JCR Q1](https://img.shields.io/badge/JCR--Q1-9C27B0?style=flat-square) 
+
+24. Yanghe Pan, `Yuntao Wang`, Shaolong Guo, Chengyu Yin, Ruidong Li, Zhou Su, and Yuan Wu, "Trustworthy Semantic Communication for Vehicular Networks: Challenges and Solutions," **IEEE Vehicular Technology Magazine**, (2025) Early Access **车辆技术领域权威期刊**，影响因子8.4 ![JCR Q1](https://img.shields.io/badge/JCR--Q1-9C27B0?style=flat-square) 
+
+25. Yanghe Pan, Zhou Su, `Yuntao Wang`, Shaolong Guo, Han Liu, Ruidong Li, and Yuan Wu, "Cloud-Edge Collaborative Large Model Services: Challenges and Solutions," **IEEE Network**, 39(4): 56–63 (2025) **网络领域权威期刊**，影响因子8.8 ![JCR Q1](https://img.shields.io/badge/JCR--Q1-9C27B0?style=flat-square) 
 
 
 <span class='anchor' id='-gjjx'></span>
