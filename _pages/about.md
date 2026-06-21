@@ -43,35 +43,46 @@ redirect_from:
 
 # 📝 论文成果Publications
 
-1. `Yuntao Wang`, Zhou Su, Ning Zhang, Rui Xing, Dongxiao Liu, Tom H. Luan, and Xuemin Shen, "A Survey on Metaverse: Fundamentals, Security, and Privacy," **IEEE Communications Surveys & Tutorials (COMST)**, 25(1): 319-352 (2023) ![IF](https://img.shields.io/badge/IF-50.6-red?style=flat-square) 计算机与信息领域影响因子最高期刊 ![ESI Hot](https://img.shields.io/badge/ESI%20Hot%20Paper-🔥-red?style=flat-square) **ESI热点论文（全球引用率前0.1%）** ![Citations](https://img.shields.io/badge/Cited%20by-2100-blue?style=flat-square) **谷歌学术被引2000余次** 
+1. `Yuntao Wang`, Zhou Su, Ning Zhang, Rui Xing, Dongxiao Liu, Tom H. Luan, and Xuemin Shen, "A Survey on Metaverse: Fundamentals, Security, and Privacy," **IEEE Communications Surveys & Tutorials (COMST)**, 25(1): 319-352 (2023) ![IF](https://img.shields.io/badge/IF-50.6-red?style=flat-square) **计算机与信息领域影响因子最高期刊** ![ESI Hot](https://img.shields.io/badge/ESI%20Hot%20Paper-🔥-red?style=flat-square) **ESI热点论文（全球引用率前0.1%）** ![Citations](https://img.shields.io/badge/Cited%20by-2100-blue?style=flat-square) **谷歌学术被引2000余次** 
 
-2. `Yuntao Wang`, Weiwei Chen, Tom H. Luan, Zhou Su, Qichao Xu, Ruidong Li, and Nan Chen, "Task Offloading for Post-Disaster Rescue in Unmanned Aerial Vehicles Networks," **IEEE/ACM Transactions on Networking (TON)**, 30(4): 1525-1539 (2022) ![CCF-A](https://img.shields.io/badge/CCF--A-red?style=flat-square) 计算机网络领域顶级期刊，影响因子3.7 ![Citations](https://img.shields.io/badge/Cited%20by-163-blue?style=flat-square) **谷歌学术被引163次**
+2. `Yuntao Wang`, Weiwei Chen, Tom H. Luan, Zhou Su, Qichao Xu, Ruidong Li, and Nan Chen, "Task Offloading for Post-Disaster Rescue in Unmanned Aerial Vehicles Networks," **IEEE/ACM Transactions on Networking (TON)**, 30(4): 1525-1539 (2022) ![CCF-A](https://img.shields.io/badge/CCF--A-red?style=flat-square) **计算机网络领域顶级期刊**，影响因子3.7 ![Citations](https://img.shields.io/badge/Cited%20by-163-blue?style=flat-square) **谷歌学术被引163次**
 
-3. `Yuntao Wang`, Zhou Su, Qichao Xu, Ruidong Li, Tom H. Luan, and Pinghui Wang, "A Secure and Intelligent Data Sharing Scheme for UAV-Assisted Disaster Rescue," **IEEE/ACM Transactions on Networking (TON)**, 31(6): 2422-2438 (2023) ![CCF-A](https://img.shields.io/badge/CCF--A-red?style=flat-square) 计算机网络领域顶级期刊，影响因子3.7 ![Citations](https://img.shields.io/badge/Cited%20by-154-blue?style=flat-square) **谷歌学术被引154次**
+3. `Yuntao Wang`, Zhou Su, Qichao Xu, Ruidong Li, Tom H. Luan, and Pinghui Wang, "A Secure and Intelligent Data Sharing Scheme for UAV-Assisted Disaster Rescue," **IEEE/ACM Transactions on Networking (TON)**, 31(6): 2422-2438 (2023) ![CCF-A](https://img.shields.io/badge/CCF--A-red?style=flat-square) **计算机网络领域顶级期刊**，影响因子3.7 ![Citations](https://img.shields.io/badge/Cited%20by-154-blue?style=flat-square) **谷歌学术被引154次**
 
-4. `Yuntao Wang`, Haixia Peng, Zhou Su, Tom H. Luan, Abderrahim Benslimane, and Yuan Wu, "A Platform-Free Proof of Federated Learning Consensus Mechanism for Sustainable Blockchains," **IEEE Journal on Selected Areas in Communications (JSAC)**, 40(12): 3305-3324 (2022) ![CCF-A](https://img.shields.io/badge/CCF--A-red?style=flat-square) 网络通信领域顶级期刊，影响因子16.4 ![Citations](https://img.shields.io/badge/Cited%20by-116-blue?style=flat-square) **谷歌学术被引116次**
+4. `Yuntao Wang`, Haixia Peng, Zhou Su, Tom H. Luan, Abderrahim Benslimane, and Yuan Wu, "A Platform-Free Proof of Federated Learning Consensus Mechanism for Sustainable Blockchains," **IEEE Journal on Selected Areas in Communications (JSAC)**, 40(12): 3305-3324 (2022) ![CCF-A](https://img.shields.io/badge/CCF--A-red?style=flat-square) **网络通信领域顶级期刊**，影响因子16.4 ![Citations](https://img.shields.io/badge/Cited%20by-116-blue?style=flat-square) **谷歌学术被引116次**
 
-5. `Yuntao Wang`, Zhou Su, Qichao Xu, Ruidong Li, and Tom H. Luan, "Lifesaving with RescueChain: Energy-Efficient and Partition-Tolerant Blockchain Based Secure Information Sharing for UAV-Aided Disaster Rescue," **Proceedings of IEEE INFOCOM**, 1-10 (2021) ![CCF-A](https://img.shields.io/badge/CCF--A-red?style=flat-square) 网络通信领域顶级会议 ![ESI Highly Cited](https://img.shields.io/badge/ESI%20Highly%20Cited-orange?style=flat-square) **ESI高被引论文（全球引用率前1%）** ![Citations](https://img.shields.io/badge/Cited%20by-92-blue?style=flat-square) **谷歌学术被引92次**
+5. `Yuntao Wang`, Zhou Su, Qichao Xu, Ruidong Li, and Tom H. Luan, "Lifesaving with RescueChain: Energy-Efficient and Partition-Tolerant Blockchain Based Secure Information Sharing for UAV-Aided Disaster Rescue," **Proceedings of IEEE INFOCOM**, 1-10 (2021) ![CCF-A](https://img.shields.io/badge/CCF--A-red?style=flat-square) **网络通信领域顶级会议** ![ESI Highly Cited](https://img.shields.io/badge/ESI%20Highly%20Cited-orange?style=flat-square) **ESI高被引论文（全球引用率前1%）** ![Citations](https://img.shields.io/badge/Cited%20by-92-blue?style=flat-square) **谷歌学术被引92次**
 
-6. `Yuntao Wang`, Zhou Su, Abderrahim Benslimane, Qichao Xu, Minghui Dai, and Ruidong Li, "Collaborative Honeypot Defense in UAV Networks: A Learning-Based Game Approach," **IEEE Transactions on Information Forensics and Security (TIFS)**, 19: 1963-1978 (2024) ![CCF-A](https://img.shields.io/badge/CCF--A-red?style=flat-square) 网络与信息安全领域顶级期刊，影响因子6.8
+6. `Yuntao Wang`, Zhou Su, Abderrahim Benslimane, Qichao Xu, Minghui Dai, and Ruidong Li, "Collaborative Honeypot Defense in UAV Networks: A Learning-Based Game Approach," **IEEE Transactions on Information Forensics and Security (TIFS)**, 19: 1963-1978 (2024) ![CCF-A](https://img.shields.io/badge/CCF--A-red?style=flat-square) **网络与信息安全领域顶级期刊**，影响因子6.8
 
-7. `Yuntao Wang`, Zhou Su, Tom H. Luan, Jiliang Li, Qichao Xu, and Ruidong Li, "SEAL: A Strategy-Proof and Privacy-Preserving UAV Computation Offloading Framework," **IEEE Transactions on Information Forensics and Security (TIFS)**, 18: 5213-5228 (2023) ![CCF-A](https://img.shields.io/badge/CCF--A-red?style=flat-square) 网络与信息安全领域顶级期刊，影响因子6.8
+7. `Yuntao Wang`, Zhou Su, Tom H. Luan, Jiliang Li, Qichao Xu, and Ruidong Li, "SEAL: A Strategy-Proof and Privacy-Preserving UAV Computation Offloading Framework," **IEEE Transactions on Information Forensics and Security (TIFS)**, 18: 5213-5228 (2023) ![CCF-A](https://img.shields.io/badge/CCF--A-red?style=flat-square) **网络与信息安全领域顶级期刊**，影响因子6.8
 
-8. `Yuntao Wang`, Kun Qian, Yanghe Pan, Zhou Su, and Wei Wang, "Privacy-Utility Trade-Off in Federated LLM Fine-Tuning: A Dynamic Game Approach," **IEEE Transactions on Networking (TON)**, 34: 3242-3257 (2026) ![CCF-A](https://img.shields.io/badge/CCF--A-red?style=flat-square) 计算机网络领域顶级期刊，影响因子3.7
+8. `Yuntao Wang`, Kun Qian, Yanghe Pan, Zhou Su, and Wei Wang, "Privacy-Utility Trade-Off in Federated LLM Fine-Tuning: A Dynamic Game Approach," **IEEE Transactions on Networking (TON)**, 34: 3242-3257 (2026) ![CCF-A](https://img.shields.io/badge/CCF--A-red?style=flat-square) **计算机网络领域顶级期刊**，影响因子3.7
 
-9. `Yuntao Wang`, Zhou Su, Yanghe Pan, Tom H. Luan, Ruidong Li, and Shui Yu, "Social-Aware Clustered Federated Learning With Customized Privacy Preservation," **IEEE/ACM Transactions on Networking (TON)**, 32(5): 3654-3668 (2024) ![CCF-A](https://img.shields.io/badge/CCF--A-red?style=flat-square) 计算机网络领域顶级期刊，影响因子3.7
+9. `Yuntao Wang`, Zhou Su, Yanghe Pan, Tom H. Luan, Ruidong Li, and Shui Yu, "Social-Aware Clustered Federated Learning With Customized Privacy Preservation," **IEEE/ACM Transactions on Networking (TON)**, 32(5): 3654-3668 (2024) ![CCF-A](https://img.shields.io/badge/CCF--A-red?style=flat-square) **计算机网络领域顶级期刊**，影响因子3.7
 
-10. Zhou Su（博士导师苏洲）, `Yuntao Wang`, Qichao Xu, and Ning Zhang, "LVBS: Lightweight Vehicular Blockchain for Secure Data Sharing in Disaster Rescue," **IEEE Transactions on Dependable and Secure Computing (TDSC)**, 19(1): 19-32 (2022) ![CCF-A](https://img.shields.io/badge/CCF--A-red?style=flat-square) 网络与信息安全领域顶级期刊，影响因子7.3·![ESI Hot](https://img.shields.io/badge/ESI%20Hot%20Paper-🔥-red?style=flat-square) **ESI热点论文（全球引用率前0.1%）** ![Citations](https://img.shields.io/badge/Cited%20by-280-blue?style=flat-square) **谷歌学术被引280次**
+10. Zhou Su（博士导师苏洲）, `Yuntao Wang`, Qichao Xu, and Ning Zhang, "LVBS: Lightweight Vehicular Blockchain for Secure Data Sharing in Disaster Rescue," **IEEE Transactions on Dependable and Secure Computing (TDSC)**, 19(1): 19-32 (2022) ![CCF-A](https://img.shields.io/badge/CCF--A-red?style=flat-square) **网络与信息安全领域顶级期刊**，影响因子7.3·![ESI Hot](https://img.shields.io/badge/ESI%20Hot%20Paper-🔥-red?style=flat-square) **ESI热点论文（全球引用率前0.1%）** ![Citations](https://img.shields.io/badge/Cited%20by-280-blue?style=flat-square) **谷歌学术被引280次**
 
-11. `Yuntao Wang`, Zhou Su, Jianbing Ni, Ning Zhang, and Xuemin Shen, "Blockchain-Empowered Space-Air-Ground Integrated Networks: Opportunities, Challenges, and Solutions," **IEEE Communications Surveys & Tutorials (COMST)**, 24(1): 160-209 (2022) 计算机与信息领域领域影响因子最高期刊 ![IF](https://img.shields.io/badge/IF-50.6-red?style=flat-square) **影响因子50.6** ![ESI Highly Cited](https://img.shields.io/badge/ESI%20Highly%20Cited-orange?style=flat-square) **ESI高被引论文（Top 1%）** ![Citations](https://img.shields.io/badge/Cited%20by-259-blue?style=flat-square) **谷歌学术被引259次**
+11. `Yuntao Wang`, Zhou Su, Jianbing Ni, Ning Zhang, and Xuemin Shen, "Blockchain-Empowered Space-Air-Ground Integrated Networks: Opportunities, Challenges, and Solutions," **IEEE Communications Surveys & Tutorials (COMST)**, 24(1): 160-209 (2022) **计算机与信息领域领域影响因子最高期刊** ![IF](https://img.shields.io/badge/IF-50.6-red?style=flat-square) **影响因子50.6** ![ESI Highly Cited](https://img.shields.io/badge/ESI%20Highly%20Cited-orange?style=flat-square) **ESI高被引论文（Top 1%）** ![Citations](https://img.shields.io/badge/Cited%20by-259-blue?style=flat-square) **谷歌学术被引259次**
 
-12. `Yuntao Wang`, Yanghe Pan, Zhou Su, Yi Deng, Quan Zhao, Linkang Du, Tom H. Luan, Jiawen Kang, and Dusit Niyato, "Large Model-Based Agents: State-of-the-Art, Cooperation Paradigms, Security and Privacy, and Future Trends," **IEEE Communications Surveys & Tutorials (COMST)**, 28: 1906-1949 (2026) 计算机与信息领域领域影响因子最高期刊 ![IF](https://img.shields.io/badge/IF-50.6-red?style=flat-square) **影响因子50.6**·![ESI Highly Cited](https://img.shields.io/badge/ESI%20Highly%20Cited-orange?style=flat-square) **ESI高被引论文（Top 1%）** ![Citations](https://img.shields.io/badge/Cited%20by-92-blue?style=flat-square) **谷歌学术被引92次**
+12. `Yuntao Wang`, Yanghe Pan, Zhou Su, Yi Deng, Quan Zhao, Linkang Du, Tom H. Luan, Jiawen Kang, and Dusit Niyato, "Large Model-Based Agents: State-of-the-Art, Cooperation Paradigms, Security and Privacy, and Future Trends," **IEEE Communications Surveys & Tutorials (COMST)**, 28: 1906-1949 (2026) **计算机与信息领域领域影响因子最高期刊** ![IF](https://img.shields.io/badge/IF-50.6-red?style=flat-square) **影响因子50.6**·![ESI Highly Cited](https://img.shields.io/badge/ESI%20Highly%20Cited-orange?style=flat-square) **ESI高被引论文（Top 1%）** ![Citations](https://img.shields.io/badge/Cited%20by-92-blue?style=flat-square) **谷歌学术被引92次**
 
-13. `Yuntao Wang`, Zhou Su, Ning Zhang, and Abderrahim Benslimane, "Learning in the Air: Secure Federated Learning for UAV-Assisted Crowdsensing," **IEEE Transactions on Network Science and Engineering (TNSE)**, 8(2): 1055-1069 (2021) 网络管理顶级期刊，影响因子7.9 ![ESI Highly Cited](https://img.shields.io/badge/ESI%20Highly%20Cited-orange?style=flat-square) **ESI高被引论文（Top 1%）** ![Citations](https://img.shields.io/badge/Cited%20by-365-blue?style=flat-square) **谷歌学术被引365次**
+13. `Yuntao Wang`, Zhou Su, Ning Zhang, and Abderrahim Benslimane, "Learning in the Air: Secure Federated Learning for UAV-Assisted Crowdsensing," **IEEE Transactions on Network Science and Engineering (TNSE)**, 8(2): 1055-1069 (2021) **网络管理领域顶级期刊**，影响因子7.9 ![ESI Highly Cited](https://img.shields.io/badge/ESI%20Highly%20Cited-orange?style=flat-square) **ESI高被引论文（Top 1%）** ![Citations](https://img.shields.io/badge/Cited%20by-365-blue?style=flat-square) **谷歌学术被引365次**
 
-14. `Yuntao Wang`, Zhou Su, Ning Zhang, Jianfei Chen, Xin Sun, Zhiyuan Ye, and Zhenyu Zhou, "SPDS: A Secure and Auditable Private Data Sharing Scheme for Smart Grid Based on Blockchain," **IEEE Transactions on Industrial Informatics (TII)**, 17(11): 7688-7699 (2021) 工业信息顶级期刊，影响因子9.9 ![Citations](https://img.shields.io/badge/Cited%20by-193-blue?style=flat-square) **谷歌学术被引193次**
+14. `Yuntao Wang`, Zhou Su, Ning Zhang, Jianfei Chen, Xin Sun, Zhiyuan Ye, and Zhenyu Zhou, "SPDS: A Secure and Auditable Private Data Sharing Scheme for Smart Grid Based on Blockchain," **IEEE Transactions on Industrial Informatics (TII)**, 17(11): 7688-7699 (2021) **工业信息领域顶级期刊**，影响因子9.9 ![Citations](https://img.shields.io/badge/Cited%20by-193-blue?style=flat-square) **谷歌学术被引193次**
 
-15. `Yuntao Wang`, Zhou Su, and Ning Zhang, "BSIS: Blockchain-Based Secure Incentive Scheme for Energy Delivery in Vehicular Energy Network," **IEEE Transactions on Industrial Informatics (TII)**, 15(6): 3620-3631 (2019) 工业信息顶级期刊，影响因子9.9 ![Citations](https://img.shields.io/badge/Cited%20by-265-blue?style=flat-square) **谷歌学术被引265次**
+15. `Yuntao Wang`, Zhou Su, and Ning Zhang, "BSIS: Blockchain-Based Secure Incentive Scheme for Energy Delivery in Vehicular Energy Network," **IEEE Transactions on Industrial Informatics (TII)**, 15(6): 3620-3631 (2019) **工业信息领域顶级期刊**，影响因子9.9 ![Citations](https://img.shields.io/badge/Cited%20by-265-blue?style=flat-square) **谷歌学术被引265次**
+
+30. `Yuntao Wang`, Zhou Su, Tom H. Luan, Ruidong Li, and Kuan Zhang, "Federated Learning With Fair Incentives and Robust Aggregation for UAV-Aided Crowdsensing," **IEEE Transactions on Network Science and Engineering (TNSE)**, 9(5): 3179-3196 (2022) **网络管理领域顶级期刊**，影响因子xx
+
+31. `Yuntao Wang`, Tom H. Luan, Zhou Su, Ning Zhang, and Abderrahim Benslimane, "A Secure and Efficient Wireless Charging Scheme for Electric Vehicles in Vehicular Energy Networks," **IEEE Transactions on Vehicular Technology (TVT)**, 71(2): 1491-1508 (2022) **车辆网络领域顶级期刊**，影响因子xx
+
+32. `Yuntao Wang`, Zhou Su, Jiliang Li, Ning Zhang, Kuan Zhang, Kim-Kwang Raymond Choo, and Yang Liu, "Blockchain-Based Secure and Cooperative Private Charging Pile Sharing Services for Vehicular Networks," **IEEE Transactions on Vehicular Technology (TVT)**, 71(2): 1857-1874 (2022) **车辆网络领域顶级期刊**，影响因子xx
+
+36. `Yuntao Wang`, Zhou Su, Qichao Xu, Tingting Yang, and Ning Zhang, "A Novel Charging Scheme for Electric Vehicles With Smart Communities in Vehicular Networks," **IEEE Transactions on Vehicular Technology (TVT)**, 68(9): 8487-8501 (2019) **车辆网络领域顶级期刊**，影响因子xx
+
+34. Zhou Su（博士导师苏洲）, `Yuntao Wang`, Tom H. Luan, Ning Zhang, Fan Li, Tianyu Chen, and Hong Cao, "Secure and Efficient Federated Learning for Smart Grid With Edge-Cloud Collaboration," **IEEE Transactions on Industrial Informatics (TII)**, 18(2): 1333-1344 (2022) **工业信息领域顶级期刊**，影响因子xx![ESI Highly Cited](https://img.shields.io/badge/ESI%20Highly%20Cited-orange?style=flat-square)
+
 
 16. `王云涛`, 何春林, 苏洲, "面向高级持续性威胁的卫星互联网最优修复策略," **中国科学: 信息科学**, 56(3): 603-619 (2026) **CCF-T1类中文期刊，中科院一区，影响因子7.6**
 
@@ -79,43 +90,35 @@ redirect_from:
 
 18. `王云涛`, 苏洲, 高源, 巴建乐, "低空智联网架构、安全与优化关键技术," **电子与信息学报**, 48(3): 889-913 (2026) **CCF-T1类中文期刊，入选封面文章、领军专栏**
 
-19. `Yuntao Wang`, Xiaolin Niu, Jianle Ba, Zhou Su, and Linkang Du, "Navigating Embodied Intelligence: Enabling Technologies, Security and Privacy, and Emerging Trends," **IEEE Internet of Things Journal (IoT-J)**, 13(6): 10317-10338 (2026)
 
-20. `Yuntao Wang`, Shaolong Guo, Yanghe Pan, Zhou Su, Fahao Chen, Tom H. Luan, Peng Li, Jiawen Kang, and Dusit Niyato, "Internet of Agents: Fundamentals, Applications, and Challenges," **IEEE Transactions on Cognitive Communications and Networking (TCCN)**, 12: 4476-4501 (2026)
+20. `Yuntao Wang`, Shaolong Guo, Yanghe Pan, Zhou Su, Fahao Chen, Tom H. Luan, Peng Li, Jiawen Kang, and Dusit Niyato, "Internet of Agents: Fundamentals, Applications, and Challenges," **IEEE Transactions on Cognitive Communications and Networking (TCCN)**, 12: 4476-4501 (2026) **认知通信网络领域顶级期刊**，影响因子xx
 
-21. `Yuntao Wang`, Yanghe Pan, Shaolong Guo, and Zhou Su, "Security of Internet of Agents: Attacks and Countermeasures," **IEEE Open Journal of the Computer Society (OJCS)**, 6: 1611-1624 (2025), DOI: 10.1109/OJCS.2025.3589638
+21. `Yuntao Wang`, Yanghe Pan, Shaolong Guo, and Zhou Su, "Security of Internet of Agents: Attacks and Countermeasures," **IEEE Open Journal of the Computer Society (OJCS)**, 6: 1611-1624 (2025) **计算机网络领域旗舰期刊**，影响因子xxx
 
-22. `Yuntao Wang`, Qinnan Hu, Zhou Su, Linkang Du, Qichao Xu, and Weiwei Li, "Large Model Empowered Metaverse: State-of-the-Art, Challenges and Opportunities," **IEEE Network**, DOI: 10.1109/MNET.2025.3597127 (2025)
+27. `Yuntao Wang`, Yanghe Pan, Miao Yan, Zhou Su, and Tom H. Luan, "A Survey on ChatGPT: AI-Generated Contents, Challenges, and Solutions," **IEEE Open Journal of the Computer Society (OJCS)**, 4: 280-302 (2023) **计算机网络领域旗舰期刊**，影响因子xxx
 
-23. `Yuntao Wang`, Qinnan Hu, Zhendong Li, Zhou Su, Ruidong Li, Xiang Zou, and Jian Zhou, "Blockchain-Envisioned UAV-Aided Disaster Relief Networks: Challenges and Solutions," **IEEE Communications Magazine**, 63(5): 214-221 (2025)
+23. `Yuntao Wang`, Qinnan Hu, Zhou Su, Linkang Du, Qichao Xu, and Weiwei Li, "Large Model Empowered Metaverse: State-of-the-Art, Challenges and Opportunities," **IEEE Network**, DOI: 10.1109/MNET.2025.3597127 (2025) **网络领域权威期刊**，影响因子xx
 
-24. `Yuntao Wang`, Han Liu, Zhendong Li, Zhou Su, and Jiliang Li, "Combating Advanced Persistent Threats: Challenges and Solutions," **IEEE Network**, 38(6): 324-333 (2024)
+24. `Yuntao Wang`, Qinnan Hu, Zhendong Li, Zhou Su, Ruidong Li, Xiang Zou, and Jian Zhou, "Blockchain-Envisioned UAV-Aided Disaster Relief Networks: Challenges and Solutions," **IEEE Communications Magazine**, 63(5): 214-221 (2025) **通信领域权威期刊**，影响因子xx
 
-25. `Yuntao Wang`, Zhou Su, Qichao Xu, Tom H. Luan, and Rongxing Lu, "Secured and Cooperative Publish/Subscribe Scheme in Autonomous Vehicular Networks," **IEEE Transactions on Intelligent Transportation Systems (TITS)**, 25(3): 2235-2252 (2024)
+25. `Yuntao Wang`, Han Liu, Zhendong Li, Zhou Su, and Jiliang Li, "Combating Advanced Persistent Threats: Challenges and Solutions," **IEEE Network**, 38(6): 324-333 (2024) **网络领域权威期刊**，影响因子xx
 
-26. `Yuntao Wang`, Zhou Su, and Miao Yan, "Social Metaverse: Challenges and Solutions," **IEEE Internet of Things Magazine**, 6(3): 144-150 (2023)
+26. `Yuntao Wang`, Zhou Su, Qichao Xu, Tom H. Luan, and Rongxing Lu, "Secured and Cooperative Publish/Subscribe Scheme in Autonomous Vehicular Networks," **IEEE Transactions on Intelligent Transportation Systems (TITS)**, 25(3): 2235-2252 (2024) **智能交通领域顶级期刊**，影响因子xx
 
-27. `Yuntao Wang`, Yanghe Pan, Miao Yan, Zhou Su, and Tom H. Luan, "A Survey on ChatGPT: AI-Generated Contents, Challenges, and Solutions," **IEEE Open Journal of the Computer Society (OJCS)**, 4: 280-302 (2023)
+27. `Yuntao Wang`, Zhou Su, and Miao Yan, "Social Metaverse: Challenges and Solutions," **IEEE Internet of Things Magazine**, 6(3): 144-150 (2023)**物联网领域旗舰期刊**，影响因子xxx
 
-28. `Yuntao Wang`, Zhou Su, Shaolong Guo, Minghui Dai, Tom H. Luan, and Yiliang Liu, "A Survey on Digital Twins: Architecture, Enabling Technologies, Security and Privacy, and Future Prospects," **IEEE Internet of Things Journal (IoT-J)**, 10(17): 14965-14987 (2023) ·![ESI Highly Cited](https://img.shields.io/badge/ESI%20Highly%20Cited-orange?style=flat-square)
+28. `Yuntao Wang`, Zhou Su, Shaolong Guo, Minghui Dai, Tom H. Luan, and Yiliang Liu, "A Survey on Digital Twins: Architecture, Enabling Technologies, Security and Privacy, and Future Prospects," **IEEE Internet of Things Journal (IoT-J)**, 10(17): 14965-14987 (2023) **物联网领域旗舰期刊**，影响因子xxx ![ESI Highly Cited](https://img.shields.io/badge/ESI%20Highly%20Cited-orange?style=flat-square)
 
-29. `Yuntao Wang`, Zhou Su, Ning Zhang, and Ruidong Li, "Mobile Wireless Rechargeable UAV Networks: Challenges and Solutions," **IEEE Communications Magazine**, 60(3): 33-39 (2022)
+19. `Yuntao Wang`, Xiaolin Niu, Jianle Ba, Zhou Su, and Linkang Du, "Navigating Embodied Intelligence: Enabling Technologies, Security and Privacy, and Emerging Trends," **IEEE Internet of Things Journal (IoT-J)**, 13(6): 10317-10338 (2026) **物联网领域旗舰期刊**，影响因子xxx
 
-30. `Yuntao Wang`, Zhou Su, Tom H. Luan, Ruidong Li, and Kuan Zhang, "Federated Learning With Fair Incentives and Robust Aggregation for UAV-Aided Crowdsensing," **IEEE Transactions on Network Science and Engineering (TNSE)**, 9(5): 3179-3196 (2022)
+29. `Yuntao Wang`, Zhou Su, Ning Zhang, and Ruidong Li, "Mobile Wireless Rechargeable UAV Networks: Challenges and Solutions," **IEEE Communications Magazine**, 60(3): 33-39 (2022) **通信领域权威期刊**，影响因子xx
 
-31. `Yuntao Wang`, Tom H. Luan, Zhou Su, Ning Zhang, and Abderrahim Benslimane, "A Secure and Efficient Wireless Charging Scheme for Electric Vehicles in Vehicular Energy Networks," **IEEE Transactions on Vehicular Technology (TVT)**, 71(2): 1491-1508 (2022)
+33. `Yuntao Wang`, Zhou Su, Ning Zhang, and Dongliang Fang, "Disaster Relief Wireless Networks: Challenges and Solutions," **IEEE Wireless Communications**, 28(5): 148-155 (2021) **无线通信领域权威期刊**，影响因子xx
 
-32. `Yuntao Wang`, Zhou Su, Jiliang Li, Ning Zhang, Kuan Zhang, Kim-Kwang Raymond Choo, and Yang Liu, "Blockchain-Based Secure and Cooperative Private Charging Pile Sharing Services for Vehicular Networks," **IEEE Transactions on Vehicular Technology (TVT)**, 71(2): 1857-1874 (2022)
+35. `Yuntao Wang`, Zhou Su, Kuan Zhang, and Abderrahim Benslimane, "Challenges and Solutions in Autonomous Driving: A Blockchain Approach," **IEEE Network**, 34(4): 218-226 (2020) **网络领域权威期刊**，影响因子xx
 
-33. `Yuntao Wang`, Zhou Su, Ning Zhang, and Dongliang Fang, "Disaster Relief Wireless Networks: Challenges and Solutions," **IEEE Wireless Communications**, 28(5): 148-155 (2021)
 
-34. Zhou Su（博士导师苏洲）, `Yuntao Wang`, Tom H. Luan, Ning Zhang, Fan Li, Tianyu Chen, and Hong Cao, "Secure and Efficient Federated Learning for Smart Grid With Edge-Cloud Collaboration," **IEEE Transactions on Industrial Informatics (TII)**, 18(2): 1333-1344 (2022) ·![ESI Highly Cited](https://img.shields.io/badge/ESI%20Highly%20Cited-orange?style=flat-square)
-
-35. `Yuntao Wang`, Zhou Su, Kuan Zhang, and Abderrahim Benslimane, "Challenges and Solutions in Autonomous Driving: A Blockchain Approach," **IEEE Network**, 34(4): 218-226 (2020)
-
-36. `Yuntao Wang`, Zhou Su, Qichao Xu, Tingting Yang, and Ning Zhang, "A Novel Charging Scheme for Electric Vehicles With Smart Communities in Vehicular Networks," **IEEE Transactions on Vehicular Technology (TVT)**, 68(9): 8487-8501 (2019)
-
-37. Zhou Su（博士导师苏洲）, `Yuntao Wang`, Qichao Xu, Minrui Fei, Yiming Tian, and Ning Zhang, "A Secure Charging Scheme for Electric Vehicles With Smart Communities in Energy Blockchain," **IEEE Internet of Things Journal (IoT-J)**, 6(3): 4601-4613 (2019)
+37. Zhou Su（博士导师苏洲）, `Yuntao Wang`, Qichao Xu, Minrui Fei, Yiming Tian, and Ning Zhang, "A Secure Charging Scheme for Electric Vehicles With Smart Communities in Energy Blockchain," **IEEE Internet of Things Journal (IoT-J)**, 6(3): 4601-4613 (2019) **物联网领域旗舰期刊**，影响因子xxx 
 
 38. Yiheng Sun, Linkang Du, Zhou Su, `Yuntao Wang`, and Han Liu, "URLcoat: Exploiting Web Search Capability to Jailbreak Large Language Models," **Proceedings of IEEE Symposium on Security and Privacy (IEEE S&P/Oakland)** (2026) 安全领域四大顶会
 
