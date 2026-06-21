@@ -117,15 +117,15 @@ redirect_from:
 
 35. `Yuntao Wang`, Zhou Su, Kuan Zhang, and Abderrahim Benslimane, "Challenges and Solutions in Autonomous Driving: A Blockchain Approach," **IEEE Network**, 34(4): 218-226 (2020) **网络领域权威期刊**，影响因子8.8 ![JCR Q1](https://img.shields.io/badge/JCR--Q1-9C27B0?style=flat-square) 
 
-38. Yiheng Sun, Linkang Du, Zhou Su, `Yuntao Wang`, and Han Liu, "URLcoat: Exploiting Web Search Capability to Jailbreak Large Language Models," **Proceedings of IEEE Symposium on Security and Privacy (IEEE S&P)** (2026) ![CCF-A](https://img.shields.io/badge/CCF--A-red?style=flat-square) **安全领域四大顶会**
+38. Yiheng Sun, Linkang Du, Zhou Su, `Yuntao Wang`, and Han Liu, "URLcoat: Exploiting Web Search Capability to Jailbreak Large Language Models," **Proceedings of IEEE S&P (Oakland)** (2026) ![CCF-A](https://img.shields.io/badge/CCF--A-red?style=flat-square) **安全领域四大顶会**
 
-39. Quan Zhao, Linkang Du, `Yuntao Wang`, Zhou Su, Zheng Li, Xiangshan Gao, and Yang Zhang, "Unveiling the Pitfalls of Data-Free Backdoor Detection Against Pre-Trained Models," **Proceedings of USENIX Security Symposium (USENIX Security)** (2026) ![CCF-A](https://img.shields.io/badge/CCF--A-red?style=flat-square) **安全领域四大顶会** 
+39. Quan Zhao, Linkang Du, `Yuntao Wang`, Zhou Su, Zheng Li, Xiangshan Gao, and Yang Zhang, "Unveiling the Pitfalls of Data-Free Backdoor Detection Against Pre-Trained Models," **Proceedings of USENIX Security** (2026) ![CCF-A](https://img.shields.io/badge/CCF--A-red?style=flat-square) **安全领域四大顶会** 
 
 1. Qinnan Hu, `Yuntao Wang`, Zhou Su, Tom H. Luan, and Ruidong Li, "ConWatcher: Towards Adaptive and Label-Efficient Online Smart Contract Analysis in Blockchains," **Proceedings of IEEE INFOCOM**, 1–10 (2025) ![CCF-A](https://img.shields.io/badge/CCF--A-red?style=flat-square) **网络通信领域顶级会议**
 
-2. Shaolong Guo, `Yuntao Wang`, Zhou Su, Tom H. Luan, "Incentivizing truthful machine unlearning via hierarchical auditing," **Proceedings of the International Joint Conference on Artificial Intelligence (IJCAI)**, 1-9 (2026) **人工智能领域顶级会议**，**Core A*类会议**，**当年录取率13.0%**
+2. Shaolong Guo, `Yuntao Wang`, Zhou Su, Tom H. Luan, "Incentivizing truthful machine unlearning via hierarchical auditing," **Proceedings of IJCAI**, 1-9 (2026) **人工智能领域顶级会议**，**Core A*类会议**，**当年录取率13.0%**
 
-4. Shaolong Guo, Yuntao Wang, Qinnan Hu, Zhou Su, Tom H. Luan, "Towards scalable metaverse systems with social-aware VR displays," **Proceedings of the International Joint Conference on Artificial Intelligence (IJCAI)**, 1-9 (2026) **人工智能领域顶级会议**，**Core A*类会议**，**当年录取率13.0%**
+4. Shaolong Guo, Yuntao Wang, Qinnan Hu, Zhou Su, Tom H. Luan, "Towards scalable metaverse systems with social-aware VR displays," **Proceedings of IJCAI**, 1-9 (2026) **人工智能领域顶级会议**，**Core A*类会议**，**当年录取率13.0%**
 
 5. Liang Xie, `Yuntao Wang`, Hengzhi Wang, and Laizhong Cui, "Long-Term Optimal Incentives for Differential-Privacy Federated Learning: A Multi-Stage Game Approach," **IEEE Transactions on Mobile Computing (TMC)**, 25: 1–16 (2026) ![CCF-A](https://img.shields.io/badge/CCF--A-red?style=flat-square) **移动计算领域顶级期刊**，影响因子7.9
 
