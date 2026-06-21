@@ -152,7 +152,7 @@ redirect_from:
 
 16. Zixuan Wang, Jiliang Li, `Yuntao Wang`, Zhou Su, Shui Yu, and Weizhi Meng, "Optimal Repair Strategy Against Advanced Persistent Threats Under Time-Varying Networks," **IEEE Transactions on Information Forensics and Security (TIFS)**, 18: 2345–2360 (2023) ![CCF-A](https://img.shields.io/badge/CCF--A-red?style=flat-square) **网络与信息安全领域顶级期刊**，影响因子8.7
 
-17. Liang Xie, Zhou Su, `Yuntao Wang`, "A Two-Stage Secure Incentive Mechanism in App-and UAV-Assisted Crowdsensing," **IEEE Transactions on Network and Service Management (TNSM)**, 21(5): 5234–5249 (2024) **网络管理领域重要期刊**，影响因子4.7
+17. Liang Xie, Zhou Su, `Yuntao Wang`, "A Two-Stage Secure Incentive Mechanism in App-and UAV-Assisted Crowdsensing," **IEEE Transactions on Network and Service Management (TNSM)**, 21(5): 5234–5249 (2024) **网络管理领域重要期刊**，影响因子5.7
 
 18. Yanghe Pan, Zhou Su, `Yuntao Wang`, Jinhao Zhou, and Mohamed Mahmoud, "Privacy-Preserving Byzantine-Robust Federated Learning via Deep Reinforcement Learning in Vehicular Networks," **IEEE Transactions on Vehicular Technology (TVT)**, 74(6): 9876–9891 (2025) **车辆网络领域顶级期刊**，影响因子7.5
 
