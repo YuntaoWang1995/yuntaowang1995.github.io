@@ -51,6 +51,13 @@ AcadHomepage
     1. 更多的配置信息在注释中有详细描述。
 1. 将你的主页内容添加到 [_pages/about.md](../_pages/about.md).
 1. 你的主页将会被部署到`https://USERNAME.github.io`.
+Note：
+1. _config.yml：修改配置信息
+2. _pages/about.md：展示个人主页
+3. _data/navigation.yml：更改导航栏信息
+4. _includes/masthead.html：切换左上角中英文按钮
+5. _includes/head.html：修改脚标
+6. images：右上角操作上传本人照片、删除除了cn/en.svg的所有照片，预览窗格icon更新见主页使使用 [favicon-generator](https://redketchup.io/favicon-generator)生成favicon（网页icon文件），并在页面右上角add file添加进文件夹
 
 ## 本地调试
 
