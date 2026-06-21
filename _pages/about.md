@@ -96,11 +96,11 @@ redirect_from:
 
 37. Zhou Su（博士导师苏洲）, `Yuntao Wang`, Qichao Xu, Minrui Fei, Yiming Tian, and Ning Zhang, "A Secure Charging Scheme for Electric Vehicles With Smart Communities in Energy Blockchain," **IEEE Internet of Things Journal (IoT-J)**, 6(3): 4601-4613 (2019) **物联网领域旗舰期刊**，影响因子8.7 ![ESI Highly Cited](https://img.shields.io/badge/ESI%20Highly%20Cited-orange?style=flat-square) **ESI高被引论文（Top 1%）** ![Citations](https://img.shields.io/badge/Cited%20by-472-blue?style=flat-square) **谷歌学术被引472次**
 
-16. `王云涛`, 何春林, 苏洲, "面向高级持续性威胁的卫星互联网最优修复策略," **中国科学: 信息科学**, 56(3): 603-619 (2026) **CCF-T1类中文期刊，中科院一区，影响因子8.1**
+16. `王云涛`, 何春林, 苏洲, "面向高级持续性威胁的卫星互联网最优修复策略," **中国科学: 信息科学**, 56(3): 603-619 (2026) **CCF-T1类中文期刊，中科院一区，影响因子8.1**，计算机与信息领域中文顶刊
 
-17. `王云涛`, 苏洲, 许其超, 刘怡良, 彭海霞, 栾浩, "基于审计博弈的安全协作频谱感知方案," **通信学报**, 44(12): 1-14 (2023) **CCF-T1类推荐中文期刊**
+17. `王云涛`, 苏洲, 许其超, 刘怡良, 彭海霞, 栾浩, "基于审计博弈的安全协作频谱感知方案," **通信学报**, 44(12): 1-14 (2023) **CCF-T1类推荐中文期刊**，通信领域中文顶刊
 
-18. `王云涛`, 苏洲, 高源, 巴建乐, "低空智联网架构、安全与优化关键技术," **电子与信息学报**, 48(3): 889-913 (2026) **CCF-T1类中文期刊，入选封面文章、领军专栏**
+18. `王云涛`, 苏洲, 高源, 巴建乐, "低空智联网架构、安全与优化关键技术," **电子与信息学报**, 48(3): 889-913 (2026) **CCF-T1类中文期刊，入选封面文章、领军专栏**，电子信息领域中文顶刊
     
 23. `Yuntao Wang`, Qinnan Hu, Zhou Su, Linkang Du, Qichao Xu, and Weiwei Li, "Large Model Empowered Metaverse: State-of-the-Art, Challenges and Opportunities," **IEEE Network**, DOI: 10.1109/MNET.2025.3597127 (2025) **网络领域权威期刊**，影响因子8.8 ![JCR Q1](https://img.shields.io/badge/JCR--Q1-9C27B0?style=flat-square) 
 
@@ -127,10 +127,18 @@ redirect_from:
 
 <span class='anchor' id='-ryjx'></span>
 
-# 🏅 荣誉奖项
-- *2015.11* 获得 第十四届“挑战杯”全国大学生课外学术科技作品竞赛 `一等奖`  
-- *2015.06* 获得 第十三届“挑战杯”四川大学生课外学术科技作品竞赛 `一等奖` [[新闻]](https://www.sc.gov.cn/10462/10778/10876/2015/7/1/10341562.shtml)  
-- *2014.12* 获得 第四届全国大学生工程训练综合能力竞赛（四川赛区） `一等奖`  
+# 🏅 荣誉奖项Awards
+- 入选2025年度**科睿唯安全球高被引学者（Clarivate Highly Cited Researchers）**
+- 入选2023年度**国家博士后创新人才支持计划（博新计划）**
+- 入选2024年度**中国电子学会博士学位论文激励计划（优博）**
+- 2023~2025年度连续入选**全球前2%顶尖科学家**
+- 入选2026年度**西安交通大学青年拔尖人才支持计划B类**
+- **陕西省自然科学一等奖**（排名第四，项目名称：空天地一体化网络时空动态协同资源优化与安全防护）
+- **IEEE BigDataSE2019（新西兰举办）Best Paper Award**, 2019, IEEE计算机学会颁发
+- **IEEE IWCMC2022（克罗地亚举办）Best Paper Award**, 2022，IEEE通信学会颁发
+- **IEEE SmartCloud2024（美国纽约举办）Best Paper Award**, 2024，IEEE计算机学会颁发
+- **IEEE AIoT2024（澳大利亚墨尔本举办）Best Paper Award**, 2024，IEEE通信学会颁发
+- **IEEE MetaCom2025（韩国首尔举办）Best Paper Award**, 2025，IEEE通信学会颁发
 
 <span class='anchor' id='-xshy'></span>
 
@@ -138,11 +146,15 @@ redirect_from:
 1.  2024-2026 基于联邦学习的物联网数据安全共享关键技术 (No.62302387)，国家自然科学基金青年科学基金项目，主持，在研
 2.  2023-2026 工业生产控制软件安全分布式众测技术(No.2023YFB3100131)子课题，科技部国家重点研发计划项目，主持，在研
 3.  2022-2025 低空智联网安全管控与服务关键技术(No.2022YFB3104500)子课题，科技部国家重点研发计划项目，主持，在研
-4.  2024-2025 博士后面上资助，主持，在研
+4.  2023-2026 国家博士后创新人才支持计划，主持，结题
+5.  2024-2025 博士后面上资助，主持，结题
 
 <span class='anchor' id='-gzsx'></span>
 
 # 🏛️ 学术活动
+1. 期刊编委
+- 中国计算机学会T1 级期刊《电子与信息学报》，青年编委
+- 中国通信学会T2 级期刊《网络空间安全科学学报》无人机网络安全专题，责任编委
 1. Reviewer for
 - IEEE Transactions on Dependable and Secure Computing(CCFA，JCR一区，IF：6.791)
 - IEEE Transactions on Information Forensics and Security(CCFA，JCR一区，IF：7.231)
@@ -162,8 +174,10 @@ redirect_from:
 - IEEE Transactions on Energy Markets, Policy and Regulation(JCR 一区)
 - IEEE Internet of Things Journal (JCR 一区，IF：10.238)
 - IEEE Communications Magazine (JCR 一区，IF：9.03)
-- TPC member of IEEE INFOCOM ICCN 2023, IEEE WCSP'19, IEEE WCSP'23
+- TPC member of IEEE ICC24~26, GlobeCom24~26, VTC24~26, IEEE INFOCOM ICCN 2023, IEEE WCSP'19, IEEE WCSP'23
 - Session Chair of IEEE ICC'23 - CISS Symposium (Rome, Italy)
-1. Reviewer for
+1. TPC member of
+- ICC24~26, GlobeCom24~26, VTC24~26, IEEE INFOCOM ICCN 2023, IEEE WCSP'19, IEEE WCSP'23
+2. Session Chair of IEEE ICC'23 - CISS Symposium (Rome, Italy)
 
 <span class='anchor' id='-gzsx'></span>
