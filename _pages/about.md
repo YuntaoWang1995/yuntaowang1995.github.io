@@ -99,11 +99,11 @@ redirect_from:
 
 37. Zhou Su（博士导师苏洲）, `Yuntao Wang`, Qichao Xu, Minrui Fei, Yiming Tian, and Ning Zhang, "A Secure Charging Scheme for Electric Vehicles With Smart Communities in Energy Blockchain," **IEEE Internet of Things Journal (IoT-J)**, 6(3): 4601-4613 (2019) **物联网领域旗舰期刊**，影响因子8.7 ![ESI Highly Cited](https://img.shields.io/badge/ESI%20Highly%20Cited-orange?style=flat-square) **ESI高被引论文（Top 1%）** ![Citations](https://img.shields.io/badge/Cited%20by-472-blue?style=flat-square) **谷歌学术被引472次**
 
-16. `王云涛`, 何春林, 苏洲, "面向高级持续性威胁的卫星互联网最优修复策略," **中国科学: 信息科学**, 56(3): 603-619 (2026) **CCF-T1类中文期刊，中科院一区，影响因子8.1**，计算机与信息领域中文顶刊 🔗 [PDF](http://scis.scichina.com/cn/2026/SSI-2025-0462.pdf) 
+16. `王云涛`, 何春林, 苏洲, "面向高级持续性威胁的卫星互联网最优修复策略," **中国科学: 信息科学**, 56(3): 603-619 (2026) ![CCF-A](https://img.shields.io/badge/CCF--T1-red?style=flat-square) **CCF-T1类中文期刊，中科院一区，影响因子8.1**，计算机与信息领域中文顶刊 🔗 [PDF](http://scis.scichina.com/cn/2026/SSI-2025-0462.pdf) 
 
-17. `王云涛`, 苏洲, 许其超, 刘怡良, 彭海霞, 栾浩, "基于审计博弈的安全协作频谱感知方案," **通信学报**, 44(12): 1-14 (2023) **CCF-T1类推荐中文期刊**，通信领域中文顶刊 🔗 [PDF](https://www.joconline.com.cn/previewFile?id=75612005&type=pdf&lang=zh) 
+17. `王云涛`, 苏洲, 许其超, 刘怡良, 彭海霞, 栾浩, "基于审计博弈的安全协作频谱感知方案," **通信学报**, 44(12): 1-14 (2023) ![CCF-A](https://img.shields.io/badge/CCF--T1-red?style=flat-square) **CCF-T1类推荐中文期刊**，通信领域中文顶刊 🔗 [PDF](https://www.joconline.com.cn/previewFile?id=75612005&type=pdf&lang=zh) 
 
-18. `王云涛`, 苏洲, 高源, 巴建乐, "低空智联网架构、安全与优化关键技术," **电子与信息学报**, 48(3): 889-913 (2026) **CCF-T1类中文期刊，入选封面文章、领军专栏**，电子信息领域中文顶刊 🔗 [PDF](https://jeit.ac.cn/cn/article/doi/10.11999/JEIT250947?viewType=HTML) 
+18. `王云涛`, 苏洲, 高源, 巴建乐, "低空智联网架构、安全与优化关键技术," **电子与信息学报**, 48(3): 889-913 (2026) ![CCF-A](https://img.shields.io/badge/CCF--T1-red?style=flat-square) **CCF-T1类中文期刊，入选封面文章、领军专栏**，电子信息领域中文顶刊 🔗 [PDF](https://jeit.ac.cn/cn/article/doi/10.11999/JEIT250947?viewType=HTML) 
     
 23. `Yuntao Wang`, Qinnan Hu, Zhou Su, Linkang Du, Qichao Xu, and Weiwei Li, "Large Model Empowered Metaverse: State-of-the-Art, Challenges and Opportunities," **IEEE Network**, DOI: 10.1109/MNET.2025.3597127 (2025) **网络领域权威期刊**，影响因子8.8 ![JCR Q1](https://img.shields.io/badge/JCR--Q1-9C27B0?style=flat-square) 
 
