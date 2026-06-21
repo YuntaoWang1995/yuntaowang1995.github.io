@@ -40,7 +40,7 @@ redirect_from:
  
 <span class='anchor' id='-lwzl'></span>
 
-# 📝 论文成果Publications
+# 📝 论文成果
 
 1. `Yuntao Wang`, Zhou Su, Ning Zhang, Rui Xing, Dongxiao Liu, Tom H. Luan, and Xuemin Shen, "A Survey on Metaverse: Fundamentals, Security, and Privacy," **IEEE Communications Surveys & Tutorials (COMST)**, 25(1): 319-352 (2023) ![IF](https://img.shields.io/badge/IF-50.6-red?style=flat-square) **计算机与信息领域影响因子最高期刊（影响因子50.6）** ![ESI Hot](https://img.shields.io/badge/ESI%20Hot%20Paper-🔥-red?style=flat-square) **ESI热点论文（全球引用率前0.1%）** ![Citations](https://img.shields.io/badge/Cited%20by-2100-blue?style=flat-square) **谷歌学术被引2000余次** 
 
@@ -127,7 +127,7 @@ redirect_from:
 
 <span class='anchor' id='-ryjx'></span>
 
-# 🏅 荣誉奖项Awards
+# 🏅 国际奖项
 - 入选2025年度**科睿唯安全球高被引学者（Clarivate Highly Cited Researchers）**
 - 入选2023年度**国家博士后创新人才支持计划（博新计划）**
 - 入选2024年度**中国电子学会博士学位论文激励计划（优博）**
@@ -142,7 +142,7 @@ redirect_from:
 
 <span class='anchor' id='-xshy'></span>
 
-# 项目
+# 💻 科研项目
 1.  2024-2026 基于联邦学习的物联网数据安全共享关键技术 (No.62302387)，国家自然科学基金青年科学基金项目，主持，在研
 2.  2023-2026 工业生产控制软件安全分布式众测技术(No.2023YFB3100131)子课题，科技部国家重点研发计划项目，主持，在研
 3.  2022-2025 低空智联网安全管控与服务关键技术(No.2022YFB3104500)子课题，科技部国家重点研发计划项目，主持，在研
@@ -151,7 +151,7 @@ redirect_from:
 
 <span class='anchor' id='-gzsx'></span>
 
-# 🏛️ 学术活动
+# 🏛️ 学术服务
 1. 期刊编委
 - 中国计算机学会T1 级期刊《电子与信息学报》，青年编委
 - 中国通信学会T2 级期刊《网络空间安全科学学报》无人机网络安全专题，责任编委
