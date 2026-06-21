@@ -125,9 +125,9 @@ redirect_from:
 
 1. Qinnan Hu, `Yuntao Wang`, Zhou Su, Tom H. Luan, and Ruidong Li, "ConWatcher: Towards Adaptive and Label-Efficient Online Smart Contract Analysis in Blockchains," **Proceedings of IEEE INFOCOM**, 1–10 (2025) ![CCF-A](https://img.shields.io/badge/CCF--A-red?style=flat-square) **网络通信领域顶级会议**
 
-2. Shaolong Guo, `Yuntao Wang`*, Zhou Su, Tom H. Luan, "Incentivizing truthful machine unlearning via hierarchical auditing," **Proceedings of IJCAI**, 1-9 (2026) **人工智能领域顶级会议**，**Core A*类会议**，**当年录取率13.0%**
+2. Shaolong Guo, `Yuntao Wang`*, Zhou Su, Tom H. Luan, "Incentivizing truthful machine unlearning via hierarchical auditing," **Proceedings of IJCAI**, 1-9 (2026) **人工智能领域顶级会议**，**Core A*类会议**，**当年录取率13.0%** (通信作者)
 
-4. Shaolong Guo, `Yuntao Wang`*, Qinnan Hu, Zhou Su, Tom H. Luan, "Towards scalable metaverse systems with social-aware VR displays," **Proceedings of IJCAI**, 1-9 (2026) **人工智能领域顶级会议**，**Core A*类会议**，**当年录取率13.0%**
+4. Shaolong Guo, `Yuntao Wang`*, Qinnan Hu, Zhou Su, Tom H. Luan, "Towards scalable metaverse systems with social-aware VR displays," **Proceedings of IJCAI**, 1-9 (2026) **人工智能领域顶级会议**，**Core A*类会议**，**当年录取率13.0%** (通信作者)
 
 5. Liang Xie, `Yuntao Wang`, Hengzhi Wang, and Laizhong Cui, "Long-Term Optimal Incentives for Differential-Privacy Federated Learning: A Multi-Stage Game Approach," **IEEE Transactions on Mobile Computing (TMC)**, 25: 1–16 (2026) ![CCF-A](https://img.shields.io/badge/CCF--A-red?style=flat-square) **移动计算领域顶级期刊**，影响因子7.9
 
