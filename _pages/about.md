@@ -43,9 +43,9 @@ redirect_from:
 
 # 📝 论文成果Publications
 
-1. `Yuntao Wang`, Zhou Su, Ning Zhang, Rui Xing, Dongxiao Liu, Tom H. Luan, and Xuemin Shen, "A Survey on Metaverse: Fundamentals, Security, and Privacy," **IEEE Communications Surveys & Tutorials (COMST)**, 25(1): 319-352 (2023) ![IF](https://img.shields.io/badge/IF-50.6-red?style=flat-square) 计算机与信息领域影响因子最高期刊·![ESI Hot](https://img.shields.io/badge/ESI%20Hot%20Paper-🔥-red?style=flat-square) **ESI热点论文（全球引用率前0.1%）**·**谷歌学术被引2000余次** 
+1. `Yuntao Wang`, Zhou Su, Ning Zhang, Rui Xing, Dongxiao Liu, Tom H. Luan, and Xuemin Shen, "A Survey on Metaverse: Fundamentals, Security, and Privacy," **IEEE Communications Surveys & Tutorials (COMST)**, 25(1): 319-352 (2023) ![IF](https://img.shields.io/badge/IF-50.6-red?style=flat-square) 计算机与信息领域影响因子最高期刊·![ESI Hot](https://img.shields.io/badge/ESI%20Hot%20Paper-🔥-red?style=flat-square) **ESI热点论文（全球引用率前0.1%）**·![Citations](https://img.shields.io/badge/Cited%20by-2100-blue?style=flat-square)**谷歌学术被引2000余次** 
 
-2. `Yuntao Wang`, Weiwei Chen, Tom H. Luan, Zhou Su, Qichao Xu, Ruidong Li, and Nan Chen, "Task Offloading for Post-Disaster Rescue in Unmanned Aerial Vehicles Networks," **IEEE/ACM Transactions on Networking (TON)**, 30(4): 1525-1539 (2022) ![CCF-A](https://img.shields.io/badge/CCF--A-red?style=flat-square) 计算机网络领域顶级期刊，影响因子3.7，**谷歌学术被引163次**
+2. `Yuntao Wang`, Weiwei Chen, Tom H. Luan, Zhou Su, Qichao Xu, Ruidong Li, and Nan Chen, "Task Offloading for Post-Disaster Rescue in Unmanned Aerial Vehicles Networks," **IEEE/ACM Transactions on Networking (TON)**, 30(4): 1525-1539 (2022) ![CCF-A](https://img.shields.io/badge/CCF--A-red?style=flat-square) 计算机网络领域顶级期刊，影响因子3.7·![Citations](https://img.shields.io/badge/Cited%20by-163-blue?style=flat-square)****谷歌学术被引163次**
 
 3. `Yuntao Wang`, Zhou Su, Qichao Xu, Ruidong Li, Tom H. Luan, and Pinghui Wang, "A Secure and Intelligent Data Sharing Scheme for UAV-Assisted Disaster Rescue," **IEEE/ACM Transactions on Networking (TON)**, 31(6): 2422-2438 (2023) ![CCF-A](https://img.shields.io/badge/CCF--A-red?style=flat-square) 计算机网络领域顶级期刊，影响因子3.7，**谷歌学术被引154次**
 
