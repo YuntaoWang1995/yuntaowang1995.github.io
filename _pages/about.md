@@ -141,7 +141,7 @@ redirect_from:
 
 11. Liang Xie, Zhou Su, `Yuntao Wang`, Nan Chen, Yiliang Liu, Rui Wang, Xin Liu, Donglan Liu, and Hao Zhang, "A Privacy-Preserving Incentive Scheme for UAV-Aided Federated Learning: A Contract Method With Prospect Theory," **IEEE Transactions on Dependable and Secure Computing (TDSC)**, 22(6): 4521–4536 (2025) ![CCF-A](https://img.shields.io/badge/CCF--A-red?style=flat-square) **网络与信息安全领域顶级期刊**，影响因子6.8
 
-12. Jinhao Zhou, Zhou Su, `Yuntao Wang`, and Jun Wu, "DM-DPL: Toward Discrete Matrixing Differentially Private Learning," **IEEE Transactions on Information Forensics and Security (TIFS)**, 20: 1432–1447 (2025) !https://img.shields.io/badge/CCF--A-red?style=flat-square **网络与信息安全领域顶级期刊**，影响因子8.7
+12. Jinhao Zhou, Zhou Su, `Yuntao Wang`, and Jun Wu, "DM-DPL: Toward Discrete Matrixing Differentially Private Learning," **IEEE Transactions on Information Forensics and Security (TIFS)**, 20: 1432–1447 (2025) ![CCF-A](https://img.shields.io/badge/CCF--A-red?style=flat-square) **网络与信息安全领域顶级期刊**，影响因子8.7
 
 13. Nan Liu, Tom H. Luan, `Yuntao Wang`, Yiliang Liu, and Zhou Su, "QoE-Oriented Cooperative VR Rendering and Dynamic Resource Leasing in Metaverse," **IEEE Transactions on Mobile Computing (TMC)**, 24(10): 5128–5143 (2025) ![CCF-A](https://img.shields.io/badge/CCF--A-red?style=flat-square) **移动计算领域顶级期刊**，影响因子7.9
 
