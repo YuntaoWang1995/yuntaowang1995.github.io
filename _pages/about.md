@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-**王云涛、西安交通大学 电信学部 网络空间安全学院 特聘研究员（副教授）、博士生导师**
+**王云涛 特聘研究员（副教授）、博士生导师，西安交通大学 电信学部 网络空间安全学院**
 
 - 入选2025年度**科睿唯安全球高被引学者（Clarivate Highly Cited Researchers）**
 - 入选2023年度**国家博士后创新人才支持计划（博新计划）**
