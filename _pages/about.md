@@ -26,7 +26,7 @@ redirect_from:
 
 📌研究领域：聚焦**国家空天地安全战略**，长期从事低空无人机网络安全、智能无人系统安全、多智能体协同与对抗领域研究。
 - 学术贡献：在**网络安全领域顶级会议IEEE S&P、USENIX Security**；**网络安全领域顶级期刊IEEE TIFS、IEEE TDSC**；**计算机网络领域顶级期刊/会议IEEE/ACM TON、IEEE INFOCOM**；**通信领域顶级期刊IEEE JSAC、IEEE TMC、中国科学：信息科学**发表多篇高水平论文， **11 篇文章入选ESI 高被引论文(ESI Highly Cited, 全球引用率前1%)**，**2 篇入选 ESI 热点论文 (ESI Hot, 全球引用率前0.1%)**。
-- 学术引用： <a href='https://scholar.google.com/citations?user=90fr-8wAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a> **论文总引用次数7900 余次**，**单篇引用次数逾2000次**（谷歌学术截至2026年6月），**16篇论文引用次数过百**，**单篇影响因子达50.6**。
+- 学术引用：<a href='https://scholar.google.com/citations?user=90fr-8wAAAAJ'><img src="https://img.shields.io/badge/引用8000余次-blue?logo=googlescholar&logoColor=white" alt="Google Scholar"></a> **论文总引用次数7900 余次**，**单篇引用次数逾2000次**（谷歌学术截至2026年6月），**16篇论文引用次数过百**，**单篇影响因子达50.6**。
 - 国际获奖：入选2025年度**科睿唯安全球高被引学者**（Clarivate Highly Cited Researchers）、2023~2025年度**全球前2%顶尖科学家**、2023年度**国家博士后创新人才支持计划（博新计划）**、2024年度**中国电子学会博士学位论文激励计划（优博）**、西安交通大学青年拔尖人才支持计划B类。研究工作获得**IEEE BigDataSE2019 国际会议年度最佳论文奖**（新西兰举办）、**IEEE IWCMC2022 国际会议年度最佳论文奖**（克罗地亚举办）、**IEEE SmartCloud2024 国际会议年度最佳论文奖**（美国纽约举办）、**IEEE AIoT2024 国际会议年度最佳论文奖**（澳大利亚墨尔本举办）、**IEEE MetaCom2025 国际会议年度最佳论文奖**（韩国首尔举办）等**IEEE国际会议最佳论文奖共5项**。
 - 主持项目：先后主持**国家自然科学基金青年项目、科技部国家重点研发计划子课题、国家博新计划、博士后面上项目、陕西省博士后项目**等多项国家/省部级项目。
 
