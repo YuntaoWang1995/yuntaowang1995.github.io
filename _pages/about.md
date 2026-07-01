@@ -43,7 +43,7 @@ redirect_from:
  
 <span class='anchor' id='-lwcg'></span>
 
-# 📝 论文成果
+# 📝 代表性论文成果
 
 1. `Yuntao Wang`, Zhou Su, Ning Zhang, Rui Xing, Dongxiao Liu, Tom H. Luan, and Xuemin Shen, "A Survey on Metaverse: Fundamentals, Security, and Privacy," **IEEE Communications Surveys & Tutorials (COMST)**, 25(1): 319-352 (2023) ![IF](https://img.shields.io/badge/IF-50.6-red?style=flat-square) **计算机与信息领域影响因子最高期刊（影响因子50.6）** ![ESI Hot](https://img.shields.io/badge/ESI%20Hot%20Paper-🔥-red?style=flat-square) **ESI热点论文（全球引用率前0.1%）** ![Citations](https://img.shields.io/badge/Cited%20by-2100-blue?style=flat-square) **谷歌学术被引2100余次** 🔗 [PDF](https://arxiv.org/pdf/2203.02662) · [Cite](...)
 
