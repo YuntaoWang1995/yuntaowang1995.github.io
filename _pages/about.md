@@ -101,9 +101,9 @@ redirect_from:
 
 16. `王云涛`, 何春林, 苏洲, "面向高级持续性威胁的卫星互联网最优修复策略," **中国科学: 信息科学**, 56(3): 603-619 (2026) **CCF-A类中文期刊，中科院一区，影响因子8.1**，计算机与信息领域中文顶刊 🔗 [PDF](http://scis.scichina.com/cn/2026/SSI-2025-0462.pdf) 
 
-17. `王云涛`, 苏洲, 许其超, 刘怡良, 彭海霞, 栾浩, "基于审计博弈的安全协作频谱感知方案," **通信学报**, 44(12): 1-14 (2023) ![CCF-A](https://img.shields.io/badge/CCF--T1-red?style=flat-square) **CCF-A类推荐中文期刊**，通信领域中文顶刊 🔗 [PDF](https://www.joconline.com.cn/previewFile?id=75612005&type=pdf&lang=zh) 
+17. `王云涛`, 苏洲, 许其超, 刘怡良, 彭海霞, 栾浩, "基于审计博弈的安全协作频谱感知方案," **通信学报**, 44(12): 1-14 (2023) **CCF-A类推荐中文期刊**，通信领域中文顶刊 🔗 [PDF](https://www.joconline.com.cn/previewFile?id=75612005&type=pdf&lang=zh) 
 
-18. `王云涛`, 苏洲, 高源, 巴建乐, "低空智联网架构、安全与优化关键技术," **电子与信息学报**, 48(3): 889-913 (2026) ![CCF-A](https://img.shields.io/badge/CCF--T1-red?style=flat-square) **CCF-A类中文期刊，入选封面文章、领军专栏**，电子信息领域中文顶刊 🔗 [PDF](https://jeit.ac.cn/cn/article/doi/10.11999/JEIT250947?viewType=HTML) 
+18. `王云涛`, 苏洲, 高源, 巴建乐, "低空智联网架构、安全与优化关键技术," **电子与信息学报**, 48(3): 889-913 (2026) **CCF-A类中文期刊，入选封面文章、领军专栏**，电子信息领域中文顶刊 🔗 [PDF](https://jeit.ac.cn/cn/article/doi/10.11999/JEIT250947?viewType=HTML) 
     
 23. `Yuntao Wang`, Qinnan Hu, Zhou Su, Linkang Du, Qichao Xu, and Weiwei Li, "Large Model Empowered Metaverse: State-of-the-Art, Challenges and Opportunities," **IEEE Network**, DOI: 10.1109/MNET.2025.3597127 (2025) **网络领域权威期刊**，影响因子8.8
 
