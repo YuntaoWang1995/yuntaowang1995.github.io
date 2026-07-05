@@ -77,61 +77,729 @@ redirect_from:
 
 <span class='anchor' id='-lwcg'></span>
 
-# 📝 代表性论文成果
+# 📝 论文成果列表
 
-<table>
-<tr>
-<td width="110" align="center">
-  <img src="https://img.shields.io/badge/COMST'23-1f77b4?style=for-the-badge" />
-</td>
-<td>
+<style>
+.pub-year-divider {
+  border-top: 1px solid #eeeeee;
+  margin: 22px 0 14px;
+  padding-top: 4px;
+  text-align: right;
+  color: #c9c9c9;
+  font-size: 1.35rem;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+}
+.pub-item {
+  display: grid;
+  grid-template-columns: 96px 1fr;
+  column-gap: 18px;
+  align-items: start;
+  margin: 16px 0 22px;
+}
+.pub-badge {
+  display: inline-block;
+  min-width: 78px;
+  padding: 8px 7px;
+  border-radius: 8px;
+  color: #ffffff;
+  text-align: center;
+  font-size: 0.82rem;
+  font-weight: 700;
+  line-height: 1.15;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.12);
+}
+.pub-title {
+  margin: 0 0 5px;
+  font-size: 1.02rem;
+  font-weight: 700;
+  color: #222222;
+}
+.pub-authors {
+  margin: 0 0 4px;
+  color: #444444;
+  line-height: 1.45;
+}
+.pub-venue {
+  margin: 0 0 4px;
+  color: #555555;
+  line-height: 1.45;
+}
+.pub-note {
+  margin: 0;
+  color: #666666;
+  line-height: 1.45;
+}
+.b-comst { background: #2f6fdd; }
+.b-ton { background: #15947e; }
+.b-jsac { background: #b26b17; }
+.b-infocom { background: #7b61d1; }
+.b-tifs { background: #c44e52; }
+.b-tdsc { background: #6c757d; }
+.b-tnse { background: #4c78a8; }
+.b-tii { background: #e17c05; }
+.b-tits { background: #72b7b2; }
+.b-tvt { background: #59a14f; }
+.b-tccn { background: #8cd17d; }
+.b-ojcs { background: #9c6ade; }
+.b-iotj { background: #edc948; color: #333333; }
+.b-cn { background: #d45087; }
+.b-network { background: #4e79a7; }
+.b-mag { background: #f28e2b; }
+.b-sp { background: #af7aa1; }
+.b-usenix { background: #e15759; }
+.b-ijcai { background: #ff9da7; color: #333333; }
+.b-tmc { background: #76b7b2; }
+.b-tnsm { background: #bab0ab; color: #333333; }
+.b-vtm { background: #86bc86; }
+</style>
 
-A Survey on Metaverse: Fundamentals, Security, and Privacy <br>   
+<div class="pub-year-divider">2026</div>
 
-<u>Yuntao Wang<\u>, Zhou Su, Ning Zhang, Rui Xing, Dongxiao Liu, Tom H. Luan, and Xuemin Shen <br>  
+<div class="pub-item">
+  <div><span class="pub-badge b-ton">TON<br>2026</span></div>
+  <div>
+    <div class="pub-title">Privacy-Utility Trade-Off in Federated LLM Fine-Tuning: A Dynamic Game Approach</div>
+    <div class="pub-authors"><code>Yuntao Wang</code>, Kun Qian, Yanghe Pan, Zhou Su, and Wei Wang</div>
+    <div class="pub-venue"><strong>IEEE Transactions on Networking (TON)</strong>, 34: 3242-3257, 2026.</div>
+    <div class="pub-note"><strong>计算机网络领域顶级期刊</strong>，影响因子 5.3</div>
+  </div>
+</div>
 
-IEEE Communications Surveys & Tutorials (COMST), 25(1): 319-352, 2023 <br> 
+<div class="pub-item">
+  <div><span class="pub-badge b-comst">COMST<br>2026</span></div>
+  <div>
+    <div class="pub-title">Large Model-Based Agents: State-of-the-Art, Cooperation Paradigms, Security and Privacy, and Future Trends</div>
+    <div class="pub-authors"><code>Yuntao Wang</code>, Yanghe Pan, Zhou Su, Yi Deng, Quan Zhao, Linkang Du, Tom H. Luan, Jiawen Kang, and Dusit Niyato</div>
+    <div class="pub-venue"><strong>IEEE Communications Surveys & Tutorials (COMST)</strong>, 28: 1906-1949, 2026.</div>
+    <div class="pub-note"><strong>影响因子 50.6</strong>，<strong>ESI 高被引论文（Top 1%）</strong>，<strong>谷歌学术被引 100 次</strong> · <a href="https://arxiv.org/pdf/2409.14457">PDF</a></div>
+  </div>
+</div>
 
-**计算机与信息领域影响因子最高期刊**，**影响因子 50.6**，**ESI 热点论文（全球引用率前 0.1%）**，**谷歌学术被引 2100 余次**  
-[PDF](https://arxiv.org/pdf/2203.02662) · [Cite](...)
+<div class="pub-item">
+  <div><span class="pub-badge b-tccn">TCCN<br>2026</span></div>
+  <div>
+    <div class="pub-title">Internet of Agents: Fundamentals, Applications, and Challenges</div>
+    <div class="pub-authors"><code>Yuntao Wang</code>, Shaolong Guo, Yanghe Pan, Zhou Su, Fahao Chen, Tom H. Luan, Peng Li, Jiawen Kang, and Dusit Niyato</div>
+    <div class="pub-venue"><strong>IEEE Transactions on Cognitive Communications and Networking (TCCN)</strong>, 12: 4476-4501, 2026.</div>
+    <div class="pub-note"><strong>认知通信网络领域顶级期刊</strong>，影响因子 8.0 · <a href="https://zhuanlan.zhihu.com/p/1909730947538089007">中文导读</a> · <a href="https://arxiv.org/pdf/2505.07176">PDF</a></div>
+  </div>
+</div>
 
-</td>
-</tr>
+<div class="pub-item">
+  <div><span class="pub-badge b-iotj">IoT-J<br>2026</span></div>
+  <div>
+    <div class="pub-title">Navigating Embodied Intelligence: Enabling Technologies, Security and Privacy, and Emerging Trends</div>
+    <div class="pub-authors"><code>Yuntao Wang</code>, Xiaolin Niu, Jianle Ba, Zhou Su, and Linkang Du</div>
+    <div class="pub-venue"><strong>IEEE Internet of Things Journal (IoT-J)</strong>, 13(6): 10317-10338, 2026.</div>
+    <div class="pub-note"><strong>物联网领域旗舰期刊</strong>，影响因子 8.7 · <a href="https://www.techrxiv.org/doi/pdf/10.36227/techrxiv.175099923.39087347/v1?onload=true">PDF</a></div>
+  </div>
+</div>
 
-<tr>
-<td width="110" align="center">
-  <img src="https://img.shields.io/badge/TON'22-2ca02c?style=for-the-badge" />
-</td>
-<td>
+<div class="pub-item">
+  <div><span class="pub-badge b-cn">中国科学<br>2026</span></div>
+  <div>
+    <div class="pub-title">面向高级持续性威胁的卫星互联网最优修复策略</div>
+    <div class="pub-authors"><code>王云涛</code>, 何春林, 苏洲</div>
+    <div class="pub-venue"><strong>中国科学: 信息科学</strong>, 56(3): 603-619, 2026.</div>
+    <div class="pub-note"><strong>CCF-A 类中文期刊，中科院一区，影响因子 8.1</strong>，计算机与信息领域中文顶刊 · <a href="http://scis.scichina.com/cn/2026/SSI-2025-0462.pdf">PDF</a></div>
+  </div>
+</div>
 
-**Task Offloading for Post-Disaster Rescue in Unmanned Aerial Vehicles Networks**  
+<div class="pub-item">
+  <div><span class="pub-badge b-cn">JEIT<br>2026</span></div>
+  <div>
+    <div class="pub-title">低空智联网架构、安全与优化关键技术</div>
+    <div class="pub-authors"><code>王云涛</code>, 苏洲, 高源, 巴建乐</div>
+    <div class="pub-venue"><strong>电子与信息学报</strong>, 48(3): 889-913, 2026.</div>
+    <div class="pub-note"><strong>CCF-A 类中文期刊，入选封面文章、领军专栏</strong>，电子信息领域中文顶刊 · <a href="https://jeit.ac.cn/cn/article/doi/10.11999/JEIT250947?viewType=HTML">PDF</a></div>
+  </div>
+</div>
 
-`Yuntao Wang`, Weiwei Chen, Tom H. Luan, Zhou Su, Qichao Xu, Ruidong Li, and Nan Chen  
+<div class="pub-item">
+  <div><span class="pub-badge b-sp">S&amp;P<br>2026</span></div>
+  <div>
+    <div class="pub-title">URLcoat: Exploiting Web Search Capability to Jailbreak Large Language Models</div>
+    <div class="pub-authors">Yiheng Sun, Linkang Du, Zhou Su, <code>Yuntao Wang</code>, and Han Liu</div>
+    <div class="pub-venue"><strong>Proceedings of IEEE S&amp;P (Oakland)</strong>, 2026.</div>
+    <div class="pub-note"><strong>安全领域四大顶会</strong></div>
+  </div>
+</div>
 
-**IEEE/ACM Transactions on Networking (TON)**, 30(4): 1525-1539, 2022  
+<div class="pub-item">
+  <div><span class="pub-badge b-usenix">USENIX<br>2026</span></div>
+  <div>
+    <div class="pub-title">Unveiling the Pitfalls of Data-Free Backdoor Detection Against Pre-Trained Models</div>
+    <div class="pub-authors">Quan Zhao, Linkang Du, <code>Yuntao Wang</code>, Zhou Su, Zheng Li, Xiangshan Gao, and Yang Zhang</div>
+    <div class="pub-venue"><strong>Proceedings of USENIX Security</strong>, 2026.</div>
+    <div class="pub-note"><strong>安全领域四大顶会</strong></div>
+  </div>
+</div>
 
-**计算机网络领域顶级期刊**，**影响因子 5.3**，**谷歌学术被引 163 次**
+<div class="pub-item">
+  <div><span class="pub-badge b-ijcai">IJCAI<br>2026</span></div>
+  <div>
+    <div class="pub-title">Incentivizing Truthful Machine Unlearning via Hierarchical Auditing</div>
+    <div class="pub-authors">Shaolong Guo, <code>Yuntao Wang</code>*, Zhou Su*, and Tom H. Luan</div>
+    <div class="pub-venue"><strong>Proceedings of IJCAI</strong>, 1-9, 2026.</div>
+    <div class="pub-note"><strong>人工智能领域顶级会议</strong>，<strong>Core A* 类会议</strong>，<strong>当年录取率 13.0%</strong>（*通信作者）</div>
+  </div>
+</div>
 
-</td>
-</tr>
+<div class="pub-item">
+  <div><span class="pub-badge b-ijcai">IJCAI<br>2026</span></div>
+  <div>
+    <div class="pub-title">Towards Scalable Metaverse Systems with Social-Aware VR Displays</div>
+    <div class="pub-authors">Shaolong Guo, <code>Yuntao Wang</code>*, Qinnan Hu, Zhou Su*, and Tom H. Luan</div>
+    <div class="pub-venue"><strong>Proceedings of IJCAI</strong>, 1-9, 2026.</div>
+    <div class="pub-note"><strong>人工智能领域顶级会议</strong>，<strong>Core A* 类会议</strong>，<strong>当年录取率 13.0%</strong>（*通信作者）</div>
+  </div>
+</div>
 
-<tr>
-<td width="110" align="center">
-  <img src="https://img.shields.io/badge/TON'23-d62728?style=for-the-badge" />
-</td>
-<td>
+<div class="pub-item">
+  <div><span class="pub-badge b-tmc">TMC<br>2026</span></div>
+  <div>
+    <div class="pub-title">Long-Term Optimal Incentives for Differential-Privacy Federated Learning: A Multi-Stage Game Approach</div>
+    <div class="pub-authors">Liang Xie, <code>Yuntao Wang</code>, Hengzhi Wang, and Laizhong Cui</div>
+    <div class="pub-venue"><strong>IEEE Transactions on Mobile Computing (TMC)</strong>, 25: 1-16, 2026.</div>
+    <div class="pub-note"><strong>移动计算领域顶级期刊</strong>，影响因子 7.9</div>
+  </div>
+</div>
 
-**A Secure and Intelligent Data Sharing Scheme for UAV-Assisted Disaster Rescue**  
+<div class="pub-item">
+  <div><span class="pub-badge b-tifs">TIFS<br>2026</span></div>
+  <div>
+    <div class="pub-title">BlockAthena: A Scalable Approach for Long-Term Blockchain Crimes Analysis</div>
+    <div class="pub-authors">Qinnan Hu, <code>Yuntao Wang</code>, Zhou Su, Shaolong Guo, Yuan Gao, Nan Liu, and Tom H. Luan</div>
+    <div class="pub-venue"><strong>IEEE Transactions on Information Forensics and Security (TIFS)</strong>, 21: 1-16, 2026.</div>
+    <div class="pub-note"><strong>网络与信息安全领域顶级期刊</strong>，影响因子 8.7</div>
+  </div>
+</div>
 
-`Yuntao Wang`, Zhou Su, Qichao Xu, Ruidong Li, Tom H. Luan, and Pinghui Wang  
+<div class="pub-item">
+  <div><span class="pub-badge b-ton">TON<br>2026</span></div>
+  <div>
+    <div class="pub-title">FLET: Game-Theoretic Free-Riding Mitigation via Test Tasks in Federated Learning</div>
+    <div class="pub-authors">Shaolong Guo, <code>Yuntao Wang</code>, Zhou Su, Yanghe Pan, Tom H. Luan, and Xizhao Luo</div>
+    <div class="pub-venue"><strong>IEEE/ACM Transactions on Networking (TON)</strong>, 34: 3995-4010, 2026.</div>
+    <div class="pub-note"><strong>计算机网络领域顶级期刊</strong>，影响因子 5.3</div>
+  </div>
+</div>
 
-**IEEE/ACM Transactions on Networking (TON)**, 31(6): 2422-2438, 2023  
+<div class="pub-item">
+  <div><span class="pub-badge b-ton">TON<br>2026</span></div>
+  <div>
+    <div class="pub-title">Rethinking Online Smart Contract Diagnosis in Blockchains: A Diffusion Perspective</div>
+    <div class="pub-authors">Qinnan Hu, <code>Yuntao Wang</code>, Zhou Su, Tom H. Luan, Ruidong Li, and Zhenyu Jiang</div>
+    <div class="pub-venue"><strong>IEEE/ACM Transactions on Networking (TON)</strong>, 34: 230-245, 2026.</div>
+    <div class="pub-note"><strong>计算机网络领域顶级期刊</strong>，影响因子 5.3</div>
+  </div>
+</div>
 
-**计算机网络领域顶级期刊**，**影响因子 5.3**，**谷歌学术被引 156 次**
+<div class="pub-item">
+  <div><span class="pub-badge b-tnse">TNSE<br>2026</span></div>
+  <div>
+    <div class="pub-title">The Right to Be Forgotten Versus the Need to Be Remembered: Efficient Personalized Federated Unlearning With Optimal Incentives</div>
+    <div class="pub-authors">Yanghe Pan, <code>Yuntao Wang</code>, Zhou Su, Yuan Gao, Shaolong Guo, Qinnan Hu, Ruidong Li, and WeiWei Li</div>
+    <div class="pub-venue"><strong>IEEE Transactions on Network Science and Engineering (TNSE)</strong>, 13(2): 1125-1140, 2026.</div>
+    <div class="pub-note"><strong>网络管理领域顶级期刊</strong>，影响因子 7.3</div>
+  </div>
+</div>
 
-</td>
-</tr>
-</table>
+<div class="pub-item">
+  <div><span class="pub-badge b-network">Network<br>2026</span></div>
+  <div>
+    <div class="pub-title">Agent Discovery in Internet of Agents: Challenges and Solutions</div>
+    <div class="pub-authors">Shaolong Guo, <code>Yuntao Wang</code>, Zhou Su, Yanghe Pan, Qinnan Hu, and Tom H. Luan</div>
+    <div class="pub-venue"><strong>IEEE Network</strong>, Early Access, 2026.</div>
+    <div class="pub-note"><strong>网络领域权威期刊</strong>，影响因子 8.8</div>
+  </div>
+</div>
+
+<div class="pub-year-divider">2025</div>
+
+<div class="pub-item">
+  <div><span class="pub-badge b-ojcs">OJCS<br>2025</span></div>
+  <div>
+    <div class="pub-title">Security of Internet of Agents: Attacks and Countermeasures</div>
+    <div class="pub-authors"><code>Yuntao Wang</code>, Yanghe Pan, Shaolong Guo, and Zhou Su</div>
+    <div class="pub-venue"><strong>IEEE Open Journal of the Computer Society (OJCS)</strong>, 6: 1611-1624, 2025.</div>
+    <div class="pub-note"><strong>计算机网络领域旗舰期刊</strong>，影响因子 6.0 · <a href="https://www.computer.org/csdl/journal/oj/2025/01/11081880/28oAHZAcmI0">PDF</a></div>
+  </div>
+</div>
+
+<div class="pub-item">
+  <div><span class="pub-badge b-network">Network<br>2025</span></div>
+  <div>
+    <div class="pub-title">Large Model Empowered Metaverse: State-of-the-Art, Challenges and Opportunities</div>
+    <div class="pub-authors"><code>Yuntao Wang</code>, Qinnan Hu, Zhou Su, Linkang Du, Qichao Xu, and Weiwei Li</div>
+    <div class="pub-venue"><strong>IEEE Network</strong>, DOI: 10.1109/MNET.2025.3597127, 2025.</div>
+    <div class="pub-note"><strong>网络领域权威期刊</strong>，影响因子 8.8</div>
+  </div>
+</div>
+
+<div class="pub-item">
+  <div><span class="pub-badge b-mag">ComMag<br>2025</span></div>
+  <div>
+    <div class="pub-title">Blockchain-Envisioned UAV-Aided Disaster Relief Networks: Challenges and Solutions</div>
+    <div class="pub-authors"><code>Yuntao Wang</code>, Qinnan Hu, Zhendong Li, Zhou Su, Ruidong Li, Xiang Zou, and Jian Zhou</div>
+    <div class="pub-venue"><strong>IEEE Communications Magazine</strong>, 63(5): 214-221, 2025.</div>
+    <div class="pub-note"><strong>通信领域权威期刊</strong>，影响因子 8.3</div>
+  </div>
+</div>
+
+<div class="pub-item">
+  <div><span class="pub-badge b-infocom">INFOCOM<br>2025</span></div>
+  <div>
+    <div class="pub-title">ConWatcher: Towards Adaptive and Label-Efficient Online Smart Contract Analysis in Blockchains</div>
+    <div class="pub-authors">Qinnan Hu, <code>Yuntao Wang</code>, Zhou Su, Tom H. Luan, and Ruidong Li</div>
+    <div class="pub-venue"><strong>Proceedings of IEEE INFOCOM</strong>, 1-10, 2025.</div>
+    <div class="pub-note"><strong>网络通信领域顶级会议</strong></div>
+  </div>
+</div>
+
+<div class="pub-item">
+  <div><span class="pub-badge b-comst">COMST<br>2025</span></div>
+  <div>
+    <div class="pub-title">A Survey on Semantic Communication Networks: Architecture, Security, and Privacy</div>
+    <div class="pub-authors">Shaolong Guo, <code>Yuntao Wang</code>, Ning Zhang, Zhou Su, Tom H. Luan, Zhiyi Tian, and Xuemin Shen</div>
+    <div class="pub-venue"><strong>IEEE Communications Surveys & Tutorials (COMST)</strong>, 27(5): 2860-2894, 2025.</div>
+    <div class="pub-note"><strong>影响因子 50.6</strong>，<strong>ESI 高被引论文（Top 1%）</strong>，<strong>谷歌学术被引 138 次</strong> · <a href="https://arxiv.org/pdf/2405.01221">PDF</a></div>
+  </div>
+</div>
+
+<div class="pub-item">
+  <div><span class="pub-badge b-tdsc">TDSC<br>2025</span></div>
+  <div>
+    <div class="pub-title">A Privacy-Preserving Incentive Scheme for UAV-Aided Federated Learning: A Contract Method With Prospect Theory</div>
+    <div class="pub-authors">Liang Xie, Zhou Su, <code>Yuntao Wang</code>, Nan Chen, Yiliang Liu, Rui Wang, Xin Liu, Donglan Liu, and Hao Zhang</div>
+    <div class="pub-venue"><strong>IEEE Transactions on Dependable and Secure Computing (TDSC)</strong>, 22(6): 4521-4536, 2025.</div>
+    <div class="pub-note"><strong>网络与信息安全领域顶级期刊</strong>，影响因子 6.8</div>
+  </div>
+</div>
+
+<div class="pub-item">
+  <div><span class="pub-badge b-tifs">TIFS<br>2025</span></div>
+  <div>
+    <div class="pub-title">DM-DPL: Toward Discrete Matrixing Differentially Private Learning</div>
+    <div class="pub-authors">Jinhao Zhou, Zhou Su, <code>Yuntao Wang</code>, and Jun Wu</div>
+    <div class="pub-venue"><strong>IEEE Transactions on Information Forensics and Security (TIFS)</strong>, 20: 1432-1447, 2025.</div>
+    <div class="pub-note"><strong>网络与信息安全领域顶级期刊</strong>，影响因子 8.7</div>
+  </div>
+</div>
+
+<div class="pub-item">
+  <div><span class="pub-badge b-tmc">TMC<br>2025</span></div>
+  <div>
+    <div class="pub-title">QoE-Oriented Cooperative VR Rendering and Dynamic Resource Leasing in Metaverse</div>
+    <div class="pub-authors">Nan Liu, Tom H. Luan, <code>Yuntao Wang</code>, Yiliang Liu, and Zhou Su</div>
+    <div class="pub-venue"><strong>IEEE Transactions on Mobile Computing (TMC)</strong>, 24(10): 5128-5143, 2025.</div>
+    <div class="pub-note"><strong>移动计算领域顶级期刊</strong>，影响因子 7.9</div>
+  </div>
+</div>
+
+<div class="pub-item">
+  <div><span class="pub-badge b-jsac">JSAC<br>2025</span></div>
+  <div>
+    <div class="pub-title">Knowledge-Aware Privacy-Preserving Model Customization in Zero-Trust Federated Learning Model Marketplaces</div>
+    <div class="pub-authors">Yanghe Pan, Zhou Su, <code>Yuntao Wang</code>, Han Liu, Ruidong Li, and Abderrahim Benslimane</div>
+    <div class="pub-venue"><strong>IEEE Journal on Selected Areas in Communications (JSAC)</strong>, 43(6): 2108-2123, 2025.</div>
+    <div class="pub-note"><strong>网络通信领域顶级期刊</strong>，影响因子 16.8</div>
+  </div>
+</div>
+
+<div class="pub-item">
+  <div><span class="pub-badge b-tifs">TIFS<br>2025</span></div>
+  <div>
+    <div class="pub-title">A Practical Federated Learning Framework With Truthful Incentive in UAV-Assisted Crowdsensing</div>
+    <div class="pub-authors">Liang Xie, Zhou Su, <code>Yuntao Wang</code>, and Zhendong Li</div>
+    <div class="pub-venue"><strong>IEEE Transactions on Information Forensics and Security (TIFS)</strong>, 20: 3021-3036, 2025.</div>
+    <div class="pub-note"><strong>网络与信息安全领域顶级期刊</strong>，影响因子 8.7</div>
+  </div>
+</div>
+
+<div class="pub-item">
+  <div><span class="pub-badge b-tvt">TVT<br>2025</span></div>
+  <div>
+    <div class="pub-title">Privacy-Preserving Byzantine-Robust Federated Learning via Deep Reinforcement Learning in Vehicular Networks</div>
+    <div class="pub-authors">Yanghe Pan, Zhou Su, <code>Yuntao Wang</code>, Jinhao Zhou, and Mohamed Mahmoud</div>
+    <div class="pub-venue"><strong>IEEE Transactions on Vehicular Technology (TVT)</strong>, 74(6): 9876-9891, 2025.</div>
+    <div class="pub-note"><strong>车辆网络领域顶级期刊</strong>，影响因子 7.5</div>
+  </div>
+</div>
+
+<div class="pub-item">
+  <div><span class="pub-badge b-iotj">IoT-J<br>2025</span></div>
+  <div>
+    <div class="pub-title">Collaborative Intrusion Detection Approach Based on Blockchain in Internet of Vehicles</div>
+    <div class="pub-authors">Rui Xing, Zhou Su, <code>Yuntao Wang</code></div>
+    <div class="pub-venue"><strong>IEEE Internet of Things Journal (IoT-J)</strong>, 12(9): 11568-11581, 2025.</div>
+    <div class="pub-note"><strong>物联网领域旗舰期刊</strong>，影响因子 8.7</div>
+  </div>
+</div>
+
+<div class="pub-item">
+  <div><span class="pub-badge b-vtm">VTM<br>2025</span></div>
+  <div>
+    <div class="pub-title">Trustworthy Semantic Communication for Vehicular Networks: Challenges and Solutions</div>
+    <div class="pub-authors">Yanghe Pan, <code>Yuntao Wang</code>, Shaolong Guo, Chengyu Yin, Ruidong Li, Zhou Su, and Yuan Wu</div>
+    <div class="pub-venue"><strong>IEEE Vehicular Technology Magazine</strong>, Early Access, 2025.</div>
+    <div class="pub-note"><strong>车辆技术领域权威期刊</strong>，影响因子 8.4</div>
+  </div>
+</div>
+
+<div class="pub-item">
+  <div><span class="pub-badge b-network">Network<br>2025</span></div>
+  <div>
+    <div class="pub-title">Cloud-Edge Collaborative Large Model Services: Challenges and Solutions</div>
+    <div class="pub-authors">Yanghe Pan, Zhou Su, <code>Yuntao Wang</code>, Shaolong Guo, Han Liu, Ruidong Li, and Yuan Wu</div>
+    <div class="pub-venue"><strong>IEEE Network</strong>, 39(4): 56-63, 2025.</div>
+    <div class="pub-note"><strong>网络领域权威期刊</strong>，影响因子 8.8</div>
+  </div>
+</div>
+
+<div class="pub-year-divider">2024</div>
+
+<div class="pub-item">
+  <div><span class="pub-badge b-tifs">TIFS<br>2024</span></div>
+  <div>
+    <div class="pub-title">Collaborative Honeypot Defense in UAV Networks: A Learning-Based Game Approach</div>
+    <div class="pub-authors"><code>Yuntao Wang</code>, Zhou Su, Abderrahim Benslimane, Qichao Xu, Minghui Dai, and Ruidong Li</div>
+    <div class="pub-venue"><strong>IEEE Transactions on Information Forensics and Security (TIFS)</strong>, 19: 1963-1978, 2024.</div>
+    <div class="pub-note"><strong>网络与信息安全领域顶级期刊</strong>，影响因子 8.7</div>
+  </div>
+</div>
+
+<div class="pub-item">
+  <div><span class="pub-badge b-ton">TON<br>2024</span></div>
+  <div>
+    <div class="pub-title">Social-Aware Clustered Federated Learning With Customized Privacy Preservation</div>
+    <div class="pub-authors"><code>Yuntao Wang</code>, Zhou Su, Yanghe Pan, Tom H. Luan, Ruidong Li, and Shui Yu</div>
+    <div class="pub-venue"><strong>IEEE/ACM Transactions on Networking (TON)</strong>, 32(5): 3654-3668, 2024.</div>
+    <div class="pub-note"><strong>计算机网络领域顶级期刊</strong>，影响因子 5.3</div>
+  </div>
+</div>
+
+<div class="pub-item">
+  <div><span class="pub-badge b-tits">TITS<br>2024</span></div>
+  <div>
+    <div class="pub-title">Secured and Cooperative Publish/Subscribe Scheme in Autonomous Vehicular Networks</div>
+    <div class="pub-authors"><code>Yuntao Wang</code>, Zhou Su, Qichao Xu, Tom H. Luan, and Rongxing Lu</div>
+    <div class="pub-venue"><strong>IEEE Transactions on Intelligent Transportation Systems (TITS)</strong>, 25(3): 2235-2252, 2024.</div>
+    <div class="pub-note"><strong>智能交通领域顶级期刊</strong>，影响因子 9.1</div>
+  </div>
+</div>
+
+<div class="pub-item">
+  <div><span class="pub-badge b-network">Network<br>2024</span></div>
+  <div>
+    <div class="pub-title">Combating Advanced Persistent Threats: Challenges and Solutions</div>
+    <div class="pub-authors"><code>Yuntao Wang</code>, Han Liu, Zhendong Li, Zhou Su, and Jiliang Li</div>
+    <div class="pub-venue"><strong>IEEE Network</strong>, 38(6): 324-333, 2024.</div>
+    <div class="pub-note"><strong>网络领域权威期刊</strong>，影响因子 8.8</div>
+  </div>
+</div>
+
+<div class="pub-item">
+  <div><span class="pub-badge b-tits">TITS<br>2024</span></div>
+  <div>
+    <div class="pub-title">Collaborative Vehicular Threat Sharing: A Long-Term Contract-Based Incentive Mechanism With Privacy Preservation</div>
+    <div class="pub-authors">Chao He, <code>Yuntao Wang</code>, Juan Hu, Tom H. Luan, Yuanguo Bi, and Zhou Su</div>
+    <div class="pub-venue"><strong>IEEE Transactions on Intelligent Transportation Systems (TITS)</strong>, 25(12): 10258-10273, 2024.</div>
+    <div class="pub-note"><strong>智能交通领域顶级期刊</strong>，影响因子 9.1</div>
+  </div>
+</div>
+
+<div class="pub-item">
+  <div><span class="pub-badge b-tnsm">TNSM<br>2024</span></div>
+  <div>
+    <div class="pub-title">A Two-Stage Secure Incentive Mechanism in App-and UAV-Assisted Crowdsensing</div>
+    <div class="pub-authors">Liang Xie, Zhou Su, <code>Yuntao Wang</code></div>
+    <div class="pub-venue"><strong>IEEE Transactions on Network and Service Management (TNSM)</strong>, 21(5): 5234-5249, 2024.</div>
+    <div class="pub-note"><strong>网络管理领域顶级期刊</strong>，影响因子 5.7</div>
+  </div>
+</div>
+
+<div class="pub-item">
+  <div><span class="pub-badge b-iotj">IoT-J<br>2024</span></div>
+  <div>
+    <div class="pub-title">Privacy-Enhanced and Efficient Federated Knowledge Transfer Framework in IoT</div>
+    <div class="pub-authors">Yanghe Pan, Zhou Su, <code>Yuntao Wang</code>, Ruidong Li, and Yuan Wu</div>
+    <div class="pub-venue"><strong>IEEE Internet of Things Journal (IoT-J)</strong>, 11(23): 38452-38465, 2024.</div>
+    <div class="pub-note"><strong>物联网领域旗舰期刊</strong>，影响因子 8.7</div>
+  </div>
+</div>
+
+<div class="pub-year-divider">2023</div>
+
+<div class="pub-item">
+  <div><span class="pub-badge b-comst">COMST<br>2023</span></div>
+  <div>
+    <div class="pub-title">A Survey on Metaverse: Fundamentals, Security, and Privacy</div>
+    <div class="pub-authors"><code>Yuntao Wang</code>, Zhou Su, Ning Zhang, Rui Xing, Dongxiao Liu, Tom H. Luan, and Xuemin Shen</div>
+    <div class="pub-venue"><strong>IEEE Communications Surveys & Tutorials (COMST)</strong>, 25(1): 319-352, 2023.</div>
+    <div class="pub-note"><strong>计算机与信息领域影响因子最高期刊（影响因子 50.6）</strong>，<strong>ESI 热点论文（全球引用率前 0.1%）</strong>，<strong>谷歌学术被引 2100 余次</strong> · <a href="https://arxiv.org/pdf/2203.02662">PDF</a> · <a href="#">Cite</a></div>
+  </div>
+</div>
+
+<div class="pub-item">
+  <div><span class="pub-badge b-ton">TON<br>2023</span></div>
+  <div>
+    <div class="pub-title">A Secure and Intelligent Data Sharing Scheme for UAV-Assisted Disaster Rescue</div>
+    <div class="pub-authors"><code>Yuntao Wang</code>, Zhou Su, Qichao Xu, Ruidong Li, Tom H. Luan, and Pinghui Wang</div>
+    <div class="pub-venue"><strong>IEEE/ACM Transactions on Networking (TON)</strong>, 31(6): 2422-2438, 2023.</div>
+    <div class="pub-note"><strong>计算机网络领域顶级期刊</strong>，影响因子 5.3，<strong>谷歌学术被引 156 次</strong></div>
+  </div>
+</div>
+
+<div class="pub-item">
+  <div><span class="pub-badge b-tifs">TIFS<br>2023</span></div>
+  <div>
+    <div class="pub-title">SEAL: A Strategy-Proof and Privacy-Preserving UAV Computation Offloading Framework</div>
+    <div class="pub-authors"><code>Yuntao Wang</code>, Zhou Su, Tom H. Luan, Jiliang Li, Qichao Xu, and Ruidong Li</div>
+    <div class="pub-venue"><strong>IEEE Transactions on Information Forensics and Security (TIFS)</strong>, 18: 5213-5228, 2023.</div>
+    <div class="pub-note"><strong>网络与信息安全领域顶级期刊</strong>，影响因子 8.7</div>
+  </div>
+</div>
+
+<div class="pub-item">
+  <div><span class="pub-badge b-ojcs">OJCS<br>2023</span></div>
+  <div>
+    <div class="pub-title">A Survey on ChatGPT: AI-Generated Contents, Challenges, and Solutions</div>
+    <div class="pub-authors"><code>Yuntao Wang</code>, Yanghe Pan, Miao Yan, Zhou Su, and Tom H. Luan</div>
+    <div class="pub-venue"><strong>IEEE Open Journal of the Computer Society (OJCS)</strong>, 4: 280-302, 2023.</div>
+    <div class="pub-note"><strong>计算机网络领域旗舰期刊</strong>，影响因子 6.0，<strong>谷歌学术被引 513 次</strong> · <a href="https://www.cnblogs.com/W-Yentl/p/17456702.html">中文导读</a> · <a href="https://www.computer.org/csdl/journal/oj/2023/01/10221755/1PELXFR2hdS">PDF</a></div>
+  </div>
+</div>
+
+<div class="pub-item">
+  <div><span class="pub-badge b-iotj">IoT-J<br>2023</span></div>
+  <div>
+    <div class="pub-title">A Survey on Digital Twins: Architecture, Enabling Technologies, Security and Privacy, and Future Prospects</div>
+    <div class="pub-authors"><code>Yuntao Wang</code>, Zhou Su, Shaolong Guo, Minghui Dai, Tom H. Luan, and Yiliang Liu</div>
+    <div class="pub-venue"><strong>IEEE Internet of Things Journal (IoT-J)</strong>, 10(17): 14965-14987, 2023.</div>
+    <div class="pub-note"><strong>物联网领域旗舰期刊</strong>，影响因子 8.7，<strong>ESI 高被引论文（Top 1%）</strong>，<strong>谷歌学术被引 439 次</strong> · <a href="https://www.cnblogs.com/W-Yentl/p/18048235">中文导读</a> · <a href="https://arxiv.org/pdf/2301.13350">PDF</a></div>
+  </div>
+</div>
+
+<div class="pub-item">
+  <div><span class="pub-badge b-cn">通信学报<br>2023</span></div>
+  <div>
+    <div class="pub-title">基于审计博弈的安全协作频谱感知方案</div>
+    <div class="pub-authors"><code>王云涛</code>, 苏洲, 许其超, 刘怡良, 彭海霞, 栾浩</div>
+    <div class="pub-venue"><strong>通信学报</strong>, 44(12): 1-14, 2023.</div>
+    <div class="pub-note"><strong>CCF-A 类推荐中文期刊</strong>，通信领域中文顶刊 · <a href="https://www.joconline.com.cn/previewFile?id=75612005&type=pdf&lang=zh">PDF</a></div>
+  </div>
+</div>
+
+<div class="pub-item">
+  <div><span class="pub-badge b-mag">IoT Mag<br>2023</span></div>
+  <div>
+    <div class="pub-title">Social Metaverse: Challenges and Solutions</div>
+    <div class="pub-authors"><code>Yuntao Wang</code>, Zhou Su, and Miao Yan</div>
+    <div class="pub-venue"><strong>IEEE Internet of Things Magazine</strong>, 6(3): 144-150, 2023.</div>
+    <div class="pub-note"><strong>物联网领域旗舰期刊</strong>，影响因子 5.8</div>
+  </div>
+</div>
+
+<div class="pub-item">
+  <div><span class="pub-badge b-tifs">TIFS<br>2023</span></div>
+  <div>
+    <div class="pub-title">Optimal Repair Strategy Against Advanced Persistent Threats Under Time-Varying Networks</div>
+    <div class="pub-authors">Zixuan Wang, Jiliang Li, <code>Yuntao Wang</code>, Zhou Su, Shui Yu, and Weizhi Meng</div>
+    <div class="pub-venue"><strong>IEEE Transactions on Information Forensics and Security (TIFS)</strong>, 18: 2345-2360, 2023.</div>
+    <div class="pub-note"><strong>网络与信息安全领域顶级期刊</strong>，影响因子 8.7</div>
+  </div>
+</div>
+
+<div class="pub-item">
+  <div><span class="pub-badge b-iotj">IoT-J<br>2023</span></div>
+  <div>
+    <div class="pub-title">Energy-Efficient and Physical-Layer Secure Computation Offloading in Blockchain-Empowered Internet of Things</div>
+    <div class="pub-authors">Yiliang Liu, Zhou Su, <code>Yuntao Wang</code></div>
+    <div class="pub-venue"><strong>IEEE Internet of Things Journal (IoT-J)</strong>, 10(8): 7123-7136, 2023.</div>
+    <div class="pub-note"><strong>物联网领域旗舰期刊</strong>，影响因子 8.7</div>
+  </div>
+</div>
+
+<div class="pub-year-divider">2022</div>
+
+<div class="pub-item">
+  <div><span class="pub-badge b-ton">TON<br>2022</span></div>
+  <div>
+    <div class="pub-title">Task Offloading for Post-Disaster Rescue in Unmanned Aerial Vehicles Networks</div>
+    <div class="pub-authors"><code>Yuntao Wang</code>, Weiwei Chen, Tom H. Luan, Zhou Su, Qichao Xu, Ruidong Li, and Nan Chen</div>
+    <div class="pub-venue"><strong>IEEE/ACM Transactions on Networking (TON)</strong>, 30(4): 1525-1539, 2022.</div>
+    <div class="pub-note"><strong>计算机网络领域顶级期刊</strong>，影响因子 5.3，<strong>谷歌学术被引 163 次</strong></div>
+  </div>
+</div>
+
+<div class="pub-item">
+  <div><span class="pub-badge b-jsac">JSAC<br>2022</span></div>
+  <div>
+    <div class="pub-title">A Platform-Free Proof of Federated Learning Consensus Mechanism for Sustainable Blockchains</div>
+    <div class="pub-authors"><code>Yuntao Wang</code>, Haixia Peng, Zhou Su, Tom H. Luan, Abderrahim Benslimane, and Yuan Wu</div>
+    <div class="pub-venue"><strong>IEEE Journal on Selected Areas in Communications (JSAC)</strong>, 40(12): 3305-3324, 2022.</div>
+    <div class="pub-note"><strong>网络通信领域顶级期刊</strong>，影响因子 16.8，<strong>谷歌学术被引 118 次</strong></div>
+  </div>
+</div>
+
+<div class="pub-item">
+  <div><span class="pub-badge b-tdsc">TDSC<br>2022</span></div>
+  <div>
+    <div class="pub-title">LVBS: Lightweight Vehicular Blockchain for Secure Data Sharing in Disaster Rescue</div>
+    <div class="pub-authors">Zhou Su（博士导师苏洲）, <code>Yuntao Wang</code>, Qichao Xu, and Ning Zhang</div>
+    <div class="pub-venue"><strong>IEEE Transactions on Dependable and Secure Computing (TDSC)</strong>, 19(1): 19-32, 2022.</div>
+    <div class="pub-note"><strong>网络与信息安全领域顶级期刊</strong>，影响因子 6.8，<strong>ESI 热点论文（全球引用率前 0.1%）</strong>，<strong>谷歌学术被引 282 次</strong></div>
+  </div>
+</div>
+
+<div class="pub-item">
+  <div><span class="pub-badge b-comst">COMST<br>2022</span></div>
+  <div>
+    <div class="pub-title">Blockchain-Empowered Space-Air-Ground Integrated Networks: Opportunities, Challenges, and Solutions</div>
+    <div class="pub-authors"><code>Yuntao Wang</code>, Zhou Su, Jianbing Ni, Ning Zhang, and Xuemin Shen</div>
+    <div class="pub-venue"><strong>IEEE Communications Surveys & Tutorials (COMST)</strong>, 24(1): 160-209, 2022.</div>
+    <div class="pub-note"><strong>影响因子 50.6</strong>，<strong>ESI 高被引论文（Top 1%）</strong>，<strong>谷歌学术被引 261 次</strong> · <a href="https://www.cnblogs.com/W-Yentl/p/20175571">中文导读</a></div>
+  </div>
+</div>
+
+<div class="pub-item">
+  <div><span class="pub-badge b-tnse">TNSE<br>2022</span></div>
+  <div>
+    <div class="pub-title">Federated Learning With Fair Incentives and Robust Aggregation for UAV-Aided Crowdsensing</div>
+    <div class="pub-authors"><code>Yuntao Wang</code>, Zhou Su, Tom H. Luan, Ruidong Li, and Kuan Zhang</div>
+    <div class="pub-venue"><strong>IEEE Transactions on Network Science and Engineering (TNSE)</strong>, 9(5): 3179-3196, 2022.</div>
+    <div class="pub-note"><strong>网络管理领域顶级期刊</strong>，影响因子 7.3，<strong>谷歌学术被引 118 次</strong></div>
+  </div>
+</div>
+
+<div class="pub-item">
+  <div><span class="pub-badge b-tvt">TVT<br>2022</span></div>
+  <div>
+    <div class="pub-title">A Secure and Efficient Wireless Charging Scheme for Electric Vehicles in Vehicular Energy Networks</div>
+    <div class="pub-authors"><code>Yuntao Wang</code>, Tom H. Luan, Zhou Su, Ning Zhang, and Abderrahim Benslimane</div>
+    <div class="pub-venue"><strong>IEEE Transactions on Vehicular Technology (TVT)</strong>, 71(2): 1491-1508, 2022.</div>
+    <div class="pub-note"><strong>车辆网络领域顶级期刊</strong>，影响因子 7.5</div>
+  </div>
+</div>
+
+<div class="pub-item">
+  <div><span class="pub-badge b-tvt">TVT<br>2022</span></div>
+  <div>
+    <div class="pub-title">Blockchain-Based Secure and Cooperative Private Charging Pile Sharing Services for Vehicular Networks</div>
+    <div class="pub-authors"><code>Yuntao Wang</code>, Zhou Su, Jiliang Li, Ning Zhang, Kuan Zhang, Kim-Kwang Raymond Choo, and Yang Liu</div>
+    <div class="pub-venue"><strong>IEEE Transactions on Vehicular Technology (TVT)</strong>, 71(2): 1857-1874, 2022.</div>
+    <div class="pub-note"><strong>车辆网络领域顶级期刊</strong>，影响因子 7.5</div>
+  </div>
+</div>
+
+<div class="pub-item">
+  <div><span class="pub-badge b-tii">TII<br>2022</span></div>
+  <div>
+    <div class="pub-title">Secure and Efficient Federated Learning for Smart Grid With Edge-Cloud Collaboration</div>
+    <div class="pub-authors">Zhou Su（博士导师苏洲）, <code>Yuntao Wang</code>, Tom H. Luan, Ning Zhang, Fan Li, Tianyu Chen, and Hong Cao</div>
+    <div class="pub-venue"><strong>IEEE Transactions on Industrial Informatics (TII)</strong>, 18(2): 1333-1344, 2022.</div>
+    <div class="pub-note"><strong>工业信息领域顶级期刊</strong>，影响因子 9.8，<strong>ESI 高被引论文（Top 1%）</strong>，<strong>谷歌学术被引 363 次</strong></div>
+  </div>
+</div>
+
+<div class="pub-item">
+  <div><span class="pub-badge b-mag">ComMag<br>2022</span></div>
+  <div>
+    <div class="pub-title">Mobile Wireless Rechargeable UAV Networks: Challenges and Solutions</div>
+    <div class="pub-authors"><code>Yuntao Wang</code>, Zhou Su, Ning Zhang, and Ruidong Li</div>
+    <div class="pub-venue"><strong>IEEE Communications Magazine</strong>, 60(3): 33-39, 2022.</div>
+    <div class="pub-note"><strong>通信领域权威期刊</strong>，影响因子 8.3</div>
+  </div>
+</div>
+
+<div class="pub-year-divider">2021</div>
+
+<div class="pub-item">
+  <div><span class="pub-badge b-infocom">INFOCOM<br>2021</span></div>
+  <div>
+    <div class="pub-title">Lifesaving with RescueChain: Energy-Efficient and Partition-Tolerant Blockchain Based Secure Information Sharing for UAV-Aided Disaster Rescue</div>
+    <div class="pub-authors"><code>Yuntao Wang</code>, Zhou Su, Qichao Xu, Ruidong Li, and Tom H. Luan</div>
+    <div class="pub-venue"><strong>Proceedings of IEEE INFOCOM</strong>, 1-10, 2021.</div>
+    <div class="pub-note"><strong>网络通信领域顶级会议</strong>，<strong>ESI 高被引论文（全球引用率前 1%）</strong>，<strong>谷歌学术被引 93 次</strong></div>
+  </div>
+</div>
+
+<div class="pub-item">
+  <div><span class="pub-badge b-tnse">TNSE<br>2021</span></div>
+  <div>
+    <div class="pub-title">Learning in the Air: Secure Federated Learning for UAV-Assisted Crowdsensing</div>
+    <div class="pub-authors"><code>Yuntao Wang</code>, Zhou Su, Ning Zhang, and Abderrahim Benslimane</div>
+    <div class="pub-venue"><strong>IEEE Transactions on Network Science and Engineering (TNSE)</strong>, 8(2): 1055-1069, 2021.</div>
+    <div class="pub-note"><strong>网络管理领域顶级期刊</strong>，影响因子 7.3，<strong>ESI 高被引论文（Top 1%）</strong>，<strong>谷歌学术被引 370 次</strong></div>
+  </div>
+</div>
+
+<div class="pub-item">
+  <div><span class="pub-badge b-tii">TII<br>2021</span></div>
+  <div>
+    <div class="pub-title">SPDS: A Secure and Auditable Private Data Sharing Scheme for Smart Grid Based on Blockchain</div>
+    <div class="pub-authors"><code>Yuntao Wang</code>, Zhou Su, Ning Zhang, Jianfei Chen, Xin Sun, Zhiyuan Ye, and Zhenyu Zhou</div>
+    <div class="pub-venue"><strong>IEEE Transactions on Industrial Informatics (TII)</strong>, 17(11): 7688-7699, 2021.</div>
+    <div class="pub-note"><strong>工业信息领域顶级期刊</strong>，影响因子 9.9，<strong>谷歌学术被引 194 次</strong></div>
+  </div>
+</div>
+
+<div class="pub-item">
+  <div><span class="pub-badge b-mag">Wireless<br>2021</span></div>
+  <div>
+    <div class="pub-title">Disaster Relief Wireless Networks: Challenges and Solutions</div>
+    <div class="pub-authors"><code>Yuntao Wang</code>, Zhou Su, Ning Zhang, and Dongliang Fang</div>
+    <div class="pub-venue"><strong>IEEE Wireless Communications</strong>, 28(5): 148-155, 2021.</div>
+    <div class="pub-note"><strong>无线通信领域权威期刊</strong>，影响因子 13.4</div>
+  </div>
+</div>
+
+<div class="pub-year-divider">2020</div>
+
+<div class="pub-item">
+  <div><span class="pub-badge b-network">Network<br>2020</span></div>
+  <div>
+    <div class="pub-title">Challenges and Solutions in Autonomous Driving: A Blockchain Approach</div>
+    <div class="pub-authors"><code>Yuntao Wang</code>, Zhou Su, Kuan Zhang, and Abderrahim Benslimane</div>
+    <div class="pub-venue"><strong>IEEE Network</strong>, 34(4): 218-226, 2020.</div>
+    <div class="pub-note"><strong>网络领域权威期刊</strong>，影响因子 8.8</div>
+  </div>
+</div>
+
+<div class="pub-year-divider">2019</div>
+
+<div class="pub-item">
+  <div><span class="pub-badge b-tii">TII<br>2019</span></div>
+  <div>
+    <div class="pub-title">BSIS: Blockchain-Based Secure Incentive Scheme for Energy Delivery in Vehicular Energy Network</div>
+    <div class="pub-authors"><code>Yuntao Wang</code>, Zhou Su, and Ning Zhang</div>
+    <div class="pub-venue"><strong>IEEE Transactions on Industrial Informatics (TII)</strong>, 15(6): 3620-3631, 2019.</div>
+    <div class="pub-note"><strong>工业信息领域顶级期刊</strong>，影响因子 9.8，<strong>谷歌学术被引 265 次</strong></div>
+  </div>
+</div>
+
+<div class="pub-item">
+  <div><span class="pub-badge b-tvt">TVT<br>2019</span></div>
+  <div>
+    <div class="pub-title">A Novel Charging Scheme for Electric Vehicles With Smart Communities in Vehicular Networks</div>
+    <div class="pub-authors"><code>Yuntao Wang</code>, Zhou Su, Qichao Xu, Tingting Yang, and Ning Zhang</div>
+    <div class="pub-venue"><strong>IEEE Transactions on Vehicular Technology (TVT)</strong>, 68(9): 8487-8501, 2019.</div>
+    <div class="pub-note"><strong>车辆网络领域顶级期刊</strong>，影响因子 7.5，<strong>谷歌学术被引 97 次</strong></div>
+  </div>
+</div>
+
+<div class="pub-item">
+  <div><span class="pub-badge b-iotj">IoT-J<br>2019</span></div>
+  <div>
+    <div class="pub-title">A Secure Charging Scheme for Electric Vehicles With Smart Communities in Energy Blockchain</div>
+    <div class="pub-authors">Zhou Su（博士导师苏洲）, <code>Yuntao Wang</code>, Qichao Xu, Minrui Fei, Yiming Tian, and Ning Zhang</div>
+    <div class="pub-venue"><strong>IEEE Internet of Things Journal (IoT-J)</strong>, 6(3): 4601-4613, 2019.</div>
+    <div class="pub-note"><strong>物联网领域旗舰期刊</strong>，影响因子 8.7，<strong>ESI 高被引论文（Top 1%）</strong>，<strong>谷歌学术被引 473 次</strong></div>
+  </div>
+</div>
+
 
 <span class='anchor' id='-gjjx'></span>
 
