@@ -77,7 +77,7 @@ redirect_from:
 
 <span class='anchor' id='-lwcg'></span>
 
-# 📝 论文成果列表
+# 📝 代表性论文成果
 
 <style>
 .pub-year-divider {
@@ -89,6 +89,10 @@ redirect_from:
   font-size: 1.35rem;
   font-weight: 600;
   letter-spacing: 0.02em;
+}
+.pub-year-divider.first-year {
+  border-top: none;
+  margin-top: 8px;
 }
 .pub-item {
   display: grid;
@@ -154,7 +158,7 @@ redirect_from:
 .b-vtm { background: #86bc86; }
 </style>
 
-<div class="pub-year-divider">2026</div>
+<div class="pub-year-divider first-year">2026</div>
 
 <div class="pub-item">
   <div><span class="pub-badge b-ton">TON<br>2026</span></div>
@@ -799,6 +803,7 @@ redirect_from:
     <div class="pub-note"><strong>物联网领域旗舰期刊</strong>，影响因子 8.7，<strong>ESI 高被引论文（Top 1%）</strong>，<strong>谷歌学术被引 473 次</strong></div>
   </div>
 </div>
+
 
 
 <span class='anchor' id='-gjjx'></span>
