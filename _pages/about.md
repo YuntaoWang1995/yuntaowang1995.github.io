@@ -77,7 +77,7 @@ redirect_from:
 
 <span class='anchor' id='-lwcg'></span>
 
-# 📝 代表性论文成果
+# 📝 主要论文成果
 
 <style>
 .pub-year-divider {
@@ -327,6 +327,66 @@ redirect_from:
     <div class="pub-authors">Shaolong Guo, <code>Yuntao Wang</code>, Zhou Su, Yanghe Pan, Qinnan Hu, and Tom H. Luan</div>
     <div class="pub-venue"><strong>IEEE Network</strong>, doi: 10.1109/MNET.2026.3663837, 2026.</div>
     <div class="pub-note"><strong>网络领域权威期刊</strong>，影响因子 8.8</div>
+  </div>
+</div>
+
+<div class="pub-item">
+  <div><span class="pub-badge b-tnse">TNSE<br>2026</span></div>
+  <div>
+    <div class="pub-title">QoE-Oriented Task Offloading in SAG Integrated IoT: An Interactive Dual-Agent PPO Approach</div>
+    <div class="pub-authors">Zihao Zhang, Haixia Peng, Zhou Su, <code>Yuntao Wang</code>, Tom H. Luan, and Nan Cheng</div>
+    <div class="pub-venue"><strong>IEEE Transactions on Network Science and Engineering (TNSE)k</strong>, 13:7138-7155, Feb. 2026.</div>
+    <div class="pub-note"><strong>网络领域权威期刊</strong>，影响因子 7.3</div>
+  </div>
+</div>
+
+<div class="pub-item">
+  <div><span class="pub-badge b-tnse">TNSE<br>2026</span></div>
+  <div>
+    <div class="pub-title">SafeRAG: Secure Cloud-Based Retrieval-Augmented Generation for LLM-Empowered Voice Assistants</div>
+    <div class="pub-authors">Yuan Chang, Tom H. Luan, Siran Wang, and <code>Yuntao Wang</code></div>
+    <div class="pub-venue"><strong>IEEE Transactions on Network Science and Engineering (TNSE)</strong>, 13:6211-6224, Jan. 2026.</div>
+    <div class="pub-note"><strong>网络管理领域顶级期刊</strong>，影响因子 7.3</div>
+  </div>
+</div>
+
+<div class="pub-item">
+  <div><span class="pub-badge b-tnse">TNSE<br>2026</span></div>
+  <div>
+    <div class="pub-title">Privacy-Preserving K-Means Clustering for Vehicular Driving Behavior Analysis</div>
+    <div class="pub-authors">Yuan Chang, Yinuo Li, Tom H. Luan, <code>Yuntao Wang</code>, Jinkai Zheng, and Zhou Su</div>
+    <div class="pub-venue"><strong>IEEE Transactions on Network Science and Engineering (TNSE)</strong>, 13:4930-4945, 2026.</div>
+    <div class="pub-note"><strong>网络管理领域顶级期刊</strong>，影响因子 7.3</div>
+  </div>
+</div>
+
+<div class="pub-item">
+  <div><span class="pub-badge b-twc">TWC<br>2026</span></div>
+  <div>
+    <div class="pub-title">Joint Discrete Antenna Positioning and Beamforming Optimization in Movable Antenna Enabled Full-Duplex ISAC Networks</div>
+    <div class="pub-authors">Zhendong Li, Jianle Ba, Zhou Su, Haixia Peng, <code>Yuntao Wang</code>, Wen Chen, and Qingqing Wu</div>
+    <div class="pub-venue"><strong>IEEE Transactions on Wireless Communications (TWC)</strong>, 25:7220-7234, 2026.</div>
+    <div class="pub-note"><strong>无线通信领域顶级期刊</strong>，影响因子 10.3</div>
+  </div>
+</div>
+
+<div class="pub-item">
+  <div><span class="pub-badge b-tvt">TVT<br>2026</span></div>
+  <div>
+    <div class="pub-title">Optimizing Information Freshness in Grant-Free Communication Under AoI Threshold Constraints</div>
+    <div class="pub-authors">Yuanchen Wang, Zhou Su, Qiwei Ren, Kai Zhang, <code>Yuntao Wang</code>, Jian Tang, Yiliang Liu, and Zhongxiang Wei</div>
+    <div class="pub-venue"><strong>IEEE Transactions on Vehicular Technology (TVT)</strong>, 75(3):4533-4547, May, 2026.</div>
+    <div class="pub-note"><strong>车辆网络领域顶级期刊</strong>，影响因子 7.5</div>
+  </div>
+</div>
+
+<div class="pub-item">
+  <div><span class="pub-badge b-tnse">TNSE<br>2026</span></div>
+  <div>
+    <div class="pub-title">Cooperative Edge Content Caching With Popularity Prediction in UAV-Assisted Vehicular Networks</div>
+    <div class="pub-authors">Qichao Xu, Mengzhen Cheng, Jie Jin, Zhou Su, Dongfeng Fang, <code>Yuntao Wang</code>, and Yuan Wu</div>
+    <div class="pub-venue"><strong>IEEE Transactions on Network Science and Engineering (TNSE)</strong>, 13:7614-7632, Jan. 2026.</div>
+    <div class="pub-note"><strong>网络管理领域顶级期刊</strong>，影响因子 7.3</div>
   </div>
 </div>
 
