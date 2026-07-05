@@ -149,7 +149,7 @@ redirect_from:
 .b-iotj { background: #edc948; color: #333333; }
 .b-cn { background: #d45087; }
 .b-smc { background: #d45087; }
-.b-network { background: #4e79a7; }
+.b-network { background: #8cd17d; }
 .b-mag { background: #f28e2b; }
 .b-sp { background: #af7aa1; }
 .b-usenix { background: #e15759; }
