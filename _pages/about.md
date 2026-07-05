@@ -54,7 +54,7 @@ redirect_from:
 
 A Survey on Metaverse: Fundamentals, Security, and Privacy <br>   
 
-`Yuntao Wang`, Zhou Su, Ning Zhang, Rui Xing, Dongxiao Liu, Tom H. Luan, and Xuemin Shen <br>  
+<u>Yuntao Wang<\u>, Zhou Su, Ning Zhang, Rui Xing, Dongxiao Liu, Tom H. Luan, and Xuemin Shen <br>  
 
 IEEE Communications Surveys & Tutorials (COMST), 25(1): 319-352, 2023 <br> 
 
