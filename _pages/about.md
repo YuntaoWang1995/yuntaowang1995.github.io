@@ -148,6 +148,7 @@ redirect_from:
 .b-ojcs { background: #9c6ade; }
 .b-iotj { background: #edc948; color: #333333; }
 .b-cn { background: #d45087; }
+.b-smc { background: #d45087; }
 .b-network { background: #4e79a7; }
 .b-mag { background: #f28e2b; }
 .b-sp { background: #af7aa1; }
@@ -155,6 +156,8 @@ redirect_from:
 .b-ijcai { background: #ff9da7; color: #333333; }
 .b-tmc { background: #76b7b2; }
 .b-tnsm { background: #bab0ab; color: #333333; }
+.b-twc { background: #bab0ab; color: #333333; }
+.b-tcom { background: #bab0ab; color: #333333; }
 .b-vtm { background: #86bc86; }
 </style>
 
@@ -532,6 +535,37 @@ redirect_from:
   </div>
 </div>
 
+<div class="pub-item">
+  <div><span class="pub-badge b-tifs">TIFS<br>2025</span></div>
+  <div>
+    <div class="pub-title">Protecting Your Attention During Distributed Graph Learning: Efficient Privacy-Preserving Federated Graph Attention Network</div>
+    <div class="pub-authors">Jinhao Zhou, Jun Wu, Jianbing Ni, <code>Yuntao Wang</code>, Yanghe Pan, and Zhou Su</div>
+    <div class="pub-venue"><strong>IEEE Transactions on Information Forensics and Security (TIFS)</strong>, 20: 1949-1964, 2025.</div>
+    <div class="pub-note"><strong>网络与信息安全领域顶级期刊</strong>，影响因子 8.7</div>
+  </div>
+</div>
+
+<div class="pub-item">
+  <div><span class="pub-badge b-tcom">TCOM<br>2025</span></div>
+  <div>
+    <div class="pub-title">Model Predictive Control Enabled UAV Trajectory Optimization and Secure Resource Allocation</div>
+    <div class="pub-authors">Zhendong Li, Chang Su, Zhou Su, Haixia Peng, <code>Yuntao Wang</code>, Wen Chen, and Qingqing Wu</div>
+    <div class="pub-venue"><strong>IEEE Transactions on Communications (TCOM)</strong>, 73(11): 12652-12665, Nov. 2025.</div>
+    <div class="pub-note"><strong>网络通信领域顶级期刊</strong>，影响因子 8.4</div>
+  </div>
+</div>
+
+<div class="pub-item">
+  <div><span class="pub-badge b-tvt">TVT<br>2025</span></div>
+  <div>
+    <div class="pub-title">Blockchain-Based Layered Secure Edge Content Delivery in UAV-Assisted Vehicular Networks</div>
+    <div class="pub-authors">Qichao Xu, Jie Jin, Zhou Su, Ruidong Li, <code>Yuntao Wang</code>, Dongfeng Fang, and Yuan Wu</div>
+    <div class="pub-venue"><strong>IEEE Transactions on Vehicular Technology (TVT)</strong>, 74(5): 7914-7927, May 2025.</div>
+    <div class="pub-note"><strong>车辆网络领域顶级期刊</strong>，影响因子 7.5</div>
+  </div>
+</div>
+
+
 <div class="pub-year-divider">2024</div>
 
 <div class="pub-item">
@@ -603,6 +637,47 @@ redirect_from:
     <div class="pub-note"><strong>物联网领域旗舰期刊</strong>，影响因子 8.7</div>
   </div>
 </div>
+
+<div class="pub-item">
+  <div><span class="pub-badge b-comst">COMST<br>2024</span></div>
+  <div>
+    <div class="pub-title">Beam Alignment in mmWave V2X Communications: A Survey</div>
+    <div class="pub-authors">Jingru Tan, Tom H. Luan, Wenbo Guan, <code>Yuntao Wang</code>, Haixia Peng, Yao Zhang, Dongmei Zhao, and Ning Lu</div>
+    <div class="pub-venue"><strong>IEEE Communications Surveys & Tutorials (COMST)</strong>, 26(3): 1676-1709, 2024.</div>
+    <div class="pub-note"><strong>影响因子 50.6</strong></div>
+  </div>
+</div>
+
+<div class="pub-item">
+  <div><span class="pub-badge b-ton">TON<br>2024</span></div>
+  <div>
+    <div class="pub-title">A Privacy-Preserving Incentive Scheme for Data Sensing in App-Assisted Mobile Edge Crowdsensing</div>
+    <div class="pub-authors">Liang Xie, Zhou Su, Nan Chen, <code>Yuntao Wang</code>,  Yiliang Liu, and Ruidong Li</div>
+    <div class="pub-venue"><strong>IEEE/ACM Transactions on Networking (TON)</strong>, 32(6): 4765-4780, Dec. 2024.</div>
+    <div class="pub-note"><strong>计算机网络领域顶级期刊</strong>，影响因子 5.3，<strong>谷歌学术被引 156 次</strong></div>
+  </div>
+</div>
+
+<div class="pub-item">
+  <div><span class="pub-badge b-tnse">TNSE<br>2024</span></div>
+  <div>
+    <div class="pub-title">Privacy-Preserving Heterogeneous Personalized Federated Learning With Knowledge</div>
+    <div class="pub-authors">Yanghe Pan, Zhou Su, Jianbing Ni, <code>Yuntao Wang</code>, and Jinhao Zhou</div>
+    <div class="pub-venue"><strong>IEEE Transactions on Network Science and Engineering (TNSE)</strong>, 11(6): 5969-5982, Nov. 2024.</div>
+    <div class="pub-note"><strong>网络管理领域顶级期刊</strong>，影响因子 7.3</div>
+  </div>
+</div>
+
+<div class="pub-item">
+  <div><span class="pub-badge b-tvt">TVT<br>2024</span></div>
+  <div>
+    <div class="pub-title">USV Fleet-Assisted Collaborative Computation Offloading for Smart Maritime Services: An Energy-Efficient Design</div>
+    <div class="pub-authors">Hui Zeng, Zhou Su, Qichao Xu, Ruidong Li, <code>Yuntao Wang</code>, Minghui Dai, Tom H. Luan, Xin Sun, and Donglan Liu</div>
+    <div class="pub-venue"><strong>IEEE Transactions on Vehicular Technology (TVT)</strong>, 73(10): 14718-14733, Oct. 2024.</div>
+    <div class="pub-note"><strong>车辆网络领域顶级期刊</strong>，影响因子 7.5</div>
+  </div>
+</div>
+
 
 <div class="pub-year-divider">2023</div>
 
@@ -693,6 +768,16 @@ redirect_from:
     <div class="pub-authors">Yiliang Liu, Zhou Su, <code>Yuntao Wang</code></div>
     <div class="pub-venue"><strong>IEEE Internet of Things Journal (IoT-J)</strong>, 10(8): 7123-7136, 2023.</div>
     <div class="pub-note"><strong>物联网领域旗舰期刊</strong>，影响因子 8.7</div>
+  </div>
+</div>
+
+<div class="pub-item">
+  <div><span class="pub-badge b-smc">SMCS<br>2023</span></div>
+  <div>
+    <div class="pub-title">ParaDefender: A Scenario-Driven Parallel System for Defending Metaverses</div>
+    <div class="pub-authors">Jinpeng Han, Manzhi Yang, Xiaoguang Chen, Hongtao Liu, <code>Yuntao Wang</code>, Jianhao Li, Zhou Su, Zhen Li, Xiaobo Ma</div>
+    <div class="pub-venue"><strong>IEEE Transactions on Systems, Man, and Cybernetics: Systems (SMCS)</strong>, 53(4): 2118-2127, Apr. 2023.</div>
+    <div class="pub-note"><strong>系统控制领域旗舰期刊</strong>，影响因子 8.4</div>
   </div>
 </div>
 
@@ -788,6 +873,26 @@ redirect_from:
   </div>
 </div>
 
+<div class="pub-item">
+  <div><span class="pub-badge b-tvt">TVT<br>2022</span></div>
+  <div>
+    <div class="pub-title">A Trust-Driven Contract Incentive Scheme for Mobile Crowd-Sensing Networks</div>
+    <div class="pub-authors">Minghui Dai, Zhou Su, Qichao Xu, <code>Yuntao Wang</code>, and Ning Lu</div>
+    <div class="pub-venue"><strong>IEEE Transactions on Vehicular Technology (TVT)</strong>, 71(2): 1794-1806, Feb. 2022.</div>
+    <div class="pub-note"><strong>车辆网络领域顶级期刊</strong>，影响因子 7.5</div>
+  </div>
+</div>
+
+<div class="pub-item">
+  <div><span class="pub-badge b-tvt">TVT<br>2022</span></div>
+  <div>
+    <div class="pub-title">UAVs-Aided Delay-Tolerant Blockchain Secure Offline Transactions in Post-Disaster Vehicular Networks</div>
+    <div class="pub-authors">Rui Xing, Zhou Su, Tom H. Luan, Qichao Xu, <code>Yuntao Wang</code>, and Ruidong Li</div>
+    <div class="pub-venue"><strong>IEEE Transactions on Vehicular Technology (TVT)</strong>, 71(11): 12030-12043, Nov. 2022.</div>
+    <div class="pub-note"><strong>车辆网络领域顶级期刊</strong>，影响因子 7.5</div>
+  </div>
+</div>
+
 <div class="pub-year-divider">2021</div>
 
 <div class="pub-item">
@@ -821,7 +926,7 @@ redirect_from:
 </div>
 
 <div class="pub-item">
-  <div><span class="pub-badge b-mag">Wireless<br>2021</span></div>
+  <div><span class="pub-badge b-mag">WC<br>2021</span></div>
   <div>
     <div class="pub-title">Disaster Relief Wireless Networks: Challenges and Solutions</div>
     <div class="pub-authors"><code>Yuntao Wang</code>, Zhou Su, Ning Zhang, and Dongliang Fang</div>
@@ -838,6 +943,36 @@ redirect_from:
     <div class="pub-title">Challenges and Solutions in Autonomous Driving: A Blockchain Approach</div>
     <div class="pub-authors"><code>Yuntao Wang</code>, Zhou Su, Kuan Zhang, and Abderrahim Benslimane</div>
     <div class="pub-venue"><strong>IEEE Network</strong>, 34(4): 218-226, 2020.</div>
+    <div class="pub-note"><strong>网络领域权威期刊</strong>，影响因子 8.8</div>
+  </div>
+</div>
+
+<div class="pub-item">
+  <div><span class="pub-badge b-tnse">TNSE<br>2020</span></div>
+  <div>
+    <div class="pub-title">Task Allocation Scheme for Cyber Physical Social Systems</div>
+    <div class="pub-authors">Zhou Su, Minghui Dai, Qifan Qi, <code>Yuntao Wang</code>, Qichao Xu, and Qing Yang</div>
+    <div class="pub-venue"><strong>IEEE Transactions on Network Science and Engineering (TNSE)</strong>, 7(2): 832-842, 1 Apr. 2020.</div>
+    <div class="pub-note"><strong>网络管理领域顶级期刊</strong>，影响因子 7.3</div>
+  </div>
+</div>
+
+<div class="pub-item">
+  <div><span class="pub-badge b-network">Network<br>2020</span></div>
+  <div>
+    <div class="pub-title">An Edge-Driven Security Framework for Intelligent Internet of Things</div>
+    <div class="pub-authors">Minghui Dai, Zhou Su, Ruidong Li, <code>Yuntao Wang</code>, Jianbing Ni, and Dongfeng Fang</div>
+    <div class="pub-venue"><strong>IEEE Network</strong>, 34(5): 39-45, Sep. 2020.</div>
+    <div class="pub-note"><strong>网络领域权威期刊</strong>，影响因子 8.8</div>
+  </div>
+</div>
+
+<div class="pub-item">
+  <div><span class="pub-badge b-network">Network<br>2020</span></div>
+  <div>
+    <div class="pub-title">Blockchain-Based Data Security for Artificial Intelligence Applications in 6G Networks</div>
+    <div class="pub-authors">Weiwei Li, Zhou Su, Ruidong Li, Kuan Zhang, and <code>Yuntao Wang</code></div>
+    <div class="pub-venue"><strong>IEEE Network</strong>, 34(6): 31-37, Nov. 2020.</div>
     <div class="pub-note"><strong>网络领域权威期刊</strong>，影响因子 8.8</div>
   </div>
 </div>
@@ -874,6 +1009,24 @@ redirect_from:
   </div>
 </div>
 
+<div class="pub-item">
+  <div><span class="pub-badge b-tvt">Book Chapter<br>2024</span></div>
+  <div>
+    <div class="pub-title">Security Issues in Metaverse</div>
+    <div class="pub-authors"><code>Yuntao Wang</code>, Zhou Su, Ning Zhang, Dongxiao Liu, Rui Xing, Tom H. Luan, and Xuemin Sheng</div>
+    <div class="pub-venue"><strong>Metaverse Communication and Computing Networks: Applications, Technologies, and Approaches</strong>, Wiley-IEEE Press, pp.205-239, 2024.</div>
+  </div>
+</div>
+
+<div class="pub-item">
+  <div><span class="pub-badge b-tvt">教材<br>2025</span></div>
+  <div>
+    <div class="pub-title">无人系统安全</div>
+     <div class="pub-authors">苏洲, <code>王云涛</code>, 栾浩, 潘洋河, 郭少龙, 胡钦南</div>
+    <div class="pub-venue"><strong>清华大学出版社</strong>, 2025.</div>
+    <div class="pub-note"><strong>教育部战略性新兴领域“十四五”规划教材</strong></div>
+  </div>
+</div>
 
 
 <span class='anchor' id='-gjjx'></span>
