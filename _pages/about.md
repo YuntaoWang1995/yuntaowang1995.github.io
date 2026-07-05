@@ -45,6 +45,62 @@ redirect_from:
 
 # 📝 代表性论文成果
 
+<table>
+<tr>
+<td width="110" align="center">
+  <img src="https://img.shields.io/badge/COMST-2023-1f77b4?style=for-the-badge" />
+</td>
+<td>
+
+**A Survey on Metaverse: Fundamentals, Security, and Privacy**  
+
+`Yuntao Wang`, Zhou Su, Ning Zhang, Rui Xing, Dongxiao Liu, Tom H. Luan, and Xuemin Shen  
+
+**IEEE Communications Surveys & Tutorials (COMST)**, 25(1): 319-352, 2023  
+
+**计算机与信息领域影响因子最高期刊**，**影响因子 50.6**，**ESI 热点论文（全球引用率前 0.1%）**，**谷歌学术被引 2100 余次**  
+[PDF](https://arxiv.org/pdf/2203.02662) · [Cite](...)
+
+</td>
+</tr>
+
+<tr>
+<td width="110" align="center">
+  <img src="https://img.shields.io/badge/TON-2022-2ca02c?style=for-the-badge" />
+</td>
+<td>
+
+**Task Offloading for Post-Disaster Rescue in Unmanned Aerial Vehicles Networks**  
+
+`Yuntao Wang`, Weiwei Chen, Tom H. Luan, Zhou Su, Qichao Xu, Ruidong Li, and Nan Chen  
+
+**IEEE/ACM Transactions on Networking (TON)**, 30(4): 1525-1539, 2022  
+
+**计算机网络领域顶级期刊**，**影响因子 5.3**，**谷歌学术被引 163 次**
+
+</td>
+</tr>
+
+<tr>
+<td width="110" align="center">
+  <img src="https://img.shields.io/badge/TON-2023-d62728?style=for-the-badge" />
+</td>
+<td>
+
+**A Secure and Intelligent Data Sharing Scheme for UAV-Assisted Disaster Rescue**  
+
+`Yuntao Wang`, Zhou Su, Qichao Xu, Ruidong Li, Tom H. Luan, and Pinghui Wang  
+
+**IEEE/ACM Transactions on Networking (TON)**, 31(6): 2422-2438, 2023  
+
+**计算机网络领域顶级期刊**，**影响因子 5.3**，**谷歌学术被引 156 次**
+
+</td>
+</tr>
+</table>
+
+# 📝 代表性论文成果
+
 1. `Yuntao Wang`, Zhou Su, Ning Zhang, Rui Xing, Dongxiao Liu, Tom H. Luan, and Xuemin Shen, "A Survey on Metaverse: Fundamentals, Security, and Privacy," **IEEE Communications Surveys & Tutorials (COMST)**, 25(1): 319-352 (2023) **计算机与信息领域影响因子最高期刊 (影响因子50.6)**，**ESI热点论文（全球引用率前0.1%）**，**谷歌学术被引2100余次** 🔗 [PDF](https://arxiv.org/pdf/2203.02662) · [Cite](...)
 
 2. `Yuntao Wang`, Weiwei Chen, Tom H. Luan, Zhou Su, Qichao Xu, Ruidong Li, and Nan Chen, "Task Offloading for Post-Disaster Rescue in Unmanned Aerial Vehicles Networks," **IEEE/ACM Transactions on Networking (TON)**, 30(4): 1525-1539 (2022) **计算机网络领域顶级期刊**，影响因子5.3，**谷歌学术被引163次**
