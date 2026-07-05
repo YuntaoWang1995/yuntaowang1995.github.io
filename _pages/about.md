@@ -52,11 +52,11 @@ redirect_from:
 </td>
 <td>
 
-**A Survey on Metaverse: Fundamentals, Security, and Privacy**  
+A Survey on Metaverse: Fundamentals, Security, and Privacy  
 
 `Yuntao Wang`, Zhou Su, Ning Zhang, Rui Xing, Dongxiao Liu, Tom H. Luan, and Xuemin Shen  
 
-**IEEE Communications Surveys & Tutorials (COMST)**, 25(1): 319-352, 2023  
+IEEE Communications Surveys & Tutorials (COMST), 25(1): 319-352, 2023  
 
 **计算机与信息领域影响因子最高期刊**，**影响因子 50.6**，**ESI 热点论文（全球引用率前 0.1%）**，**谷歌学术被引 2100 余次**  
 [PDF](https://arxiv.org/pdf/2203.02662) · [Cite](...)
