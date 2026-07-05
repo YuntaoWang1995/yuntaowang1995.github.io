@@ -205,7 +205,7 @@ redirect_from:
 </div>
 
 <div class="pub-item">
-  <div><span class="pub-badge b-cn">中国科学26</span></div>
+  <div><span class="pub-badge b-cn">中国科学'26</span></div>
   <div>
     <div class="pub-title">面向高级持续性威胁的卫星互联网最优修复策略</div>
     <div class="pub-authors"><code>王云涛</code>, 何春林, 苏洲</div>
@@ -215,7 +215,7 @@ redirect_from:
 </div>
 
 <div class="pub-item">
-  <div><span class="pub-badge b-cn">JEIT<br>2026</span></div>
+  <div><span class="pub-badge b-cn">JEIT'26</span></div>
   <div>
     <div class="pub-title">低空智联网架构、安全与优化关键技术</div>
     <div class="pub-authors"><code>王云涛</code>, 苏洲, 高源, 巴建乐</div>
@@ -225,7 +225,7 @@ redirect_from:
 </div>
 
 <div class="pub-item">
-  <div><span class="pub-badge b-sp">S&amp;P<br>2026</span></div>
+  <div><span class="pub-badge b-sp">S&amp;P'26</span></div>
   <div>
     <div class="pub-title">URLcoat: Exploiting Web Search Capability to Jailbreak Large Language Models</div>
     <div class="pub-authors">Yiheng Sun, Linkang Du, Zhou Su, <code>Yuntao Wang</code>, and Han Liu</div>
@@ -235,17 +235,17 @@ redirect_from:
 </div>
 
 <div class="pub-item">
-  <div><span class="pub-badge b-usenix">Security<br>2026</span></div>
+  <div><span class="pub-badge b-usenix">Security'26</span></div>
   <div>
     <div class="pub-title">Unveiling the Pitfalls of Data-Free Backdoor Detection Against Pre-Trained Models</div>
     <div class="pub-authors">Quan Zhao, Linkang Du, <code>Yuntao Wang</code>, Zhou Su, Zheng Li, Xiangshan Gao, and Yang Zhang</div>
-    <div class="pub-venue"><strong>Proceedings of USENIX Security</strong>, Baltimore, USA, pp.1-20, 2026.</div>
+    <div class="pub-venue"><strong>Proceedings of USENIX Security</strong>, Baltimore, USA, pp. 1-20, 2026.</div>
     <div class="pub-note"><strong>安全领域四大顶会</strong></div>
   </div>
 </div>
 
 <div class="pub-item">
-  <div><span class="pub-badge b-ijcai">IJCAI<br>2026</span></div>
+  <div><span class="pub-badge b-ijcai">IJCAI'26</span></div>
   <div>
     <div class="pub-title">Incentivizing Truthful Machine Unlearning via Hierarchical Auditing</div>
     <div class="pub-authors">Shaolong Guo, <code>Yuntao Wang</code>*, Zhou Su*, and Tom H. Luan</div>
@@ -255,7 +255,7 @@ redirect_from:
 </div>
 
 <div class="pub-item">
-  <div><span class="pub-badge b-ijcai">IJCAI<br>2026</span></div>
+  <div><span class="pub-badge b-ijcai">IJCAI'26</span></div>
   <div>
     <div class="pub-title">Towards Scalable Metaverse Systems with Social-Aware VR Displays</div>
     <div class="pub-authors">Shaolong Guo, <code>Yuntao Wang</code>*, Qinnan Hu, Zhou Su*, and Tom H. Luan</div>
@@ -265,7 +265,7 @@ redirect_from:
 </div>
 
 <div class="pub-item">
-  <div><span class="pub-badge b-tmc">TMC<br>2026</span></div>
+  <div><span class="pub-badge b-tmc">TMC'26</span></div>
   <div>
     <div class="pub-title">Long-Term Optimal Incentives for Differential-Privacy Federated Learning: A Multi-Stage Game Approach</div>
     <div class="pub-authors">Liang Xie, <code>Yuntao Wang</code>, Hengzhi Wang, and Laizhong Cui</div>
@@ -275,7 +275,7 @@ redirect_from:
 </div>
 
 <div class="pub-item">
-  <div><span class="pub-badge b-tifs">TIFS<br>2026</span></div>
+  <div><span class="pub-badge b-tifs">TIFS'26</span></div>
   <div>
     <div class="pub-title">BlockAthena: A Scalable Approach for Long-Term Blockchain Crimes Analysis</div>
     <div class="pub-authors">Qinnan Hu, <code>Yuntao Wang</code>, Zhou Su, Shaolong Guo, Yuan Gao, Nan Liu, and Tom H. Luan</div>
@@ -285,7 +285,7 @@ redirect_from:
 </div>
 
 <div class="pub-item">
-  <div><span class="pub-badge b-ton">TON<br>2026</span></div>
+  <div><span class="pub-badge b-ton">TON'26</span></div>
   <div>
     <div class="pub-title">FLET: Game-Theoretic Free-Riding Mitigation via Test Tasks in Federated Learning</div>
     <div class="pub-authors">Shaolong Guo, <code>Yuntao Wang</code>, Zhou Su, Yanghe Pan, Tom H. Luan, and Xizhao Luo</div>
@@ -295,7 +295,7 @@ redirect_from:
 </div>
 
 <div class="pub-item">
-  <div><span class="pub-badge b-ton">TON<br>2026</span></div>
+  <div><span class="pub-badge b-ton">TON'26</span></div>
   <div>
     <div class="pub-title">Rethinking Online Smart Contract Diagnosis in Blockchains: A Diffusion Perspective</div>
     <div class="pub-authors">Qinnan Hu, <code>Yuntao Wang</code>, Zhou Su, Tom H. Luan, Ruidong Li, and Zhenyu Jiang</div>
@@ -305,7 +305,7 @@ redirect_from:
 </div>
 
 <div class="pub-item">
-  <div><span class="pub-badge b-tnse">TNSE<br>2026</span></div>
+  <div><span class="pub-badge b-tnse">TNSE'26</span></div>
   <div>
     <div class="pub-title">The Right to Be Forgotten Versus the Need to Be Remembered: Efficient Personalized Federated Unlearning With Optimal Incentives</div>
     <div class="pub-authors">Yanghe Pan, <code>Yuntao Wang</code>, Zhou Su, Yuan Gao, Shaolong Guo, Qinnan Hu, Ruidong Li, and WeiWei Li</div>
@@ -315,7 +315,7 @@ redirect_from:
 </div>
 
 <div class="pub-item">
-  <div><span class="pub-badge b-tccn">TCCN<br>2026</span></div>
+  <div><span class="pub-badge b-tccn">TCCN'26</span></div>
   <div>
     <div class="pub-title">An Efficient Privacy-Preserving Retrieval Scheme for Cloud-Based Retrieval-Augmented Generation</div>
     <div class="pub-authors">Yuan Chang, Tom H. Luan, <code>Yuntao Wang</code>, Linkang Du, Chengyi Dong, Zhou Su</div>
@@ -325,7 +325,7 @@ redirect_from:
 </div>
 
 <div class="pub-item">
-  <div><span class="pub-badge b-network">Network<br>2026</span></div>
+  <div><span class="pub-badge b-network">Network'26</span></div>
   <div>
     <div class="pub-title">Agent Discovery in Internet of Agents: Challenges and Solutions</div>
     <div class="pub-authors">Shaolong Guo, <code>Yuntao Wang</code>, Zhou Su, Yanghe Pan, Qinnan Hu, and Tom H. Luan</div>
@@ -335,7 +335,7 @@ redirect_from:
 </div>
 
 <div class="pub-item">
-  <div><span class="pub-badge b-tnse">TNSE<br>2026</span></div>
+  <div><span class="pub-badge b-tnse">TNSE'26</span></div>
   <div>
     <div class="pub-title">QoE-Oriented Task Offloading in SAG Integrated IoT: An Interactive Dual-Agent PPO Approach</div>
     <div class="pub-authors">Zihao Zhang, Haixia Peng, Zhou Su, <code>Yuntao Wang</code>, Tom H. Luan, and Nan Cheng</div>
@@ -345,7 +345,7 @@ redirect_from:
 </div>
 
 <div class="pub-item">
-  <div><span class="pub-badge b-tnse">TNSE<br>2026</span></div>
+  <div><span class="pub-badge b-tnse">TNSE'26</span></div>
   <div>
     <div class="pub-title">SafeRAG: Secure Cloud-Based Retrieval-Augmented Generation for LLM-Empowered Voice Assistants</div>
     <div class="pub-authors">Yuan Chang, Tom H. Luan, Siran Wang, and <code>Yuntao Wang</code></div>
@@ -355,7 +355,7 @@ redirect_from:
 </div>
 
 <div class="pub-item">
-  <div><span class="pub-badge b-tnse">TNSE<br>2026</span></div>
+  <div><span class="pub-badge b-tnse">TNSE'26</span></div>
   <div>
     <div class="pub-title">Privacy-Preserving K-Means Clustering for Vehicular Driving Behavior Analysis</div>
     <div class="pub-authors">Yuan Chang, Yinuo Li, Tom H. Luan, <code>Yuntao Wang</code>, Jinkai Zheng, and Zhou Su</div>
@@ -365,7 +365,7 @@ redirect_from:
 </div>
 
 <div class="pub-item">
-  <div><span class="pub-badge b-twc">TWC<br>2026</span></div>
+  <div><span class="pub-badge b-twc">TWC'26</span></div>
   <div>
     <div class="pub-title">Joint Discrete Antenna Positioning and Beamforming Optimization in Movable Antenna Enabled Full-Duplex ISAC Networks</div>
     <div class="pub-authors">Zhendong Li, Jianle Ba, Zhou Su, Haixia Peng, <code>Yuntao Wang</code>, Wen Chen, and Qingqing Wu</div>
@@ -375,7 +375,7 @@ redirect_from:
 </div>
 
 <div class="pub-item">
-  <div><span class="pub-badge b-tvt">TVT<br>2026</span></div>
+  <div><span class="pub-badge b-tvt">TVT'26</span></div>
   <div>
     <div class="pub-title">Optimizing Information Freshness in Grant-Free Communication Under AoI Threshold Constraints</div>
     <div class="pub-authors">Yuanchen Wang, Zhou Su, Qiwei Ren, Kai Zhang, <code>Yuntao Wang</code>, Jian Tang, Yiliang Liu, and Zhongxiang Wei</div>
@@ -385,7 +385,7 @@ redirect_from:
 </div>
 
 <div class="pub-item">
-  <div><span class="pub-badge b-tnse">TNSE<br>2026</span></div>
+  <div><span class="pub-badge b-tnse">TNSE'26</span></div>
   <div>
     <div class="pub-title">Cooperative Edge Content Caching With Popularity Prediction in UAV-Assisted Vehicular Networks</div>
     <div class="pub-authors">Qichao Xu, Mengzhen Cheng, Jie Jin, Zhou Su, Dongfeng Fang, <code>Yuntao Wang</code>, and Yuan Wu</div>
@@ -395,7 +395,7 @@ redirect_from:
 </div>
 
 <div class="pub-item">
-  <div><span class="pub-badge b-arxiv">Arxiv<br>2026</span></div>
+  <div><span class="pub-badge b-arxiv">Arxiv'26</span></div>
   <div>
     <div class="pub-title">Secure UAV Swarms in Low-Altitude Wireless Networks: Challenges and Solutions</div>
     <div class="pub-authors"><code>Yuntao Wang</code>, Haojia Yang, Han Liu, Jianle Ba, and Zhou Su</div>
@@ -404,7 +404,7 @@ redirect_from:
 </div>
 
 <div class="pub-item">
-  <div><span class="pub-badge b-arxiv">Arxiv<br>2026</span></div>
+  <div><span class="pub-badge b-arxiv">Arxiv'26</span></div>
   <div>
     <div class="pub-title">Security of OpenClaw Agents: Fundamentals, Attacks, and Countermeasures</div>
     <div class="pub-authors"><code>Yuntao Wang</code>, Jianle Ba, Han Liu, Yanghe Pan, Jintao Wei, Zhou Su, Tom H Luan, and Linkang Du</div>
@@ -415,7 +415,7 @@ redirect_from:
 <div class="pub-year-divider">2025</div>
 
 <div class="pub-item">
-  <div><span class="pub-badge b-ojcs">OJCS<br>2025</span></div>
+  <div><span class="pub-badge b-ojcs">OJCS'25</span></div>
   <div>
     <div class="pub-title">Security of Internet of Agents: Attacks and Countermeasures</div>
     <div class="pub-authors"><code>Yuntao Wang</code>, Yanghe Pan, Shaolong Guo, and Zhou Su</div>
@@ -425,7 +425,7 @@ redirect_from:
 </div>
 
 <div class="pub-item">
-  <div><span class="pub-badge b-network">Network<br>2025</span></div>
+  <div><span class="pub-badge b-network">Network'25</span></div>
   <div>
     <div class="pub-title">Large Model Empowered Metaverse: State-of-the-Art, Challenges and Opportunities</div>
     <div class="pub-authors"><code>Yuntao Wang</code>, Qinnan Hu, Zhou Su, Linkang Du, Qichao Xu, and Weiwei Li</div>
@@ -435,7 +435,7 @@ redirect_from:
 </div>
 
 <div class="pub-item">
-  <div><span class="pub-badge b-mag">ComMag<br>2025</span></div>
+  <div><span class="pub-badge b-mag">ComMag'25</span></div>
   <div>
     <div class="pub-title">Blockchain-Envisioned UAV-Aided Disaster Relief Networks: Challenges and Solutions</div>
     <div class="pub-authors"><code>Yuntao Wang</code>, Qinnan Hu, Zhendong Li, Zhou Su, Ruidong Li, Xiang Zou, and Jian Zhou</div>
@@ -445,17 +445,17 @@ redirect_from:
 </div>
 
 <div class="pub-item">
-  <div><span class="pub-badge b-infocom">INFOCOM<br>2025</span></div>
+  <div><span class="pub-badge b-infocom">INFOCOM'25</span></div>
   <div>
     <div class="pub-title">ConWatcher: Towards Adaptive and Label-Efficient Online Smart Contract Analysis in Blockchains</div>
     <div class="pub-authors">Qinnan Hu, <code>Yuntao Wang</code>, Zhou Su, Tom H. Luan, and Ruidong Li</div>
-    <div class="pub-venue"><strong>Proceedings of IEEE INFOCOM</strong>, 1-10, 2025.</div>
+    <div class="pub-venue"><strong>Proceedings of IEEE INFOCOM</strong>, London, UK, pp. 1-10, 2025.</div>
     <div class="pub-note"><strong>网络通信领域顶级会议</strong></div>
   </div>
 </div>
 
 <div class="pub-item">
-  <div><span class="pub-badge b-comst">COMST<br>2025</span></div>
+  <div><span class="pub-badge b-comst">COMST'25</span></div>
   <div>
     <div class="pub-title">A Survey on Semantic Communication Networks: Architecture, Security, and Privacy</div>
     <div class="pub-authors">Shaolong Guo, <code>Yuntao Wang</code>, Ning Zhang, Zhou Su, Tom H. Luan, Zhiyi Tian, and Xuemin Shen</div>
@@ -465,7 +465,7 @@ redirect_from:
 </div>
 
 <div class="pub-item">
-  <div><span class="pub-badge b-tdsc">TDSC<br>2025</span></div>
+  <div><span class="pub-badge b-tdsc">TDSC'25</span></div>
   <div>
     <div class="pub-title">A Privacy-Preserving Incentive Scheme for UAV-Aided Federated Learning: A Contract Method With Prospect Theory</div>
     <div class="pub-authors">Liang Xie, Zhou Su, <code>Yuntao Wang</code>, Nan Chen, Yiliang Liu, Rui Wang, Xin Liu, Donglan Liu, and Hao Zhang</div>
@@ -475,7 +475,7 @@ redirect_from:
 </div>
 
 <div class="pub-item">
-  <div><span class="pub-badge b-tifs">TIFS<br>2025</span></div>
+  <div><span class="pub-badge b-tifs">TIFS'25</span></div>
   <div>
     <div class="pub-title">DM-DPL: Toward Discrete Matrixing Differentially Private Learning</div>
     <div class="pub-authors">Jinhao Zhou, Zhou Su, <code>Yuntao Wang</code>, and Jun Wu</div>
@@ -485,7 +485,7 @@ redirect_from:
 </div>
 
 <div class="pub-item">
-  <div><span class="pub-badge b-tmc">TMC<br>2025</span></div>
+  <div><span class="pub-badge b-tmc">TMC'25</span></div>
   <div>
     <div class="pub-title">QoE-Oriented Cooperative VR Rendering and Dynamic Resource Leasing in Metaverse</div>
     <div class="pub-authors">Nan Liu, Tom H. Luan, <code>Yuntao Wang</code>, Yiliang Liu, and Zhou Su</div>
@@ -495,7 +495,7 @@ redirect_from:
 </div>
 
 <div class="pub-item">
-  <div><span class="pub-badge b-jsac">JSAC<br>2025</span></div>
+  <div><span class="pub-badge b-jsac">JSAC'25</span></div>
   <div>
     <div class="pub-title">Knowledge-Aware Privacy-Preserving Model Customization in Zero-Trust Federated Learning Model Marketplaces</div>
     <div class="pub-authors">Yanghe Pan, Zhou Su, <code>Yuntao Wang</code>, Han Liu, Ruidong Li, and Abderrahim Benslimane</div>
@@ -505,7 +505,7 @@ redirect_from:
 </div>
 
 <div class="pub-item">
-  <div><span class="pub-badge b-tifs">TIFS<br>2025</span></div>
+  <div><span class="pub-badge b-tifs">TIFS'25</span></div>
   <div>
     <div class="pub-title">A Practical Federated Learning Framework With Truthful Incentive in UAV-Assisted Crowdsensing</div>
     <div class="pub-authors">Liang Xie, Zhou Su, <code>Yuntao Wang</code>, and Zhendong Li</div>
@@ -515,7 +515,7 @@ redirect_from:
 </div>
 
 <div class="pub-item">
-  <div><span class="pub-badge b-tvt">TVT<br>2025</span></div>
+  <div><span class="pub-badge b-tvt">TVT'25</span></div>
   <div>
     <div class="pub-title">Privacy-Preserving Byzantine-Robust Federated Learning via Deep Reinforcement Learning in Vehicular Networks</div>
     <div class="pub-authors">Yanghe Pan, Zhou Su, <code>Yuntao Wang</code>, Jinhao Zhou, and Mohamed Mahmoud</div>
@@ -525,7 +525,7 @@ redirect_from:
 </div>
 
 <div class="pub-item">
-  <div><span class="pub-badge b-iotj">IoT-J<br>2025</span></div>
+  <div><span class="pub-badge b-iotj">IoT-J'25</span></div>
   <div>
     <div class="pub-title">Collaborative Intrusion Detection Approach Based on Blockchain in Internet of Vehicles</div>
     <div class="pub-authors">Rui Xing, Zhou Su, <code>Yuntao Wang</code></div>
@@ -535,7 +535,7 @@ redirect_from:
 </div>
 
 <div class="pub-item">
-  <div><span class="pub-badge b-vtm">VTM<br>2025</span></div>
+  <div><span class="pub-badge b-vtm">VTM'25</span></div>
   <div>
     <div class="pub-title">Trustworthy Semantic Communication for Vehicular Networks: Challenges and Solutions</div>
     <div class="pub-authors">Yanghe Pan, <code>Yuntao Wang</code>, Shaolong Guo, Chengyu Yin, Ruidong Li, Zhou Su, and Yuan Wu</div>
@@ -545,7 +545,7 @@ redirect_from:
 </div>
 
 <div class="pub-item">
-  <div><span class="pub-badge b-network">Network<br>2025</span></div>
+  <div><span class="pub-badge b-network">Network'25</span></div>
   <div>
     <div class="pub-title">Cloud-Edge Collaborative Large Model Services: Challenges and Solutions</div>
     <div class="pub-authors">Yanghe Pan, Zhou Su, <code>Yuntao Wang</code>, Shaolong Guo, Han Liu, Ruidong Li, and Yuan Wu</div>
@@ -555,7 +555,7 @@ redirect_from:
 </div>
 
 <div class="pub-item">
-  <div><span class="pub-badge b-tifs">TIFS<br>2025</span></div>
+  <div><span class="pub-badge b-tifs">TIFS'25</span></div>
   <div>
     <div class="pub-title">Protecting Your Attention During Distributed Graph Learning: Efficient Privacy-Preserving Federated Graph Attention Network</div>
     <div class="pub-authors">Jinhao Zhou, Jun Wu, Jianbing Ni, <code>Yuntao Wang</code>, Yanghe Pan, and Zhou Su</div>
@@ -565,7 +565,7 @@ redirect_from:
 </div>
 
 <div class="pub-item">
-  <div><span class="pub-badge b-tcom">TCOM<br>2025</span></div>
+  <div><span class="pub-badge b-tcom">TCOM'25</span></div>
   <div>
     <div class="pub-title">Model Predictive Control Enabled UAV Trajectory Optimization and Secure Resource Allocation</div>
     <div class="pub-authors">Zhendong Li, Chang Su, Zhou Su, Haixia Peng, <code>Yuntao Wang</code>, Wen Chen, and Qingqing Wu</div>
@@ -575,7 +575,7 @@ redirect_from:
 </div>
 
 <div class="pub-item">
-  <div><span class="pub-badge b-tvt">TVT<br>2025</span></div>
+  <div><span class="pub-badge b-tvt">TVT'25</span></div>
   <div>
     <div class="pub-title">Blockchain-Based Layered Secure Edge Content Delivery in UAV-Assisted Vehicular Networks</div>
     <div class="pub-authors">Qichao Xu, Jie Jin, Zhou Su, Ruidong Li, <code>Yuntao Wang</code>, Dongfeng Fang, and Yuan Wu</div>
@@ -588,7 +588,7 @@ redirect_from:
 <div class="pub-year-divider">2024</div>
 
 <div class="pub-item">
-  <div><span class="pub-badge b-tifs">TIFS<br>2024</span></div>
+  <div><span class="pub-badge b-tifs">TIFS'24</span></div>
   <div>
     <div class="pub-title">Collaborative Honeypot Defense in UAV Networks: A Learning-Based Game Approach</div>
     <div class="pub-authors"><code>Yuntao Wang</code>, Zhou Su, Abderrahim Benslimane, Qichao Xu, Minghui Dai, and Ruidong Li</div>
@@ -598,7 +598,7 @@ redirect_from:
 </div>
 
 <div class="pub-item">
-  <div><span class="pub-badge b-ton">TON<br>2024</span></div>
+  <div><span class="pub-badge b-ton">TON'24</span></div>
   <div>
     <div class="pub-title">Social-Aware Clustered Federated Learning With Customized Privacy Preservation</div>
     <div class="pub-authors"><code>Yuntao Wang</code>, Zhou Su, Yanghe Pan, Tom H. Luan, Ruidong Li, and Shui Yu</div>
@@ -608,7 +608,7 @@ redirect_from:
 </div>
 
 <div class="pub-item">
-  <div><span class="pub-badge b-tits">TITS<br>2024</span></div>
+  <div><span class="pub-badge b-tits">TITS'24</span></div>
   <div>
     <div class="pub-title">Secured and Cooperative Publish/Subscribe Scheme in Autonomous Vehicular Networks</div>
     <div class="pub-authors"><code>Yuntao Wang</code>, Zhou Su, Qichao Xu, Tom H. Luan, and Rongxing Lu</div>
@@ -618,7 +618,7 @@ redirect_from:
 </div>
 
 <div class="pub-item">
-  <div><span class="pub-badge b-network">Network<br>2024</span></div>
+  <div><span class="pub-badge b-network">Network'24</span></div>
   <div>
     <div class="pub-title">Combating Advanced Persistent Threats: Challenges and Solutions</div>
     <div class="pub-authors"><code>Yuntao Wang</code>, Han Liu, Zhendong Li, Zhou Su, and Jiliang Li</div>
@@ -628,7 +628,7 @@ redirect_from:
 </div>
 
 <div class="pub-item">
-  <div><span class="pub-badge b-tits">TITS<br>2024</span></div>
+  <div><span class="pub-badge b-tits">TITS'24</span></div>
   <div>
     <div class="pub-title">Collaborative Vehicular Threat Sharing: A Long-Term Contract-Based Incentive Mechanism With Privacy Preservation</div>
     <div class="pub-authors">Chao He, <code>Yuntao Wang</code>, Juan Hu, Tom H. Luan, Yuanguo Bi, and Zhou Su</div>
@@ -638,7 +638,7 @@ redirect_from:
 </div>
 
 <div class="pub-item">
-  <div><span class="pub-badge b-tnsm">TNSM<br>2024</span></div>
+  <div><span class="pub-badge b-tnsm">TNSM'24</span></div>
   <div>
     <div class="pub-title">A Two-Stage Secure Incentive Mechanism in App-and UAV-Assisted Crowdsensing</div>
     <div class="pub-authors">Liang Xie, Zhou Su, <code>Yuntao Wang</code></div>
@@ -648,7 +648,7 @@ redirect_from:
 </div>
 
 <div class="pub-item">
-  <div><span class="pub-badge b-iotj">IoT-J<br>2024</span></div>
+  <div><span class="pub-badge b-iotj">IoT-J'24</span></div>
   <div>
     <div class="pub-title">Privacy-Enhanced and Efficient Federated Knowledge Transfer Framework in IoT</div>
     <div class="pub-authors">Yanghe Pan, Zhou Su, <code>Yuntao Wang</code>, Ruidong Li, and Yuan Wu</div>
@@ -658,7 +658,7 @@ redirect_from:
 </div>
 
 <div class="pub-item">
-  <div><span class="pub-badge b-comst">COMST<br>2024</span></div>
+  <div><span class="pub-badge b-comst">COMST'24</span></div>
   <div>
     <div class="pub-title">Beam Alignment in mmWave V2X Communications: A Survey</div>
     <div class="pub-authors">Jingru Tan, Tom H. Luan, Wenbo Guan, <code>Yuntao Wang</code>, Haixia Peng, Yao Zhang, Dongmei Zhao, and Ning Lu</div>
@@ -668,7 +668,7 @@ redirect_from:
 </div>
 
 <div class="pub-item">
-  <div><span class="pub-badge b-ton">TON<br>2024</span></div>
+  <div><span class="pub-badge b-ton">TON'24</span></div>
   <div>
     <div class="pub-title">A Privacy-Preserving Incentive Scheme for Data Sensing in App-Assisted Mobile Edge Crowdsensing</div>
     <div class="pub-authors">Liang Xie, Zhou Su, Nan Chen, <code>Yuntao Wang</code>,  Yiliang Liu, and Ruidong Li</div>
@@ -678,7 +678,7 @@ redirect_from:
 </div>
 
 <div class="pub-item">
-  <div><span class="pub-badge b-tnse">TNSE<br>2024</span></div>
+  <div><span class="pub-badge b-tnse">TNSE'24</span></div>
   <div>
     <div class="pub-title">Privacy-Preserving Heterogeneous Personalized Federated Learning With Knowledge</div>
     <div class="pub-authors">Yanghe Pan, Zhou Su, Jianbing Ni, <code>Yuntao Wang</code>, and Jinhao Zhou</div>
@@ -688,7 +688,7 @@ redirect_from:
 </div>
 
 <div class="pub-item">
-  <div><span class="pub-badge b-tvt">TVT<br>2024</span></div>
+  <div><span class="pub-badge b-tvt">TVT'24</span></div>
   <div>
     <div class="pub-title">USV Fleet-Assisted Collaborative Computation Offloading for Smart Maritime Services: An Energy-Efficient Design</div>
     <div class="pub-authors">Hui Zeng, Zhou Su, Qichao Xu, Ruidong Li, <code>Yuntao Wang</code>, Minghui Dai, Tom H. Luan, Xin Sun, and Donglan Liu</div>
@@ -701,7 +701,7 @@ redirect_from:
 <div class="pub-year-divider">2023</div>
 
 <div class="pub-item">
-  <div><span class="pub-badge b-comst">COMST<br>2023</span></div>
+  <div><span class="pub-badge b-comst">COMST'23</span></div>
   <div>
     <div class="pub-title">A Survey on Metaverse: Fundamentals, Security, and Privacy</div>
     <div class="pub-authors"><code>Yuntao Wang</code>, Zhou Su, Ning Zhang, Rui Xing, Dongxiao Liu, Tom H. Luan, and Xuemin Shen</div>
@@ -711,7 +711,7 @@ redirect_from:
 </div>
 
 <div class="pub-item">
-  <div><span class="pub-badge b-ton">TON<br>2023</span></div>
+  <div><span class="pub-badge b-ton">TON'23</span></div>
   <div>
     <div class="pub-title">A Secure and Intelligent Data Sharing Scheme for UAV-Assisted Disaster Rescue</div>
     <div class="pub-authors"><code>Yuntao Wang</code>, Zhou Su, Qichao Xu, Ruidong Li, Tom H. Luan, and Pinghui Wang</div>
@@ -721,7 +721,7 @@ redirect_from:
 </div>
 
 <div class="pub-item">
-  <div><span class="pub-badge b-tifs">TIFS<br>2023</span></div>
+  <div><span class="pub-badge b-tifs">TIFS'23</span></div>
   <div>
     <div class="pub-title">SEAL: A Strategy-Proof and Privacy-Preserving UAV Computation Offloading Framework</div>
     <div class="pub-authors"><code>Yuntao Wang</code>, Zhou Su, Tom H. Luan, Jiliang Li, Qichao Xu, and Ruidong Li</div>
@@ -731,7 +731,7 @@ redirect_from:
 </div>
 
 <div class="pub-item">
-  <div><span class="pub-badge b-ojcs">OJCS<br>2023</span></div>
+  <div><span class="pub-badge b-ojcs">OJCS'23</span></div>
   <div>
     <div class="pub-title">A Survey on ChatGPT: AI-Generated Contents, Challenges, and Solutions</div>
     <div class="pub-authors"><code>Yuntao Wang</code>, Yanghe Pan, Miao Yan, Zhou Su, and Tom H. Luan</div>
@@ -741,7 +741,7 @@ redirect_from:
 </div>
 
 <div class="pub-item">
-  <div><span class="pub-badge b-iotj">IoT-J<br>2023</span></div>
+  <div><span class="pub-badge b-iotj">IoT-J'23</span></div>
   <div>
     <div class="pub-title">A Survey on Digital Twins: Architecture, Enabling Technologies, Security and Privacy, and Future Prospects</div>
     <div class="pub-authors"><code>Yuntao Wang</code>, Zhou Su, Shaolong Guo, Minghui Dai, Tom H. Luan, and Yiliang Liu</div>
@@ -751,7 +751,7 @@ redirect_from:
 </div>
 
 <div class="pub-item">
-  <div><span class="pub-badge b-cn">通信学报<br>2023</span></div>
+  <div><span class="pub-badge b-cn">通信学报'23</span></div>
   <div>
     <div class="pub-title">基于审计博弈的安全协作频谱感知方案</div>
     <div class="pub-authors"><code>王云涛</code>, 苏洲, 许其超, 刘怡良, 彭海霞, 栾浩</div>
@@ -761,7 +761,7 @@ redirect_from:
 </div>
 
 <div class="pub-item">
-  <div><span class="pub-badge b-mag">IoT Mag<br>2023</span></div>
+  <div><span class="pub-badge b-mag">IoT Mag'23</span></div>
   <div>
     <div class="pub-title">Social Metaverse: Challenges and Solutions</div>
     <div class="pub-authors"><code>Yuntao Wang</code>, Zhou Su, and Miao Yan</div>
@@ -771,7 +771,7 @@ redirect_from:
 </div>
 
 <div class="pub-item">
-  <div><span class="pub-badge b-tifs">TIFS<br>2023</span></div>
+  <div><span class="pub-badge b-tifs">TIFS'23</span></div>
   <div>
     <div class="pub-title">Optimal Repair Strategy Against Advanced Persistent Threats Under Time-Varying Networks</div>
     <div class="pub-authors">Zixuan Wang, Jiliang Li, <code>Yuntao Wang</code>, Zhou Su, Shui Yu, and Weizhi Meng</div>
@@ -781,7 +781,7 @@ redirect_from:
 </div>
 
 <div class="pub-item">
-  <div><span class="pub-badge b-iotj">IoT-J<br>2023</span></div>
+  <div><span class="pub-badge b-iotj">IoT-J'23</span></div>
   <div>
     <div class="pub-title">Energy-Efficient and Physical-Layer Secure Computation Offloading in Blockchain-Empowered Internet of Things</div>
     <div class="pub-authors">Yiliang Liu, Zhou Su, <code>Yuntao Wang</code></div>
@@ -791,7 +791,7 @@ redirect_from:
 </div>
 
 <div class="pub-item">
-  <div><span class="pub-badge b-smc">SMCS<br>2023</span></div>
+  <div><span class="pub-badge b-smc">SMCS'23</span></div>
   <div>
     <div class="pub-title">ParaDefender: A Scenario-Driven Parallel System for Defending Metaverses</div>
     <div class="pub-authors">Jinpeng Han, Manzhi Yang, Xiaoguang Chen, Hongtao Liu, <code>Yuntao Wang</code>, Jianhao Li, Zhou Su, Zhen Li, Xiaobo Ma</div>
@@ -803,7 +803,7 @@ redirect_from:
 <div class="pub-year-divider">2022</div>
 
 <div class="pub-item">
-  <div><span class="pub-badge b-ton">TON<br>2022</span></div>
+  <div><span class="pub-badge b-ton">TON'22</span></div>
   <div>
     <div class="pub-title">Task Offloading for Post-Disaster Rescue in Unmanned Aerial Vehicles Networks</div>
     <div class="pub-authors"><code>Yuntao Wang</code>, Weiwei Chen, Tom H. Luan, Zhou Su, Qichao Xu, Ruidong Li, and Nan Chen</div>
@@ -813,7 +813,7 @@ redirect_from:
 </div>
 
 <div class="pub-item">
-  <div><span class="pub-badge b-jsac">JSAC<br>2022</span></div>
+  <div><span class="pub-badge b-jsac">JSAC'22</span></div>
   <div>
     <div class="pub-title">A Platform-Free Proof of Federated Learning Consensus Mechanism for Sustainable Blockchains</div>
     <div class="pub-authors"><code>Yuntao Wang</code>, Haixia Peng, Zhou Su, Tom H. Luan, Abderrahim Benslimane, and Yuan Wu</div>
@@ -823,7 +823,7 @@ redirect_from:
 </div>
 
 <div class="pub-item">
-  <div><span class="pub-badge b-tdsc">TDSC<br>2022</span></div>
+  <div><span class="pub-badge b-tdsc">TDSC'22</span></div>
   <div>
     <div class="pub-title">LVBS: Lightweight Vehicular Blockchain for Secure Data Sharing in Disaster Rescue</div>
     <div class="pub-authors">Zhou Su（博士导师苏洲）, <code>Yuntao Wang</code>, Qichao Xu, and Ning Zhang</div>
@@ -833,7 +833,7 @@ redirect_from:
 </div>
 
 <div class="pub-item">
-  <div><span class="pub-badge b-comst">COMST<br>2022</span></div>
+  <div><span class="pub-badge b-comst">COMST'22</span></div>
   <div>
     <div class="pub-title">Blockchain-Empowered Space-Air-Ground Integrated Networks: Opportunities, Challenges, and Solutions</div>
     <div class="pub-authors"><code>Yuntao Wang</code>, Zhou Su, Jianbing Ni, Ning Zhang, and Xuemin Shen</div>
@@ -843,7 +843,7 @@ redirect_from:
 </div>
 
 <div class="pub-item">
-  <div><span class="pub-badge b-tnse">TNSE<br>2022</span></div>
+  <div><span class="pub-badge b-tnse">TNSE'22</span></div>
   <div>
     <div class="pub-title">Federated Learning With Fair Incentives and Robust Aggregation for UAV-Aided Crowdsensing</div>
     <div class="pub-authors"><code>Yuntao Wang</code>, Zhou Su, Tom H. Luan, Ruidong Li, and Kuan Zhang</div>
@@ -853,7 +853,7 @@ redirect_from:
 </div>
 
 <div class="pub-item">
-  <div><span class="pub-badge b-tvt">TVT<br>2022</span></div>
+  <div><span class="pub-badge b-tvt">TVT'22</span></div>
   <div>
     <div class="pub-title">A Secure and Efficient Wireless Charging Scheme for Electric Vehicles in Vehicular Energy Networks</div>
     <div class="pub-authors"><code>Yuntao Wang</code>, Tom H. Luan, Zhou Su, Ning Zhang, and Abderrahim Benslimane</div>
@@ -863,7 +863,7 @@ redirect_from:
 </div>
 
 <div class="pub-item">
-  <div><span class="pub-badge b-tvt">TVT<br>2022</span></div>
+  <div><span class="pub-badge b-tvt">TVT'22</span></div>
   <div>
     <div class="pub-title">Blockchain-Based Secure and Cooperative Private Charging Pile Sharing Services for Vehicular Networks</div>
     <div class="pub-authors"><code>Yuntao Wang</code>, Zhou Su, Jiliang Li, Ning Zhang, Kuan Zhang, Kim-Kwang Raymond Choo, and Yang Liu</div>
@@ -873,7 +873,7 @@ redirect_from:
 </div>
 
 <div class="pub-item">
-  <div><span class="pub-badge b-tii">TII<br>2022</span></div>
+  <div><span class="pub-badge b-tii">TII'22</span></div>
   <div>
     <div class="pub-title">Secure and Efficient Federated Learning for Smart Grid With Edge-Cloud Collaboration</div>
     <div class="pub-authors">Zhou Su（博士导师苏洲）, <code>Yuntao Wang</code>, Tom H. Luan, Ning Zhang, Fan Li, Tianyu Chen, and Hong Cao</div>
@@ -883,7 +883,7 @@ redirect_from:
 </div>
 
 <div class="pub-item">
-  <div><span class="pub-badge b-mag">ComMag<br>2022</span></div>
+  <div><span class="pub-badge b-mag">ComMag'22</span></div>
   <div>
     <div class="pub-title">Mobile Wireless Rechargeable UAV Networks: Challenges and Solutions</div>
     <div class="pub-authors"><code>Yuntao Wang</code>, Zhou Su, Ning Zhang, and Ruidong Li</div>
@@ -893,7 +893,7 @@ redirect_from:
 </div>
 
 <div class="pub-item">
-  <div><span class="pub-badge b-tvt">TVT<br>2022</span></div>
+  <div><span class="pub-badge b-tvt">TVT'22</span></div>
   <div>
     <div class="pub-title">A Trust-Driven Contract Incentive Scheme for Mobile Crowd-Sensing Networks</div>
     <div class="pub-authors">Minghui Dai, Zhou Su, Qichao Xu, <code>Yuntao Wang</code>, and Ning Lu</div>
@@ -903,7 +903,7 @@ redirect_from:
 </div>
 
 <div class="pub-item">
-  <div><span class="pub-badge b-tvt">TVT<br>2022</span></div>
+  <div><span class="pub-badge b-tvt">TVT'22</span></div>
   <div>
     <div class="pub-title">UAVs-Aided Delay-Tolerant Blockchain Secure Offline Transactions in Post-Disaster Vehicular Networks</div>
     <div class="pub-authors">Rui Xing, Zhou Su, Tom H. Luan, Qichao Xu, <code>Yuntao Wang</code>, and Ruidong Li</div>
@@ -915,17 +915,17 @@ redirect_from:
 <div class="pub-year-divider">2021</div>
 
 <div class="pub-item">
-  <div><span class="pub-badge b-infocom">INFOCOM<br>2021</span></div>
+  <div><span class="pub-badge b-infocom">INFOCOM'21</span></div>
   <div>
     <div class="pub-title">Lifesaving with RescueChain: Energy-Efficient and Partition-Tolerant Blockchain Based Secure Information Sharing for UAV-Aided Disaster Rescue</div>
     <div class="pub-authors"><code>Yuntao Wang</code>, Zhou Su, Qichao Xu, Ruidong Li, and Tom H. Luan</div>
-    <div class="pub-venue"><strong>Proceedings of IEEE INFOCOM</strong>, 1-10, 2021.</div>
+    <div class="pub-venue"><strong>Proceedings of IEEE INFOCOM</strong>, Vancouver, Canada, pp. 1-10, 2021.</div>
     <div class="pub-note"><strong>网络通信领域顶级会议</strong>，<strong>ESI 高被引论文（全球引用率前 1%）</strong>，<strong>谷歌学术被引 93 次</strong></div>
   </div>
 </div>
 
 <div class="pub-item">
-  <div><span class="pub-badge b-tnse">TNSE<br>2021</span></div>
+  <div><span class="pub-badge b-tnse">TNSE'21</span></div>
   <div>
     <div class="pub-title">Learning in the Air: Secure Federated Learning for UAV-Assisted Crowdsensing</div>
     <div class="pub-authors"><code>Yuntao Wang</code>, Zhou Su, Ning Zhang, and Abderrahim Benslimane</div>
@@ -935,7 +935,7 @@ redirect_from:
 </div>
 
 <div class="pub-item">
-  <div><span class="pub-badge b-tii">TII<br>2021</span></div>
+  <div><span class="pub-badge b-tii">TII'21</span></div>
   <div>
     <div class="pub-title">SPDS: A Secure and Auditable Private Data Sharing Scheme for Smart Grid Based on Blockchain</div>
     <div class="pub-authors"><code>Yuntao Wang</code>, Zhou Su, Ning Zhang, Jianfei Chen, Xin Sun, Zhiyuan Ye, and Zhenyu Zhou</div>
@@ -945,7 +945,7 @@ redirect_from:
 </div>
 
 <div class="pub-item">
-  <div><span class="pub-badge b-mag">WC<br>2021</span></div>
+  <div><span class="pub-badge b-mag">WC'21</span></div>
   <div>
     <div class="pub-title">Disaster Relief Wireless Networks: Challenges and Solutions</div>
     <div class="pub-authors"><code>Yuntao Wang</code>, Zhou Su, Ning Zhang, and Dongliang Fang</div>
@@ -957,7 +957,7 @@ redirect_from:
 <div class="pub-year-divider">2020</div>
 
 <div class="pub-item">
-  <div><span class="pub-badge b-network">Network<br>2020</span></div>
+  <div><span class="pub-badge b-network">Network'20</span></div>
   <div>
     <div class="pub-title">Challenges and Solutions in Autonomous Driving: A Blockchain Approach</div>
     <div class="pub-authors"><code>Yuntao Wang</code>, Zhou Su, Kuan Zhang, and Abderrahim Benslimane</div>
@@ -967,7 +967,7 @@ redirect_from:
 </div>
 
 <div class="pub-item">
-  <div><span class="pub-badge b-tnse">TNSE<br>2020</span></div>
+  <div><span class="pub-badge b-tnse">TNSE'20</span></div>
   <div>
     <div class="pub-title">Task Allocation Scheme for Cyber Physical Social Systems</div>
     <div class="pub-authors">Zhou Su, Minghui Dai, Qifan Qi, <code>Yuntao Wang</code>, Qichao Xu, and Qing Yang</div>
@@ -977,7 +977,7 @@ redirect_from:
 </div>
 
 <div class="pub-item">
-  <div><span class="pub-badge b-network">Network<br>2020</span></div>
+  <div><span class="pub-badge b-network">Network'20</span></div>
   <div>
     <div class="pub-title">An Edge-Driven Security Framework for Intelligent Internet of Things</div>
     <div class="pub-authors">Minghui Dai, Zhou Su, Ruidong Li, <code>Yuntao Wang</code>, Jianbing Ni, and Dongfeng Fang</div>
@@ -987,7 +987,7 @@ redirect_from:
 </div>
 
 <div class="pub-item">
-  <div><span class="pub-badge b-network">Network<br>2020</span></div>
+  <div><span class="pub-badge b-network">Network'20</span></div>
   <div>
     <div class="pub-title">Blockchain-Based Data Security for Artificial Intelligence Applications in 6G Networks</div>
     <div class="pub-authors">Weiwei Li, Zhou Su, Ruidong Li, Kuan Zhang, and <code>Yuntao Wang</code></div>
@@ -999,7 +999,7 @@ redirect_from:
 <div class="pub-year-divider">2019</div>
 
 <div class="pub-item">
-  <div><span class="pub-badge b-tii">TII<br>2019</span></div>
+  <div><span class="pub-badge b-tii">TII'19</span></div>
   <div>
     <div class="pub-title">BSIS: Blockchain-Based Secure Incentive Scheme for Energy Delivery in Vehicular Energy Network</div>
     <div class="pub-authors"><code>Yuntao Wang</code>, Zhou Su, and Ning Zhang</div>
@@ -1009,7 +1009,7 @@ redirect_from:
 </div>
 
 <div class="pub-item">
-  <div><span class="pub-badge b-tvt">TVT<br>2019</span></div>
+  <div><span class="pub-badge b-tvt">TVT'19</span></div>
   <div>
     <div class="pub-title">A Novel Charging Scheme for Electric Vehicles With Smart Communities in Vehicular Networks</div>
     <div class="pub-authors"><code>Yuntao Wang</code>, Zhou Su, Qichao Xu, Tingting Yang, and Ning Zhang</div>
@@ -1019,7 +1019,7 @@ redirect_from:
 </div>
 
 <div class="pub-item">
-  <div><span class="pub-badge b-iotj">IoT-J<br>2019</span></div>
+  <div><span class="pub-badge b-iotj">IoT-J'19</span></div>
   <div>
     <div class="pub-title">A Secure Charging Scheme for Electric Vehicles With Smart Communities in Energy Blockchain</div>
     <div class="pub-authors">Zhou Su（博士导师苏洲）, <code>Yuntao Wang</code>, Qichao Xu, Minrui Fei, Yiming Tian, and Ning Zhang</div>
@@ -1029,7 +1029,7 @@ redirect_from:
 </div>
 
 <div class="pub-item">
-  <div><span class="pub-badge b-tvt">Book Chapter<br>2024</span></div>
+  <div><span class="pub-badge b-tvt">Book Chapter'24</span></div>
   <div>
     <div class="pub-title">Security Issues in Metaverse</div>
     <div class="pub-authors"><code>Yuntao Wang</code>, Zhou Su, Ning Zhang, Dongxiao Liu, Rui Xing, Tom H. Luan, and Xuemin Sheng</div>
@@ -1038,7 +1038,7 @@ redirect_from:
 </div>
 
 <div class="pub-item">
-  <div><span class="pub-badge b-tvt">教材<br>2025</span></div>
+  <div><span class="pub-badge b-tvt">教材'25</span></div>
   <div>
     <div class="pub-title">无人系统安全</div>
      <div class="pub-authors">苏洲, <code>王云涛</code>, 栾浩, 潘洋河, 郭少龙, 胡钦南</div>
