@@ -165,7 +165,7 @@ redirect_from:
   <div>
     <div class="pub-title">Privacy-Utility Trade-Off in Federated LLM Fine-Tuning: A Dynamic Game Approach</div>
     <div class="pub-authors"><code>Yuntao Wang</code>, Kun Qian, Yanghe Pan, Zhou Su, and Wei Wang</div>
-    <div class="pub-venue"><strong>IEEE Transactions on Networking (TON)</strong>, 34: 3242-3257, 2026.</div>
+    <div class="pub-venue"><strong>IEEE Transactions on Networking (TON)</strong>, 34: 3242-3257, Jan. 2026.</div>
     <div class="pub-note"><strong>计算机网络领域顶级期刊</strong>，影响因子 5.3</div>
   </div>
 </div>
@@ -225,17 +225,17 @@ redirect_from:
   <div>
     <div class="pub-title">URLcoat: Exploiting Web Search Capability to Jailbreak Large Language Models</div>
     <div class="pub-authors">Yiheng Sun, Linkang Du, Zhou Su, <code>Yuntao Wang</code>, and Han Liu</div>
-    <div class="pub-venue"><strong>Proceedings of IEEE S&amp;P (Oakland)</strong>, 2026.</div>
+    <div class="pub-venue"><strong>Proceedings of IEEE S&amp;P (Oakland)</strong>, San Francisco, USA, pp. 59-77, 2026.</div>
     <div class="pub-note"><strong>安全领域四大顶会</strong></div>
   </div>
 </div>
 
 <div class="pub-item">
-  <div><span class="pub-badge b-usenix">USENIX<br>2026</span></div>
+  <div><span class="pub-badge b-usenix">Security<br>2026</span></div>
   <div>
     <div class="pub-title">Unveiling the Pitfalls of Data-Free Backdoor Detection Against Pre-Trained Models</div>
     <div class="pub-authors">Quan Zhao, Linkang Du, <code>Yuntao Wang</code>, Zhou Su, Zheng Li, Xiangshan Gao, and Yang Zhang</div>
-    <div class="pub-venue"><strong>Proceedings of USENIX Security</strong>, 2026.</div>
+    <div class="pub-venue"><strong>Proceedings of USENIX Security</strong>, Baltimore, USA, pp.1-20, 2026.</div>
     <div class="pub-note"><strong>安全领域四大顶会</strong></div>
   </div>
 </div>
@@ -245,7 +245,7 @@ redirect_from:
   <div>
     <div class="pub-title">Incentivizing Truthful Machine Unlearning via Hierarchical Auditing</div>
     <div class="pub-authors">Shaolong Guo, <code>Yuntao Wang</code>*, Zhou Su*, and Tom H. Luan</div>
-    <div class="pub-venue"><strong>Proceedings of IJCAI</strong>, 1-9, 2026.</div>
+    <div class="pub-venue"><strong>Proceedings of IJCAI</strong>, Bremen, Germany, pp. 1-9, 2026.</div>
     <div class="pub-note"><strong>人工智能领域顶级会议</strong>，<strong>Core A* 类会议</strong>，<strong>当年录取率 13.0%</strong>（*通信作者）</div>
   </div>
 </div>
@@ -255,7 +255,7 @@ redirect_from:
   <div>
     <div class="pub-title">Towards Scalable Metaverse Systems with Social-Aware VR Displays</div>
     <div class="pub-authors">Shaolong Guo, <code>Yuntao Wang</code>*, Qinnan Hu, Zhou Su*, and Tom H. Luan</div>
-    <div class="pub-venue"><strong>Proceedings of IJCAI</strong>, 1-9, 2026.</div>
+    <div class="pub-venue"><strong>Proceedings of IJCAI</strong>, Bremen, Germany, pp. 1-9, 2026.</div>
     <div class="pub-note"><strong>人工智能领域顶级会议</strong>，<strong>Core A* 类会议</strong>，<strong>当年录取率 13.0%</strong>（*通信作者）</div>
   </div>
 </div>
@@ -311,11 +311,21 @@ redirect_from:
 </div>
 
 <div class="pub-item">
+  <div><span class="pub-badge b-tnse">TCCN<br>2026</span></div>
+  <div>
+    <div class="pub-title">An Efficient Privacy-Preserving Retrieval Scheme for Cloud-Based Retrieval-Augmented Generation</div>
+    <div class="pub-authors">Yuan Chang, Tom H. Luan, <code>Yuntao Wang</code>, Linkang Du, Chengyi Dong, Zhou Su</div>
+    <div class="pub-venue"><strong>IEEE Transactions on Cognitive Communications and Networking (TCCN)</strong>, doi: 10.1109/TCCN.2026.3705821, 2026.</div>
+    <div class="pub-note"><strong>网络管理领域顶级期刊</strong>，影响因子 7.3</div>
+  </div>
+</div>
+
+<div class="pub-item">
   <div><span class="pub-badge b-network">Network<br>2026</span></div>
   <div>
     <div class="pub-title">Agent Discovery in Internet of Agents: Challenges and Solutions</div>
     <div class="pub-authors">Shaolong Guo, <code>Yuntao Wang</code>, Zhou Su, Yanghe Pan, Qinnan Hu, and Tom H. Luan</div>
-    <div class="pub-venue"><strong>IEEE Network</strong>, Early Access, 2026.</div>
+    <div class="pub-venue"><strong>IEEE Network</strong>, doi: 10.1109/MNET.2026.3663837, 2026.</div>
     <div class="pub-note"><strong>网络领域权威期刊</strong>，影响因子 8.8</div>
   </div>
 </div>
