@@ -40,8 +40,7 @@ redirect_from:
 - *2022*, 博士毕业于西安交通大学
 - *2022*, 西安交通大学 电信学部 网络空间安全学院，担任助理教授、硕士生导师
 - *2026*, 西安交通大学 电信学部 网络空间安全学院，担任特聘研究员（副教授）、博士生导师
- 
-<span class='anchor' id='-lwcg'></span>
+
 
 # 📝 代表性论文成果
 
@@ -72,7 +71,7 @@ redirect_from:
 15. `王云涛`, 何春林, 苏洲, "面向高级持续性威胁的卫星互联网最优修复策略," **中国科学: 信息科学**, 56(3): 603-619 (2026) **CCF-A类中文期刊，中科院一区，影响因子8.1**，计算机与信息领域中文顶刊 🔗 [PDF](http://scis.scichina.com/cn/2026/SSI-2025-0462.pdf) 
 
 
-<span class='anchor' id='-gjjx'></span>
+<span class='anchor' id='-lwcg'></span>
 
 # 📝 代表性论文成果
 
@@ -130,7 +129,7 @@ IEEE Communications Surveys & Tutorials (COMST), 25(1): 319-352, 2023 <br>
 </tr>
 </table>
 
-
+<span class='anchor' id='-gjjx'></span>
 
 # 🏅 国际奖项
 - 入选2025年度**科睿唯安全球高被引学者 (Clarivate Highly Cited Researchers)**
