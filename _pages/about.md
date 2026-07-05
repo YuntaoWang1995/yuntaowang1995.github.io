@@ -48,7 +48,7 @@ redirect_from:
 <table>
 <tr>
 <td width="110" align="center">
-  <img src="https://img.shields.io/badge/COMST-2023-1f77b4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/COMST'23-1f77b4?style=for-the-badge" />
 </td>
 <td>
 
@@ -66,7 +66,7 @@ redirect_from:
 
 <tr>
 <td width="110" align="center">
-  <img src="https://img.shields.io/badge/TON-2022-2ca02c?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TON'22-2ca02c?style=for-the-badge" />
 </td>
 <td>
 
@@ -83,7 +83,7 @@ redirect_from:
 
 <tr>
 <td width="110" align="center">
-  <img src="https://img.shields.io/badge/TON-2023-d62728?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TON'23-d62728?style=for-the-badge" />
 </td>
 <td>
 
