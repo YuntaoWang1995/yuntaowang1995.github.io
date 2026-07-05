@@ -64,7 +64,11 @@ redirect_from:
 
 10. Zhou Su（博士导师苏洲）, `Yuntao Wang`, Qichao Xu, and Ning Zhang, "LVBS: Lightweight Vehicular Blockchain for Secure Data Sharing in Disaster Rescue," **IEEE Transactions on Dependable and Secure Computing (TDSC)**, 19(1): 19-32 (2022) **网络与信息安全领域顶级期刊**，影响因子6.8，**ESI热点论文（全球引用率前0.1%）**，**谷歌学术被引282次**
 
-13. `Yuntao Wang`, Zhou Su, Ning Zhang, and Abderrahim Benslimane, "Learning in the Air: Secure Federated Learning for UAV-Assisted Crowdsensing," **IEEE Transactions on Network Science and Engineering (TNSE)**, 8(2): 1055-1069 (2021) **网络管理领域顶级期刊**，影响因子7.3，**ESI高被引论文（Top 1%）**，**谷歌学术被引370次**
+11. `Yuntao Wang`, Yanghe Pan, Zhou Su, Yi Deng, Quan Zhao, Linkang Du, Tom H. Luan, Jiawen Kang, and Dusit Niyato, "Large Model-Based Agents: State-of-the-Art, Cooperation Paradigms, Security and Privacy, and Future Trends," **IEEE Communications Surveys & Tutorials (COMST)**, 28: 1906-1949 (2026) **影响因子50.6**，**ESI高被引论文（Top 1%）**，**谷歌学术被引100次** 🔗 [PDF](https://arxiv.org/pdf/2409.14457)
+  
+12. `Yuntao Wang`, Zhou Su, Ning Zhang, and Abderrahim Benslimane, "Learning in the Air: Secure Federated Learning for UAV-Assisted Crowdsensing," **IEEE Transactions on Network Science and Engineering (TNSE)**, 8(2): 1055-1069 (2021) **网络管理领域顶级期刊**，影响因子7.3，**ESI高被引论文（Top 1%）**，**谷歌学术被引370次**
+
+13. `Yuntao Wang`, Zhou Su, Ning Zhang, Jianfei Chen, Xin Sun, Zhiyuan Ye, and Zhenyu Zhou, "SPDS: A Secure and Auditable Private Data Sharing Scheme for Smart Grid Based on Blockchain," **IEEE Transactions on Industrial Informatics (TII)**, 17(11): 7688-7699 (2021) **工业信息领域顶级期刊**，影响因子9.9，**谷歌学术被引194次**
 
 14. `Yuntao Wang`, Zhou Su, and Ning Zhang, "BSIS: Blockchain-Based Secure Incentive Scheme for Energy Delivery in Vehicular Energy Network," **IEEE Transactions on Industrial Informatics (TII)**, 15(6): 3620-3631 (2019) **工业信息领域顶级期刊**，影响因子9.8，**谷歌学术被引265次**
 
