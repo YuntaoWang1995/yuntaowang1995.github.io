@@ -42,7 +42,7 @@ redirect_from:
 - *2026*, 西安交通大学 电信学部 网络空间安全学院，担任特聘研究员（副教授）、博士生导师
 
 
-# 📝 代表性论文成果
+# 🌸 代表性论文成果
 
 1. `Yuntao Wang`, Zhou Su, Ning Zhang, Rui Xing, Dongxiao Liu, Tom H. Luan, and Xuemin Shen, "A Survey on Metaverse: Fundamentals, Security, and Privacy," **IEEE Communications Surveys & Tutorials (COMST)**, 25(1): 319-352 (2023) **计算机与信息领域影响因子最高期刊 (影响因子50.6)**，**ESI热点论文（全球引用率前0.1%）**，**谷歌学术被引2100余次** 🔗 [PDF](https://arxiv.org/pdf/2203.02662) · [Cite](...)
 
