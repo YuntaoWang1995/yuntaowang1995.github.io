@@ -1029,16 +1029,16 @@ redirect_from:
 </div>
 
 <div class="pub-item">
-  <div><span class="pub-badge b-tvt">Book Chapter'24</span></div>
+  <div><span class="pub-badge b-tvt">Book Chapter</span></div>
   <div>
-    <div class="pub-title">Security Issues in Metaverse</div>
+    <div class="pub-title">Chapter 9: Security Issues in Metaverse</div>
     <div class="pub-authors"><code>Yuntao Wang</code>, Zhou Su, Ning Zhang, Dongxiao Liu, Rui Xing, Tom H. Luan, and Xuemin Sheng</div>
-    <div class="pub-venue"><strong>Metaverse Communication and Computing Networks: Applications, Technologies, and Approaches</strong>, Wiley-IEEE Press, pp.205-239, 2024.</div>
+    <div class="pub-venue"><strong>Book: Metaverse Communication and Computing Networks: Applications, Technologies, and Approaches</strong>, <strong>Wiley-IEEE Press</strong>, pp.205-239, 2024.</div>
   </div>
 </div>
 
 <div class="pub-item">
-  <div><span class="pub-badge b-tvt">教材'25</span></div>
+  <div><span class="pub-badge b-tvt">教材</span></div>
   <div>
     <div class="pub-title">无人系统安全</div>
      <div class="pub-authors">苏洲, <code>王云涛</code>, 栾浩, 潘洋河, 郭少龙, 胡钦南</div>
