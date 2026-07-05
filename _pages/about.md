@@ -973,7 +973,7 @@ redirect_from:
     <div class="pub-title">Blockchain-Based Data Security for Artificial Intelligence Applications in 6G Networks</div>
     <div class="pub-authors">Weiwei Li, Zhou Su, Ruidong Li, Kuan Zhang, and <code>Yuntao Wang</code></div>
     <div class="pub-venue"><strong>IEEE Network</strong>, 34(6): 31-37, Nov. 2020.</div>
-    <div class="pub-note"><strong>网络领域权威期刊</strong>，影响因子 8.8</div>
+    <div class="pub-note"><strong>网络领域权威期刊</strong>，影响因子 8.8, <strong>谷歌学术被引 213 次</strong></div>
   </div>
 </div>
 
