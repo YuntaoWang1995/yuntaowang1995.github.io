@@ -165,7 +165,7 @@ redirect_from:
 <div class="pub-year-divider first-year">2026</div>
 
 <div class="pub-item">
-  <div><span class="pub-badge b-ton">TON<br>2026</span></div>
+  <div><span class="pub-badge b-ton">TON'26</span></div>
   <div>
     <div class="pub-title">Privacy-Utility Trade-Off in Federated LLM Fine-Tuning: A Dynamic Game Approach</div>
     <div class="pub-authors"><code>Yuntao Wang</code>, Kun Qian, Yanghe Pan, Zhou Su, and Wei Wang</div>
@@ -175,7 +175,7 @@ redirect_from:
 </div>
 
 <div class="pub-item">
-  <div><span class="pub-badge b-comst">COMST<br>2026</span></div>
+  <div><span class="pub-badge b-comst">COMST'26</span></div>
   <div>
     <div class="pub-title">Large Model-Based Agents: State-of-the-Art, Cooperation Paradigms, Security and Privacy, and Future Trends</div>
     <div class="pub-authors"><code>Yuntao Wang</code>, Yanghe Pan, Zhou Su, Yi Deng, Quan Zhao, Linkang Du, Tom H. Luan, Jiawen Kang, and Dusit Niyato</div>
@@ -185,7 +185,7 @@ redirect_from:
 </div>
 
 <div class="pub-item">
-  <div><span class="pub-badge b-tccn">TCCN<br>2026</span></div>
+  <div><span class="pub-badge b-tccn">TCCN'26</span></div>
   <div>
     <div class="pub-title">Internet of Agents: Fundamentals, Applications, and Challenges</div>
     <div class="pub-authors"><code>Yuntao Wang</code>, Shaolong Guo, Yanghe Pan, Zhou Su, Fahao Chen, Tom H. Luan, Peng Li, Jiawen Kang, and Dusit Niyato</div>
@@ -195,7 +195,7 @@ redirect_from:
 </div>
 
 <div class="pub-item">
-  <div><span class="pub-badge b-iotj">IoT-J<br>2026</span></div>
+  <div><span class="pub-badge b-iotj">IoT-J'26</span></div>
   <div>
     <div class="pub-title">Navigating Embodied Intelligence: Enabling Technologies, Security and Privacy, and Emerging Trends</div>
     <div class="pub-authors"><code>Yuntao Wang</code>, Xiaolin Niu, Jianle Ba, Zhou Su, and Linkang Du</div>
@@ -205,7 +205,7 @@ redirect_from:
 </div>
 
 <div class="pub-item">
-  <div><span class="pub-badge b-cn">中国科学<br>2026</span></div>
+  <div><span class="pub-badge b-cn">中国科学26</span></div>
   <div>
     <div class="pub-title">面向高级持续性威胁的卫星互联网最优修复策略</div>
     <div class="pub-authors"><code>王云涛</code>, 何春林, 苏洲</div>
