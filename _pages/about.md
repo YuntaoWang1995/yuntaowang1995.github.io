@@ -902,7 +902,7 @@ redirect_from:
   </div>
 </div>
 
-<div class="pub-item">
+<div class="pub-item" style="display:none">
   <div><span class="pub-badge b-tvt">TVT'22</span></div>
   <div>
     <div class="pub-title">UAVs-Aided Delay-Tolerant Blockchain Secure Offline Transactions in Post-Disaster Vehicular Networks</div>
