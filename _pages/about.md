@@ -334,7 +334,7 @@ redirect_from:
   </div>
 </div>
 
-<div class="pub-item">
+<div class="pub-item" style="display:none">
   <div><span class="pub-badge b-tnse">TNSE'26</span></div>
   <div>
     <div class="pub-title">QoE-Oriented Task Offloading in SAG Integrated IoT: An Interactive Dual-Agent PPO Approach</div>
