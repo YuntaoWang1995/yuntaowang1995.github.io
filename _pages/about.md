@@ -344,7 +344,7 @@ redirect_from:
   </div>
 </div>
 
-<div class="pub-item">
+<div class="pub-item" style="display:none">
   <div><span class="pub-badge b-tnse">TNSE'26</span></div>
   <div>
     <div class="pub-title">SafeRAG: Secure Cloud-Based Retrieval-Augmented Generation for LLM-Empowered Voice Assistants</div>
@@ -354,7 +354,7 @@ redirect_from:
   </div>
 </div>
 
-<div class="pub-item">
+<div class="pub-item" style="display:none">
   <div><span class="pub-badge b-tnse">TNSE'26</span></div>
   <div>
     <div class="pub-title">Privacy-Preserving K-Means Clustering for Vehicular Driving Behavior Analysis</div>
@@ -364,7 +364,7 @@ redirect_from:
   </div>
 </div>
 
-<div class="pub-item">
+<div class="pub-item" style="display:none">
   <div><span class="pub-badge b-twc">TWC'26</span></div>
   <div>
     <div class="pub-title">Joint Discrete Antenna Positioning and Beamforming Optimization in Movable Antenna Enabled Full-Duplex ISAC Networks</div>
@@ -374,7 +374,7 @@ redirect_from:
   </div>
 </div>
 
-<div class="pub-item">
+<div class="pub-item" style="display:none">
   <div><span class="pub-badge b-tvt">TVT'26</span></div>
   <div>
     <div class="pub-title">Optimizing Information Freshness in Grant-Free Communication Under AoI Threshold Constraints</div>
@@ -384,7 +384,7 @@ redirect_from:
   </div>
 </div>
 
-<div class="pub-item">
+<div class="pub-item" style="display:none">
   <div><span class="pub-badge b-tnse">TNSE'26</span></div>
   <div>
     <div class="pub-title">Cooperative Edge Content Caching With Popularity Prediction in UAV-Assisted Vehicular Networks</div>
@@ -564,7 +564,7 @@ redirect_from:
   </div>
 </div>
 
-<div class="pub-item">
+<div class="pub-item" style="display:none">
   <div><span class="pub-badge b-tcom">TCOM'25</span></div>
   <div>
     <div class="pub-title">Model Predictive Control Enabled UAV Trajectory Optimization and Secure Resource Allocation</div>
@@ -574,7 +574,7 @@ redirect_from:
   </div>
 </div>
 
-<div class="pub-item">
+<div class="pub-item" style="display:none">
   <div><span class="pub-badge b-tvt">TVT'25</span></div>
   <div>
     <div class="pub-title">Blockchain-Based Layered Secure Edge Content Delivery in UAV-Assisted Vehicular Networks</div>
@@ -677,7 +677,7 @@ redirect_from:
   </div>
 </div>
 
-<div class="pub-item">
+<div class="pub-item" style="display:none">
   <div><span class="pub-badge b-tnse">TNSE'24</span></div>
   <div>
     <div class="pub-title">Privacy-Preserving Heterogeneous Personalized Federated Learning With Knowledge</div>
@@ -687,7 +687,7 @@ redirect_from:
   </div>
 </div>
 
-<div class="pub-item">
+<div class="pub-item" style="display:none">
   <div><span class="pub-badge b-tvt">TVT'24</span></div>
   <div>
     <div class="pub-title">USV Fleet-Assisted Collaborative Computation Offloading for Smart Maritime Services: An Energy-Efficient Design</div>
@@ -761,7 +761,7 @@ redirect_from:
 </div>
 
 <div class="pub-item">
-  <div><span class="pub-badge b-mag">IoT Mag'23</span></div>
+  <div><span class="pub-badge b-mag">IoTM'23</span></div>
   <div>
     <div class="pub-title">Social Metaverse: Challenges and Solutions</div>
     <div class="pub-authors"><code>Yuntao Wang</code>, Zhou Su, and Miao Yan</div>
@@ -790,7 +790,7 @@ redirect_from:
   </div>
 </div>
 
-<div class="pub-item">
+<div class="pub-item" style="display:none">
   <div><span class="pub-badge b-smc">SMCS'23</span></div>
   <div>
     <div class="pub-title">ParaDefender: A Scenario-Driven Parallel System for Defending Metaverses</div>
