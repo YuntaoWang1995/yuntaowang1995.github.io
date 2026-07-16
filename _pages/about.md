@@ -269,7 +269,7 @@ redirect_from:
   <div>
     <div class="pub-title">Unlearning or Not: A Strategic Data Forgetting Scheme for Federated Unlearning with Bounded Rationality</div>
     <div class="pub-authors">Liang Xie, <code>Yuntao Wang</code>, Hengzhi Wang, Chunlin He, Huitong Jin, and Laizhong Cui</div>
-    <div class="pub-venue"><strong>IEEE Transactions on Dependable and Secure Computing (TDSC)</strong>, accepted, 2026.</div>
+    <div class="pub-venue"><strong>IEEE Transactions on Dependable and Secure Computing (TDSC)</strong>, DOI:10.1109/TDSC.2026.3714771, 2026.</div>
     <div class="pub-note"><strong>网络与信息安全领域顶级期刊</strong>，影响因子 6.8</div>
   </div>
 </div>
