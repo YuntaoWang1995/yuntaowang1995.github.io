@@ -418,7 +418,7 @@ redirect_from:
   <div>
     <div class="pub-title">Security of OpenClaw Agents: Fundamentals, Attacks, and Countermeasures</div>
     <div class="pub-authors"><code>Yuntao Wang</code>, Jianle Ba, Han Liu, Yanghe Pan, Jintao Wei, Zhou Su, Tom H Luan, and Linkang Du</div>
-    <div class="pub-venue">Arxiv preprint, submitted to IEEE TNSE, pp. 1-17, 2026.</div>
+    <div class="pub-venue">Arxiv preprint, pp. 1-17, 2026.</div>
   </div>
 </div>
 
