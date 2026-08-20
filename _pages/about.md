@@ -1110,10 +1110,9 @@ redirect_from:
 - IEEE Transactions on Artificial Intelligence(JCR 一区)
 - IEEE Transactions on Energy Markets, Policy and Regulation(JCR 一区)
 - IEEE Internet of Things Journal (JCR 一区，IF：10.238)
-- IEEE Communications Magazine (JCR 一区，IF：9.03)
-- TPC member of IEEE ICC24~26, GlobeCom24~26, VTC24~26, IEEE INFOCOM ICCN 2023, IEEE WCSP'19, IEEE WCSP'23
-- Session Chair of IEEE ICC'23 - CISS Symposium (Rome, Italy)
+- IEEE Communications Magazine, IEEE Network, IEEE Wireless Communications (JCR 一区)
+- AAAI 2026, ACM MM 2026, NeurIPS 2026
 1. TPC member of
-- ICC24~26, GlobeCom24~26, VTC24~26, IEEE INFOCOM ICCN 2023, IEEE WCSP'19, IEEE WCSP'23
+- IEEE ICC24~26, IEEE GlobeCom24~26, IEEE VTC24~26, IEEE INFOCOM ICCN 2023, IEEE WCSP'19, IEEE WCSP'23
 2. Session Chair of IEEE ICC'23 - CISS Symposium (Rome, Italy)
 
