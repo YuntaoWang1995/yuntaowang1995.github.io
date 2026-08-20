@@ -1089,8 +1089,9 @@ redirect_from:
 
 # 🌏 学术服务
 1. 期刊编委
-- 中国计算机学会T1 级期刊《电子与信息学报》，青年编委
-- 中国通信学会T2 级期刊《网络空间安全科学学报》无人机网络安全专题，责任编委
+- 中国计算机学会T1级期刊《电子与信息学报》，青年编委
+- 中国通信学会T2级期刊《网络空间安全科学学报》无人机网络安全专题，责任编委
+- 中国通信学会T1级期刊，中国计算机学会T2级期刊《中国通信（英文版）》（China Communications），青年编委
 1. Reviewer for
 - IEEE Transactions on Dependable and Secure Computing(CCFA，JCR一区，IF：6.791)
 - IEEE Transactions on Information Forensics and Security(CCFA，JCR一区，IF：7.231)
